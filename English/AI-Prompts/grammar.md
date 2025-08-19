@@ -38,7 +38,7 @@ These templates are great for recognition and reinforcement of grammatical rules
 
 Example:
 ```
-I am studying English using "Essential Grammar in Use" book, please help me to practice grammar point of Unit 49 by create 30 quiz/question related to grammar of Unit 49. After that, give me a hint for each answer and give me the correct answer for questions. The question in type of multiple choices of A/B/C/D
+I am studying English using "Essential Grammar in Use" book, please help me to practice grammar point of Unit 50 by create 30 quiz/question related to grammar of Unit 50. After that, give me a hint for each answer and give me the correct answer for questions. The question in type of multiple choices of A/B/C/D
 ```
 
 3. Interactive Dialogue Prompts
