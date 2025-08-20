@@ -1,183 +1,243 @@
-Here are 20 multiple-choice questions to help you practice the grammar point of Unit 2, "am/is/are (questions)," from the "Essential Grammar in Use" book. Each question includes a hint, the correct answer, and a detailed explanation of why that answer is correct, drawing directly from the source material.
+Here are 30 quiz questions related to Unit 02, "**am/is/are (questions)**", from your "Essential Grammar in Use" book, complete with hints and answers as requested. This unit focuses on forming questions using "am," "is," and "are," as well as providing short answers.
 
 ***
 
-1.  **____ you married?**
+1.  ____ you from London?
     A) Am
     B) Is
-    C) Are
-    D) Be
-    *   **Hint:** Consider the correct form of the verb 'to be' that precedes the pronoun "you" in a question.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section A, clearly shows the question form for "you" as **"Are you...?"**. For example, the source provides the direct example "**Are you** married?".
+    C) **Are**
+    D) Do
+    **Hint:** For the subject "you" in a question, use "are".
+    **Answer:** C) **Are**
 
-2.  **____ I late?**
-    A) Is
-    B) Am
+2.  ____ she a doctor?
+    A) Am
+    B) **Is**
+    C) Are
+    D) Does
+    **Hint:** For the subject "she" in a question, use "is".
+    **Answer:** B) **Is**
+
+3.  ____ he tired?
+    A) Am
+    B) **Is**
     C) Are
     D) Do
-    *   **Hint:** What is the specific form of 'to be' used when the subject is "I" in a question?
-    *   **Answer:** B
-    *   **Explanation:** Unit 2, Section A, indicates that the question form for "I" is **"Am I...?"**. An example given is "**Am I** late?".
+    **Hint:** For the subject "he" in a question, use "is".
+    **Answer:** B) **Is**
 
-3.  **____ your mother at home?**
-    A) Are
-    B) Am
-    C) Is
-    D) Be
-    *   **Hint:** "Your mother" is a singular subject, equivalent to "she."
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section A, illustrates that for singular subjects like "he/she/it," the question form starts with "**Is**." The source provides the example "**Is** your mother at home?".
-
-4.  **____ David your name?**
-    A) Is
-    B) Am
-    C) Are
-    D) What
-    *   **Hint:** The word "name" is singular, and you are asking about it.
-    *   **Answer:** A
-    *   **Explanation:** Unit 2, Section A, shows "**What's your name?**" (What is your name?). This implies that when asking about a singular noun, the verb "is" is used. In this case, "David" is being identified as "your name," making it a singular identity.
-
-5.  **____ your parents well?**
-    A) Is
-    B) Am
+4.  ____ it cold in the room?
+    A) Am
+    B) **Is**
     C) Are
     D) Does
-    *   **Hint:** "Your parents" is a plural subject.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section A, demonstrates that for plural subjects like "we/you/they," the question form uses "**Are**." The example provided is "**Are** your parents at home?".
+    **Hint:** For the subject "it" in a question, use "is".
+    **Answer:** B) **Is**
 
-6.  **____ it cold today?**
+5.  ____ we late for the meeting?
     A) Am
     B) Is
-    C) Are
-    D) Has
-    *   **Hint:** The subject "it" (referring to the weather/day) is singular.
-    *   **Answer:** B
-    *   **Explanation:** Unit 2, Section A, indicates that the question form for "it" is "**Is it...?**". This applies to weather or general conditions.
+    C) **Are**
+    D) Do
+    **Hint:** For the subject "we" in a question, use "are".
+    **Answer:** C) **Are**
 
-7.  **Yes, I ____.**
-    A) am
-    B) is
-    C) are
-    D) be
-    *   **Hint:** This is a short, positive answer to an "Am I...?" question.
-    *   **Answer:** A
-    *   **Explanation:** Unit 2, Section C, explicitly lists "**Yes, I am**" as the short answer form for questions starting with "Am I...?".
-
-8.  **No, they ____.**
-    A) isn't
-    B) am not
-    C) aren't
-    D) not are
-    *   **Hint:** This is a short, negative answer for a plural subject.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section C, states that the negative short answer form for "we/you/they" is "**No, they aren't**".
-
-9.  **No, he ____.**
-    A) isn't
-    B) am not
-    C) aren't
-    D) not is
-    *   **Hint:** This is a short, negative answer for a singular male subject.
-    *   **Answer:** A
-    *   **Explanation:** Unit 2, Section C, provides "**No, he isn't**" as the negative short answer form for "he/she/it".
-
-10. **What ____ your favorite color?**
-    A) am
-    B) are
-    C) is
-    D) do
-    *   **Hint:** "Color" is a singular noun, and "what" refers to it.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section B, shows examples like "**What is** your name?" and "**What is** the time?". Since "color" is singular, "is" is the correct verb.
-
-11. **Where ____ you from?**
-    A) is
-    B) am
-    C) are
-    D) be
-    *   **Hint:** The pronoun "you" requires a specific form of 'to be' in a question.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section B, explicitly uses the example "**Where are you from?**" to illustrate questions with 'where'.
-
-12. **____ your shoes nice?**
-    A) Is
-    B) Am
-    C) Are
-    D) Does
-    *   **Hint:** "Shoes" is a plural noun.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section A, includes the example "**Are** your shoes nice?", confirming that plural nouns take "are."
-
-13. **____ your keys in your bag?**
-    A) Is it
-    B) Are they
-    C) Is there
-    D) Are your
-    *   **Hint:** The question is about the location of multiple items ("keys").
-    *   **Answer:** D
-    *   **Explanation:** Unit 2, Section A, provides "**Are** your keys in your room?" as an example, showing that the question form for plural nouns uses "Are" directly before the subject.
-
-14. **How ____ your parents?**
-    A) is
-    B) am
-    C) are
-    D) do
-    *   **Hint:** "Parents" is a plural subject.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section B, directly uses the example "**How are your parents?**", demonstrating the use of "are" with plural subjects when asking "how."
-
-15. **____ Ann at home?**
-    A) Are
-    B) Am
-    C) Is
-    D) Be
-    *   **Hint:** "Ann" is a singular subject.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section A, shows "**Is** your mother at home?" which follows the same pattern for a singular third-person subject like "Ann".
-
-16. **Yes, we ____.**
-    A) am
-    B) is
-    C) are
-    D) do
-    *   **Hint:** This is a short, positive answer for the pronoun "we."
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section C, lists "**Yes, we are**" as the short answer form for questions involving "we".
-
-17. **____ your job interesting?**
+6.  ____ they happy?
     A) Am
+    B) Is
+    C) **Are**
+    D) Do
+    **Hint:** For the subject "they" in a question, use "are".
+    **Answer:** C) **Are**
+
+7.  ____ I early?
+    A) Is
     B) Are
-    C) Is
+    C) **Am**
     D) Do
-    *   **Hint:** "Your job" is a singular noun.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section B, includes "What's your job?" (What is your job?), which implies that "is" is used with singular nouns like "job" in questions.
+    **Hint:** For the subject "I" in a question, use "am".
+    **Answer:** C) **Am**
 
-18. **How old ____ she?**
-    A) is
-    B) am
-    C) are
-    D) be
-    *   **Hint:** The pronoun "she" is singular.
-    *   **Answer:** A
-    *   **Explanation:** Unit 2, Section B, provides the example "**How old is Joe?**" and "**How old are you?**". For a singular subject like "she," "is" is used.
-
-19. **Why ____ you angry?**
-    A) is
-    B) am
-    C) are
+8.  **What** ____ your name?
+    A) are
+    B) **is**
+    C) am
     D) do
-    *   **Hint:** The pronoun "you" takes a specific 'to be' form in questions.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section B, lists "**Why are you here?**" as an example of a question with "why" and "are" for the pronoun "you".
+    **Hint:** To ask about a singular noun like "your name," use "is" after "What".
+    **Answer:** B) **is**
 
-20. **No, it ____.**
+9.  **Where** ____ your mother?
+    A) are
+    B) **is**
+    C) am
+    D) does
+    **Hint:** To ask about a singular noun like "your mother," use "is" after "Where".
+    **Answer:** B) **is**
+
+10. **How** old ____ you?
+    A) is
+    B) am
+    C) **are**
+    D) do
+    **Hint:** To ask about age with the subject "you," use "are".
+    **Answer:** C) **are**
+
+11. **Why** ____ you angry?
+    A) is
+    B) am
+    C) **are**
+    D) do
+    **Hint:** To ask for a reason with the subject "you," use "are" after "Why".
+    **Answer:** C) **are**
+
+12. **What** color ____ your bag?
+    A) are
+    B) **is**
+    C) am
+    D) does
+    **Hint:** To ask about a singular noun like "your bag," use "is" after "What".
+    **Answer:** B) **is**
+
+13. **Where** ____ your parents?
+    A) is
+    B) **are**
+    C) am
+    D) do
+    **Hint:** To ask about a plural noun like "your parents," use "are" after "Where".
+    **Answer:** B) **are**
+
+14. **How** ____ the weather today?
+    A) are
+    B) **is**
+    C) am
+    D) does
+    **Hint:** To ask about a singular noun like "the weather," use "is" after "How".
+    **Answer:** B) **is**
+
+15. **Who** ____ that man?
+    A) are
+    B) **is**
+    C) am
+    D) do
+    **Hint:** To ask about a singular person ("that man"), use "is" after "Who".
+    **Answer:** B) **is**
+
+16. Are you hungry? Yes, I ____.
+    A) is
+    B) are
+    C) **am**
+    D) do
+    **Hint:** For a positive short answer with "I," use "am".
+    **Answer:** C) **am**
+
+17. Is she a student? No, she ____.
     A) am not
     B) aren't
-    C) isn't
-    D) not is
-    *   **Hint:** This is a short, negative answer for a singular, non-human subject.
-    *   **Answer:** C
-    *   **Explanation:** Unit 2, Section C, explicitly states "**No, it isn't**" as the negative short answer for "it".
+    C) **isn't**
+    D) doesn't
+    **Hint:** For a negative short answer with "she," use "isn't".
+    **Answer:** C) **isn't**
+
+18. Are they American? Yes, they ____.
+    A) am
+    B) is
+    C) **are**
+    D) do
+    **Hint:** For a positive short answer with "they," use "are".
+    **Answer:** C) **are**
+
+19. Is he married? No, he ____.
+    A) am not
+    B) aren't
+    C) **isn't**
+    D) doesn't
+    **Hint:** For a negative short answer with "he," use "isn't".
+    **Answer:** C) **isn't**
+
+20. Are your shoes new? No, they ____.
+    A) am not
+    B) isn't
+    C) **aren't**
+    D) don't
+    **Hint:** For a negative short answer with "they" (referring to "your shoes"), use "aren't".
+    **Answer:** C) **aren't**
+
+21. ____ your keys in your bag?
+    A) Is
+    B) **Are**
+    C) Am
+    D) Do
+    **Hint:** "Your keys" is a plural subject, so use "are".
+    **Answer:** B) **Are**
+
+22. ____ Linda at home?
+    A) Am
+    B) **Is**
+    C) Are
+    D) Does
+    **Hint:** "Linda" is a singular subject (she), so use "is".
+    **Answer:** B) **Is**
+
+23. ____ your children at school?
+    A) Is
+    B) **Are**
+    C) Am
+    D) Do
+    **Hint:** "Your children" is a plural subject (they), so use "are".
+    **Answer:** B) **Are**
+
+24. Is your car blue? Yes, it ____.
+    A) am
+    B) are
+    C) **is**
+    D) does
+    **Hint:** For a positive short answer with "it," use "is".
+    **Answer:** C) **is**
+
+25. ____ your sister a nurse?
+    A) Am
+    B) **Is**
+    C) Are
+    D) Does
+    **Hint:** "Your sister" is a singular subject (she), so use "is".
+    **Answer:** B) **Is**
+
+26. Is your phone new? No, it ____.
+    A) am not
+    B) aren't
+    C) **isn't**
+    D) doesn't
+    **Hint:** For a negative short answer with "it," use "isn't".
+    **Answer:** C) **isn't**
+
+27. **What** time ____ it?
+    A) are
+    B) **is**
+    C) am
+    D) does
+    **Hint:** To ask about "time," which is singular, use "is" after "What".
+    **Answer:** B) **is**
+
+28. **How** old ____ your brother?
+    A) are
+    B) **is**
+    C) am
+    D) do
+    **Hint:** To ask about a singular person ("your brother"), use "is" after "How old".
+    **Answer:** B) **is**
+
+29. Are you afraid of dogs? No, I ____.
+    A) is not
+    B) are not
+    C) **am not**
+    D) do not
+    **Hint:** For a negative short answer with "I," use "am not".
+    **Answer:** C) **am not**
+
+30. ____ these your books?
+    A) Is
+    B) **Are**
+    C) Am
+    D) Do
+    **Hint:** "These" refers to plural items, so use "are".
+    **Answer:** B) **Are**

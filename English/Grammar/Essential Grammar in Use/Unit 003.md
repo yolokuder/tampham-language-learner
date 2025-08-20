@@ -1,186 +1,241 @@
-Here are 20 multiple-choice questions to help you practice the grammar point of Unit 03, "am/is/are (present continuous)," from the "Essential Grammar in Use" book. Each question includes a hint, the correct answer, and a detailed explanation, drawing directly from the provided source.
+Here are 30 quiz questions related to Unit 3, "I am doing (present continuous)", from your "Essential Grammar in Use" book, complete with hints and answers as requested. This unit focuses on forming positive and negative statements in the **present continuous** tense for actions happening now.
 
-***
+1.  I ____ a letter right now.
+    A) writing
+    B) write
+    C) **am writing**
+    D) writes
+    **Hint:** For the subject "I" in the present continuous, use "am" followed by the -ing form of the verb.
+    **Answer:** C) **am writing**
 
-1.  **I ____ (work) now.**
-    A) is working
-    B) are working
-    C) am working
-    D) working
-    *   **Hint:** For the pronoun "I," what form of the verb "to be" is used in the present continuous?
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, clearly shows that the positive form for "I" in the present continuous is **"I am -ing"**. The source provides the example "I'm working".
+2.  She ____ dinner in the kitchen.
+    A) cook
+    B) cooks
+    C) cooking
+    D) **is cooking**
+    **Hint:** For the subject "she" in the present continuous, use "is" followed by the -ing form of the verb.
+    **Answer:** D) **is cooking**
 
-2.  **She ____ (not read) a book.**
-    A) not reading
-    B) isn't reading
-    C) aren't reading
-    D) am not reading
-    *   **Hint:** "She" is a singular subject. What is the correct negative contraction for a singular subject?
-    *   **Answer:** B
-    *   **Explanation:** Unit 3, Section A, indicates that for "he/she/it," the negative form is **"is not -ing"** or the contraction **"isn't -ing"**. An example given is "She isn't reading".
+3.  They ____ football in the park.
+    A) play
+    B) plays
+    C) playing
+    D) **are playing**
+    **Hint:** For the subject "they" in the present continuous, use "are" followed by the -ing form of the verb.
+    **Answer:** D) **are playing**
 
-3.  **The children ____ (play) in the park.**
+4.  It ____ outside. Don't forget your umbrella!
+    A) rain
+    B) rains
+    C) raining
+    D) **is raining**
+    **Hint:** For the subject "it" (referring to weather) in the present continuous, use "is" followed by the -ing form of the verb.
+    **Answer:** D) **is raining**
+
+5.  We ____ a new project at work.
+    A) work
+    B) works
+    C) working
+    D) **are working**
+    **Hint:** For the subject "we" in the present continuous, use "are" followed by the -ing form of the verb.
+    **Answer:** D) **are working**
+
+6.  He ____ his homework at the moment.
+    A) do
+    B) does
+    C) doing
+    D) **is doing**
+    **Hint:** For the subject "he" in the present continuous, use "is" followed by the -ing form of the verb.
+    **Answer:** D) **is doing**
+
+7.  The children ____ TV.
+    A) is not watching
+    B) are not watch
+    C) not watching
+    D) **are not watching**
+    **Hint:** To form a negative sentence in the present continuous with a plural subject ("the children" = they), use "are not" followed by the -ing form.
+    **Answer:** D) **are not watching**
+
+8.  I ____ my phone right now.
+    A) am not use
+    B) not using
+    C) **am not using**
+    D) am not used
+    **Hint:** To form a negative sentence with "I", use "am not" followed by the -ing form of the verb.
+    **Answer:** C) **am not using**
+
+9.  The sun ____. It's cloudy.
+    A) is not shine
+    B) not shining
+    C) **is not shining**
+    D) isn't shines
+    **Hint:** For a singular subject ("the sun" = it) in the negative present continuous, use "is not" followed by the -ing form. Remember the spelling rule for 'shine' (drop 'e' before -ing).
+    **Answer:** C) **is not shining**
+
+10. Please be quiet. I ____.
+    A) work
+    B) working
+    C) **am working**
+    D) am work
+    **Hint:** "Please be quiet" indicates an action happening at the moment of speaking, requiring the present continuous. For "I", use "am working".
+    **Answer:** C) **am working**
+
+11. Look! Tom ____ a new hat.
+    A) wear
+    B) wears
+    C) wearing
+    D) **is wearing**
+    **Hint:** "Look!" indicates an action happening now. For "Tom" (he), use "is wearing".
+    **Answer:** D) **is wearing**
+
+12. We ____ dinner now. Can you phone again later?
+    A) have
+    B) having
+    C) are have
+    D) **are having**
+    **Hint:** The action is ongoing ("now"). The verb "have" drops the 'e' before adding '-ing'.
+    **Answer:** D) **are having**
+
+13. The weather is nice. It ____.
+    A) isn't rain
+    B) not raining
+    C) **isn't raining**
+    D) isn't rains
+    **Hint:** The sentence indicates the opposite of raining is happening now. Use the negative present continuous for "it".
+    **Answer:** C) **isn't raining**
+
+14. They ____ in the park.
     A) is playing
-    B) am playing
-    C) are playing
-    D) playing
-    *   **Hint:** "The children" is a plural subject. Which form of "to be" is used for plural subjects?
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, demonstrates that for plural subjects like "we/you/they," the positive form is **"are -ing"**. The source also provides the example "The children are doing their homework".
+    B) playing
+    C) play
+    D) **are playing**
+    **Hint:** For "they", use "are" with the -ing form of the verb.
+    **Answer:** D) **are playing**
 
-4.  **It ____ (not rain) at the moment.**
-    A) aren't raining
-    B) am not raining
-    C) isn't raining
-    D) not raining
-    *   **Hint:** "It" is a singular subject (referring to weather). What is the correct negative contraction for "it"?
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, shows that for "it," the negative form is **"is not -ing"** or the contraction **"isn't -ing"**. The example "It's raining. The sun isn't shining." implies "It isn't raining" for the negative.
+15. My sister ____ on the phone.
+    A) talk
+    B) talks
+    C) talking
+    D) **is talking**
+    **Hint:** "My sister" is a singular subject (she), so use "is" with the -ing form.
+    **Answer:** D) **is talking**
 
-5.  **Please be quiet. I ____ (listen) to music.**
-    A) am listen
-    B) listen
-    C) am listening
-    D) is listening
-    *   **Hint:** The action is happening right now, and the subject is "I."
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section B, explains that **"am/is/are + -ing = something is happening now"**. The source gives the direct example, "**Please be quiet. I'm working.**" Applying this to "I" and the verb "listen" gives "I am listening".
+16. The cat ____ on the sofa.
+    A) sleep
+    B) sleeps
+    C) sleeping
+    D) **is sleeping**
+    **Hint:** "The cat" is a singular subject (it), so use "is" with the -ing form.
+    **Answer:** D) **is sleeping**
 
-6.  **They ____ (have) dinner now.**
-    A) is having
-    B) am having
-    C) are having
-    D) having
-    *   **Hint:** "They" is a plural subject. Which form of "to be" should be used?
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, illustrates that for plural subjects like "they," the positive form uses **"are -ing"**. The source provides the example "We're having dinner".
+17. He can't answer the phone because he ____ a shower.
+    A) take
+    B) takes
+    C) taking
+    D) **is taking**
+    **Hint:** The reason for not answering is an ongoing action. "Take" drops the 'e' before adding '-ing'.
+    **Answer:** D) **is taking**
 
-7.  **Look! Joe ____ (wear) a new jacket.**
-    A) is wear
-    B) wearing
-    C) is wearing
-    D) are wearing
-    *   **Hint:** "Joe" is a singular subject, and the action is happening at this very moment ("Look!").
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section B, states that the present continuous is used for actions happening now, providing the example "**Look at Sue! She's wearing a new hat.**" "Joe" is singular like "Sue," so "**is wearing**" is correct.
-
-8.  **We ____ (not watch) television.**
-    A) not watch
-    B) isn't watching
-    C) aren't watching
-    D) am not watching
-    *   **Hint:** "We" is a plural subject. What is the correct negative contraction for a plural subject?
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, shows that for "we/you/they," the negative form is **"are not -ing"** or the contraction **"aren't -ing"**. An example given is "You aren't listening to me".
-
-9.  **The phone ____ (ring).**
-    A) are ringing
-    B) is ringing
-    C) am ringing
-    D) ringing
-    *   **Hint:** "The phone" is a singular, non-human subject, equivalent to "it."
-    *   **Answer:** B
-    *   **Explanation:** Unit 3, Section A, shows that for "he/she/it," the positive form is **"is -ing"**. The source explicitly lists "The phone is ringing" as an example.
-
-10. **Why ____ you (run)?**
-    A) is running
-    B) are running
-    C) am running
-    D) do run
-    *   **Hint:** The pronoun "you" is used, and the context implies an action happening now.
-    *   **Answer:** B
-    *   **Explanation:** While Unit 3 focuses on statements, it hints at questions like "Why are you here?" (from Unit 2) and Unit 3, Section A, has examples like "They're running." For the pronoun "you," the verb "to be" is "are".
-
-11. **Chris ____ (write) a letter.**
-    A) is write
-    B) writing
-    C) are writing
-    D) is writing
-    *   **Hint:** "Chris" is a singular subject. Pay attention to the -ing form spelling.
-    *   **Answer:** D
-    *   **Explanation:** Unit 3, Section A, shows that for singular subjects like "he/she/it," the positive form is **"is -ing"**. The source provides "Chris is writing a letter" as an example.
-
-12. **The sun ____ (not shine).**
-    A) isn't shining
-    B) aren't shining
-    C) not shine
-    D) am not shining
-    *   **Hint:** "The sun" is singular. Remember the negative contraction.
-    *   **Answer:** A
-    *   **Explanation:** Unit 3, Section A, gives the example "It's raining. **The sun isn't shining.**" directly, illustrating the correct negative form for a singular subject.
-
-13. **They ____ (do) their homework.**
+18. The children ____ their homework.
     A) is doing
-    B) am doing
-    C) are doing
-    D) doing
-    *   **Hint:** "They" is a plural subject.
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, states that for plural subjects like "they," the positive form is **"are -ing"**. The source provides the direct example "The children are doing their homework," which applies to "they".
+    B) does
+    C) do
+    D) **are doing**
+    **Hint:** "The children" is a plural subject (they), so use "are" with the -ing form.
+    **Answer:** D) **are doing**
 
-14. **I'm tired. I ____ (not eat).**
-    A) am not eating
-    B) isn't eating
-    C) aren't eating
-    D) not eating
-    *   **Hint:** The subject is "I," and it's a negative statement.
-    *   **Answer:** A
-    *   **Explanation:** Unit 3, Section A, shows that for "I," the negative form is **"I am not -ing"**.
+19. Why ____ you ____? Is something wrong?
+    A) are / crying
+    B) is / crying
+    C) are / cry
+    D) are / cries
+    **Hint:** This asks about an action happening now. For "you", use "are" and the -ing form. "Cry" simply adds '-ing'.
+    **Answer:** A) **are / crying**
 
-15. **What ____ (happen)?**
-    A) are happening
-    B) is happening
-    C) am happening
-    D) happening
-    *   **Hint:** "What" in this context refers to a singular event.
-    *   **Answer:** B
-    *   **Explanation:** While not explicitly shown in Unit 3 as a direct question example, the structure "What is..." implies a singular subject, as seen in Unit 2, Section B ("What's your name? What's the time?"). The general rule for singular subjects is "is -ing".
+20. She ____ to music.
+    A) listen
+    B) listens
+    C) listening
+    D) **is listening**
+    **Hint:** For "she", use "is" and the -ing form.
+    **Answer:** D) **is listening**
 
-16. **You ____ (not listen) to me.**
-    A) isn't listening
-    B) am not listening
-    C) aren't listening
-    D) not listening
-    *   **Hint:** The pronoun "you" is used. Remember its specific negative contraction.
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, explicitly provides the example "**You aren't listening to me.**" showing the correct negative form for "you".
+21. My parents ____ in the garden.
+    A) is working
+    B) works
+    C) working
+    D) **are working**
+    **Hint:** "My parents" is a plural subject (they), so use "are" with the -ing form.
+    **Answer:** D) **are working**
 
-17. **He ____ (sit) on the floor.**
-    A) is sitting
-    B) are sitting
-    C) am sitting
-    D) sitting
-    *   **Hint:** "He" is a singular subject. Apply the correct -ing form.
-    *   **Answer:** A
-    *   **Explanation:** Unit 3, Section A, shows that for "he," the positive form is **"is -ing"**. The spelling rule for doubling the consonant (sit -> sitting) is also consistent with general -ing rules mentioned in Appendix 5.
+22. Look! The boy ____ a kite.
+    A) flying
+    B) flies
+    C) is fly
+    D) **is flying**
+    **Hint:** "Look!" indicates an action happening now. "Fly" simply adds '-ing'.
+    **Answer:** D) **is flying**
 
-18. **The cat ____ (sleep) on the chair.**
-    A) is sleeping
-    B) are sleeping
-    C) am sleeping
-    D) sleeping
-    *   **Hint:** "The cat" is a singular subject, equivalent to "it."
-    *   **Answer:** A
-    *   **Explanation:** Unit 3, Section A, indicates that for "he/she/it" (which includes "the cat"), the positive form is **"is -ing"**.
-
-19. **We ____ (read) a newspaper.**
-    A) is reading
-    B) am reading
-    C) are reading
-    D) reading
-    *   **Hint:** "We" is a plural subject.
-    *   **Answer:** C
-    *   **Explanation:** Unit 3, Section A, states that for plural subjects like "we," the positive form is **"are -ing"**.
-
-20. **Turn off the TV. I ____ (not watch) it.**
-    A) am not watching
-    B) isn't watching
-    C) aren't watching
+23. I ____ a film on TV.
+    A) not watch
+    B) am not watch
+    C) **am not watching**
     D) not watching
-    *   **Hint:** The subject is "I," and it's a negative statement indicating an action not happening now.
-    *   **Answer:** A
-    *   **Explanation:** Unit 3, Section B, includes the example, "**You can turn off the television. I'm not watching it.**" This directly shows the correct negative form for "I" in the present continuous.
+    **Hint:** For a negative sentence with "I", use "am not" followed by the -ing form.
+    **Answer:** C) **am not watching**
 
+24. She ____ her teeth.
+    A) brush
+    B) brushes
+    C) brushing
+    D) **is brushing**
+    **Hint:** For "she", use "is" and the -ing form.
+    **Answer:** D) **is brushing**
 
-    
+25. The baby ____. Can you hear him?
+    A) cry
+    B) cries
+    C) is cry
+    D) **is crying**
+    **Hint:** "Can you hear him?" implies an ongoing action. For "the baby" (it), use "is" and the -ing form.
+    **Answer:** D) **is crying**
+
+26. We ____ to leave now.
+    A) prepare
+    B) prepares
+    C) preparing
+    D) **are preparing**
+    **Hint:** The verb "prepare" drops the 'e' before adding '-ing'.
+    **Answer:** D) **are preparing**
+
+27. He ____ a letter to his friend.
+    A) write
+    B) writes
+    C) writing
+    D) **is writing**
+    **Hint:** The verb "write" drops the 'e' before adding '-ing'.
+    **Answer:** D) **is writing**
+
+28. They ____ very fast.
+    A) runing
+    B) runs
+    C) run
+    D) **are running**
+    **Hint:** The verb "run" doubles the 'n' before adding '-ing'.
+    **Answer:** D) **are running**
+
+29. I ____ on the sofa.
+    A) sit
+    B) sits
+    C) sitting
+    D) **am sitting**
+    **Hint:** The verb "sit" doubles the 't' before adding '-ing'.
+    **Answer:** D) **am sitting**
+
+30. My brother ____ to the cinema tonight.
+    A) is going
+    B) goes
+    C) going
+    D) go
+    **Hint:** The present continuous can be used for future arrangements, and "my brother" is singular (he).
+    **Answer:** A) **is going**

@@ -1,275 +1,241 @@
-Here are 30 quiz questions related to the grammar points covered in Unit 5 of "Essential Grammar in Use," focusing on the **present simple tense** for positive statements, including subject-verb agreement, spelling rules for verbs ending in -s/-es, and the placement of adverbs of frequency.
+Here are 30 quiz questions related to Unit 5, "I do/work/like etc. (present simple)", from your "Essential Grammar in Use" book, complete with hints and answers as requested.
 
-***
+1.  My parents ____ in a big city.
+    A) lives
+    B) **live**
+    C) living
+    D) to live
+    **Hint:** The subject "My parents" is plural (they), so use the base form of the verb.
+    **Answer:** B) **live**
 
-### Unit 5: Present Simple Quiz
+2.  She ____ coffee every morning.
+    A) drink
+    B) **drinks**
+    C) drinking
+    D) is drink
+    **Hint:** The subject is "She" (third person singular), so the verb needs an '-s' ending.
+    **Answer:** B) **drinks**
 
-1.  I often _______ to the park on weekends.
-    A) goes
-    B) go
-    C) going
-    D) went
-
-    **Hint**: For 'I', 'we', 'you', 'they', the verb in the present simple form does not add '-s'.
-    **Answer**: B) go
-
-2.  She _______ in a big office downtown.
-    A) work
-    B) working
-    C) works
-    D) worked
-
-    **Hint**: For 'he', 'she', 'it', verbs in the present simple form usually add '-s'.
-    **Answer**: C) works
-
-3.  My father _______ television every evening.
-    A) watch
-    B) watches
-    C) watching
-    D) watched
-
-    **Hint**: Verbs ending in -ch, like 'watch', add '-es' for 'he', 'she', 'it' forms.
-    **Answer**: B) watches
-
-4.  He _______ hard for his exams every night.
-    A) study
-    B) studies
-    C) studying
-    D) studied
-
-    **Hint**: Verbs ending in a consonant followed by '-y', like 'study', change '-y' to '-ies' for 'he', 'she', 'it' forms.
-    **Answer**: B) studies
-
-5.  The sun _______ in the east.
-    A) rise
-    B) rises
+3.  The sun ____ in the east.
+    A) **rises**
+    B) rise
     C) rising
     D) rose
+    **Hint:** This describes a general truth. The subject "The sun" is singular (it), requiring an '-s' ending.
+    **Answer:** A) **rises**
 
-    **Hint**: Use the present simple for general truths or facts that happen all the time.
-    **Answer**: B) rises
-
-6.  They _______ in a small house near the coast.
-    A) live
-    B) lives
-    C) living
-    D) lived
-
-    **Hint**: For 'they', the verb in the present simple form does not add '-s'.
-    **Answer**: A) live
-
-7.  My brother _______ very hard.
-    A) work
-    B) works
-    C) working
-    D) worked
-
-    **Hint**: 'My brother' is 'he', so the verb takes the '-s' form.
-    **Answer**: B) works
-
-8.  The shop _______ at 9 o'clock in the morning.
-    A) open
-    B) opens
-    C) opened
-    D) opening
-
-    **Hint**: Use the present simple for scheduled times or routines.
-    **Answer**: B) opens
-
-9.  Julia never _______ breakfast.
-    A) eat
-    B) eats
-    C) eating
-    D) ate
-
-    **Hint**: The adverb 'never' comes before the main verb. For 'Julia' (she), the verb takes the '-s' form.
-    **Answer**: B) eats
-
-10. We _______ our dog for a walk every morning.
-    A) usually take
-    B) take usually
-    C) usually takes
-    D) takes usually
-
-    **Hint**: Adverbs of frequency like 'usually' come before the main verb. For 'we', the verb does not add '-s'.
-    **Answer**: A) usually take
-
-11. Chris _______ a lot of letters every day.
-    A) write
-    B) writes
-    C) writing
-    D) wrote
-
-    **Hint**: 'Chris' is 'he', so the verb takes the '-s' form.
-    **Answer**: B) writes
-
-12. Cats _______ milk.
-    A) like
-    B) likes
-    C) liking
-    D) liked
-
-    **Hint**: 'Cats' is plural, referring to 'they', so the verb does not add '-s'.
-    **Answer**: A) like
-
-13. The train _______ at 7.30 AM every day.
-    A) arrive
-    B) arrives
-    C) arriving
-    D) arrived
-
-    **Hint**: The present simple is used for fixed timetables and schedules.
-    **Answer**: B) arrives
-
-14. Sarah _______ a shower every morning.
-    A) have
-    B) has
-    C) having
-    D) had
-
-    **Hint**: The verb 'have' changes to 'has' for 'he', 'she', 'it'.
-    **Answer**: B) has
-
-15. My parents _______ in a big house.
-    A) live
-    B) lives
-    C) living
-    D) lived
-
-    **Hint**: 'My parents' refers to 'they', so the verb does not add '-s'.
-    **Answer**: A) live
-
-16. I _______ sometimes a coffee after lunch.
-    A) sometimes drink
-    B) drink sometimes
-    C) sometimes drinks
-    D) drinks sometimes
-
-    **Hint**: The adverb 'sometimes' comes before the main verb. For 'I', the verb does not add '-s'.
-    **Answer**: A) sometimes drink
-
-17. He _______ football on Saturdays.
-    A) always play
-    B) play always
-    C) always plays
-    D) plays always
-
-    **Hint**: The adverb 'always' comes before the main verb. For 'he', the verb takes the '-s' form.
-    **Answer**: C) always plays
-
-18. Dogs _______ when they are happy.
-    A) wag
-    B) wags
-    C) wagging
-    D) wagged
-
-    **Hint**: 'Dogs' is plural, referring to 'they', so the verb does not add '-s'.
-    **Answer**: A) wag
-
-19. She _______ a lot of languages.
-    A) speak
-    B) speaks
-    C) speaking
-    D) spoke
-
-    **Hint**: 'She' is the subject, so the verb takes the '-s' form.
-    **Answer**: B) speaks
-
-20. They _______ usually to the cinema on Fridays.
-    A) usually go
-    B) go usually
-    C) usually goes
-    D) goes usually
-
-    **Hint**: The adverb 'usually' comes before the main verb. For 'they', the verb does not add '-s'.
-    **Answer**: A) usually go
-
-21. It often _______ in winter.
-    A) rain
-    B) rains
-    C) raining
-    D) rained
-
-    **Hint**: 'It' is the subject, so the verb takes the '-s' form.
-    **Answer**: B) rains
-
-22. My car _______ a lot of money.
-    A) costs
-    B) cost
-    C) costing
-    D) costed
-
-    **Hint**: 'My car' is 'it', so the verb takes the '-s' form.
-    **Answer**: A) costs
-
-23. We _______ our teeth twice a day.
-    A) brush
-    B) brushes
-    C) brushing
-    D) brushed
-
-    **Hint**: For 'we', the verb does not add '-s'. Verbs ending in -sh, like 'brush', add '-es' for 'he', 'she', 'it' forms, but not for 'we'.
-    **Answer**: A) brush
-
-24. Ann _______ English at a university.
-    A) teaches
-    B) teach
-    C) teaching
-    D) taught
-
-    **Hint**: Verbs ending in -ch, like 'teach', add '-es' for 'he', 'she', 'it' forms.
-    **Answer**: A) teaches
-
-25. He _______ in the morning and _______ to work by bus.
-    A) wakes up, go
-    B) wake up, goes
-    C) wakes up, goes
-    D) wake up, go
-
-    **Hint**: For 'he', both verbs should take the '-s' or '-es' form.
-    **Answer**: C) wakes up, goes
-
-26. The water _______ at 100 degrees Celsius.
-    A) boil
-    B) boils
-    C) boiling
-    D) boiled
-
-    **Hint**: This is a general truth, so use the present simple. 'Water' is 'it'.
-    **Answer**: B) boils
-
-27. This book _______ many interesting facts.
-    A) contain
-    B) contains
-    C) containing
-    D) contained
-
-    **Hint**: 'This book' is 'it', so the verb takes the '-s' form.
-    **Answer**: B) contains
-
-28. Tom _______ a very good swimmer.
-    A) is
-    B) are
-    C) be
-    D) being
-
-    **Hint**: Unit 5 uses examples with 'am/is/are' as part of stating facts.
-    **Answer**: A) is
-
-29. My sister _______ tennis every Tuesday.
-    A) play
-    B) plays
+4.  We ____ a lot of sports in our free time.
+    A) plays
+    B) **play**
     C) playing
-    D) played
+    D) is play
+    **Hint:** The subject "We" is plural, so use the base form of the verb.
+    **Answer:** B) **play**
 
-    **Hint**: 'My sister' is 'she', so the verb takes the '-s' form.
-    **Answer**: B) plays
+5.  He ____ to work by bus every day.
+    A) go
+    B) going
+    C) **goes**
+    D) went
+    **Hint:** The subject is "He" (third person singular). The verb 'go' takes '-es' in this form.
+    **Answer:** C) **goes**
 
-30. We _______ near a big city.
-    A) lives
-    B) live
-    C) living
-    D) lived
+6.  Water ____ at 100 degrees Celsius.
+    A) boil
+    B) **boils**
+    C) boiling
+    D) is boil
+    **Hint:** This is a general truth. "Water" is an uncountable noun and is treated as singular (it).
+    **Answer:** B) **boils**
 
-    **Hint**: For 'we', the verb in the present simple form does not add '-s'.
-    **Answer**: B) live
+7.  They ____ TV in the evening.
+    A) watchs
+    B) **watch**
+    C) watching
+    D) watches
+    **Hint:** The subject "They" is plural, so use the base form of the verb.
+    **Answer:** B) **watch**
+
+8.  My sister ____ her teeth twice a day.
+    A) brush
+    B) **brushes**
+    C) brushing
+    D) is brush
+    **Hint:** The subject is "My sister" (she). Verbs ending in -sh take '-es' for the third person singular.
+    **Answer:** B) **brushes**
+
+9.  He ____ in a bank.
+    A) work
+    B) **works**
+    C) working
+    D) is work
+    **Hint:** The subject is "He" (third person singular), so the verb needs an '-s' ending.
+    **Answer:** B) **works**
+
+10. Birds ____.
+    A) flys
+    B) flies
+    C) **fly**
+    D) flying
+    **Hint:** The subject "Birds" is plural (they), so use the base form of the verb.
+    **Answer:** C) **fly**
+
+11. My brother ____ to listen to music.
+    A) like
+    B) **likes**
+    C) liking
+    D) is like
+    **Hint:** The subject "My brother" is singular (he), so the verb needs an '-s' ending.
+    **Answer:** B) **likes**
+
+12. She ____ a lot of books.
+    A) read
+    B) **reads**
+    C) reading
+    D) is read
+    **Hint:** The subject is "She" (third person singular), so the verb needs an '-s' ending.
+    **Answer:** B) **reads**
+
+13. John ____ a shower every day.
+    A) have
+    B) **has**
+    C) having
+    D) is have
+    **Hint:** The verb 'have' has an irregular form ('has') for the third person singular.
+    **Answer:** B) **has**
+
+14. The shop ____ at 9 o'clock.
+    A) open
+    B) **opens**
+    C) opening
+    D) is open
+    **Hint:** The subject "The shop" is singular (it). This describes a regular schedule.
+    **Answer:** B) **opens**
+
+15. We ____ to the cinema on Saturdays.
+    A) **go**
+    B) goes
+    C) going
+    D) went
+    **Hint:** The subject "We" is plural, so use the base form of the verb.
+    **Answer:** A) **go**
+
+16. My friend ____ English.
+    A) study
+    B) **studies**
+    C) studying
+    D) is study
+    **Hint:** The verb 'study' ends in '-y' preceded by a consonant. For third person singular, change '-y' to '-ies'.
+    **Answer:** B) **studies**
+
+17. It ____ a lot of money to stay at luxury hotels.
+    A) cost
+    B) **costs**
+    C) costing
+    D) is cost
+    **Hint:** The subject is "It" (third person singular), so the verb needs an '-s' ending.
+    **Answer:** B) **costs**
+
+18. The Earth ____ around the Sun.
+    A) go
+    B) **goes**
+    C) going
+    D) went
+    **Hint:** This is a general truth. The subject "The Earth" is singular (it). The verb 'go' takes '-es' for the third person singular.
+    **Answer:** B) **goes**
+
+19. Sue ____ arrives at work early.
+    A) **always**
+    B) always arrive
+    C) always arriving
+    D) arrive always
+    **Hint:** Adverbs of frequency like "always" usually go before the main verb. The verb "arrives" is already correctly conjugated for "Sue" (she).
+    **Answer:** A) **always**
+
+20. I ____ go to work by car.
+    A) **usually**
+    B) usually goes
+    C) goes usually
+    D) usually going
+    **Hint:** The subject is "I". The adverb of frequency "usually" comes before the main verb, and "go" is the correct base form for "I".
+    **Answer:** A) **usually**
+
+21. Julia ____ eats breakfast.
+    A) **never**
+    B) never eat
+    C) eats never
+    D) never eating
+    **Hint:** The subject is "Julia" (she). The adverb of frequency "never" comes before the main verb, and "eats" is correctly conjugated for "Julia".
+    **Answer:** A) **never**
+
+22. We ____ see Tom. He lives near us.
+    A) **often**
+    B) often sees
+    C) sees often
+    D) often seeing
+    **Hint:** The subject is "We". The adverb of frequency "often" comes before the main verb, and "see" is the correct base form for "We".
+    **Answer:** A) **often**
+
+23. He ____ his homework every evening.
+    A) do
+    B) **does**
+    C) doing
+    D) did
+    **Hint:** The verb 'do' is irregular for the third person singular, taking '-es'.
+    **Answer:** B) **does**
+
+24. My dog ____ after the ball.
+    A) catch
+    B) **catches**
+    C) catching
+    D) catched
+    **Hint:** The verb 'catch' ends in '-ch', so it takes '-es' for the third person singular.
+    **Answer:** B) **catches**
+
+25. She ____ to finish her work on time.
+    A) try
+    B) **tries**
+    C) trying
+    D) tried
+    **Hint:** The verb 'try' ends in '-y' preceded by a consonant. For third person singular, change '-y' to '-ies'.
+    **Answer:** B) **tries**
+
+26. Every winter, it ____ a lot in the mountains.
+    A) snow
+    B) **snows**
+    C) snowing
+    D) is snow
+    **Hint:** This describes a regular occurrence or habitual action during a season. The subject is "it" (third person singular).
+    **Answer:** B) **snows**
+
+27. A doctor ____ sick people.
+    A) help
+    B) **helps**
+    C) helping
+    D) is help
+    **Hint:** This is a general truth about a profession. The subject "A doctor" is singular (he/she).
+    **Answer:** B) **helps**
+
+28. She ____ the dishes after dinner.
+    A) wash
+    B) washs
+    C) **washes**
+    D) washing
+    **Hint:** The verb 'wash' ends in '-sh', so it takes '-es' for the third person singular.
+    **Answer:** C) **washes**
+
+29. The train to London ____ at 7:00 AM daily.
+    A) leave
+    B) **leaves**
+    C) leaving
+    D) left
+    **Hint:** This describes a scheduled event, which uses the present simple. The subject "The train" is singular (it).
+    **Answer:** B) **leaves**
+
+30. He ____ coffee. He prefers tea.
+    A) never drink
+    B) **never drinks**
+    C) drinks never
+    D) never drinking
+    **Hint:** The subject is "He" (third person singular), so the verb needs an '-s' ending. The adverb "never" comes before the main verb.
+    **Answer:** B) **never drinks**
