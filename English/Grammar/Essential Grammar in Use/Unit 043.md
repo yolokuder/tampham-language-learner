@@ -8,7 +8,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Does your friend happy?
     D) Are your friend happy?
     **Hint:** To form a question with the verb "to be" in the present, place "is" or "are" before the subject [6A].
-    **Answer:** B) **Is your friend happy?**
+    **Correct Answer:** B) **Is your friend happy?**
 
 2.  They are at work.
     A) At work are they?
@@ -16,7 +16,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Is they at work?
     D) **Are they at work?**
     **Hint:** When forming questions with "be" verbs, the verb comes before the subject [6A].
-    **Answer:** D) **Are they at work?**
+    **Correct Answer:** D) **Are they at work?**
 
 3.  She was angry.
     A) Angry was she?
@@ -24,7 +24,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Did she angry?
     D) She was angry?
     **Hint:** For questions with "be" verbs in the past tense, place "was" or "were" before the subject [6A].
-    **Answer:** B) **Was she angry?**
+    **Correct Answer:** B) **Was she angry?**
 
 4.  You were tired yesterday.
     A) Tired were you yesterday?
@@ -32,7 +32,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Are you tired yesterday?
     D) **Were you tired yesterday?**
     **Hint:** To ask about a past state with "be," use "were" before the subject [6A].
-    **Answer:** D) **Were you tired yesterday?**
+    **Correct Answer:** D) **Were you tired yesterday?**
 
 5.  It is working yesterday.
     A) **Was it working yesterday?**
@@ -40,7 +40,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Did it working yesterday?
     D) It was working yesterday?
     **Hint:** For a past continuous action, the correct form of "be" (was/were) should come before the subject [6A].
-    **Answer:** A) **Was it working yesterday?**
+    **Correct Answer:** A) **Was it working yesterday?**
 
 6.  He has finished his homework.
     A) He has finished his homework?
@@ -48,7 +48,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Did he finished his homework?
     D) **Has he finished his homework?**
     **Hint:** To form a present perfect question, place "have" or "has" before the subject [6A].
-    **Answer:** D) **Has he finished his homework?**
+    **Correct Answer:** D) **Has he finished his homework?**
 
 7.  You have seen that film.
     A) Seen you have that film?
@@ -56,7 +56,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Did you seen that film?
     D) Has you seen that film?
     **Hint:** For present perfect questions, "have" comes before the subject [6A].
-    **Answer:** B) **Have you seen that film?**
+    **Correct Answer:** B) **Have you seen that film?**
 
 8.  They will be here tomorrow.
     A) They will be here tomorrow?
@@ -64,7 +64,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Do they will be here tomorrow?
     D) **Will they be here tomorrow?**
     **Hint:** To ask about a future event with "will," place "will" before the subject [6A].
-    **Answer:** D) **Will they be here tomorrow?**
+    **Correct Answer:** D) **Will they be here tomorrow?**
 
 9.  She can swim.
     A) Can swim she?
@@ -72,7 +72,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Does she can swim?
     D) Is she can swim?
     **Hint:** For modal verbs like "can," the modal verb comes before the subject in a question [6A].
-    **Answer:** B) **Can she swim?**
+    **Correct Answer:** B) **Can she swim?**
 
 10. You could help me.
     A) Help you could me?
@@ -80,7 +80,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Did you could help me?
     D) Are you could help me?
     **Hint:** To ask with a modal verb like "could," place it before the subject [6A].
-    **Answer:** B) **Could you help me?**
+    **Correct Answer:** B) **Could you help me?**
 
 11. I must leave now.
     A) Leave I must now?
@@ -88,7 +88,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) I must leave now?
     D) **Must I leave now?**
     **Hint:** For modal verbs like "must," the modal verb comes before the subject [6A].
-    **Answer:** D) **Must I leave now?**
+    **Correct Answer:** D) **Must I leave now?**
 
 12. We should call them.
     A) Call we should them?
@@ -96,7 +96,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) We should call them?
     D) **Should we call them?**
     **Hint:** To give advice or ask about obligation with "should," place "should" before the subject [6A].
-    **Answer:** D) **Should we call them?**
+    **Correct Answer:** D) **Should we call them?**
 
 13. You would like some tea.
     A) Like you would some tea?
@@ -104,7 +104,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) **Would you like some tea?**
     D) Are you would like some tea?
     **Hint:** For "would like," the verb "would" comes before the subject in a question [6A].
-    **Answer:** C) **Would you like some tea?**
+    **Correct Answer:** C) **Would you like some tea?**
 
 14. I work in a bank.
     A) Work I in a bank?
@@ -112,7 +112,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) **Do I work in a bank?**
     D) Does I work in a bank?
     **Hint:** For questions in the present simple tense with a main verb (not "be" or "have"), use "do" or "does" [6B].
-    **Answer:** C) **Do I work in a bank?**
+    **Correct Answer:** C) **Do I work in a bank?**
 
 15. Chris works hard.
     A) Works Chris hard?
@@ -120,7 +120,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) **Does Chris work hard?**
     D) Is Chris work hard?
     **Hint:** For a singular subject in the present simple, use "does" followed by the base form of the verb [6B].
-    **Answer:** C) **Does Chris work hard?**
+    **Correct Answer:** C) **Does Chris work hard?**
 
 16. They live in London.
     A) Live they in London?
@@ -128,7 +128,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Are they live in London?
     D) Does they live in London?
     **Hint:** For plural subjects in the present simple, use "do" followed by the base form of the verb [6B].
-    **Answer:** B) **Do they live in London?**
+    **Correct Answer:** B) **Do they live in London?**
 
 17. Liz plays the guitar.
     A) Plays Liz the guitar?
@@ -136,7 +136,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) **Does Liz play the guitar?**
     D) Is Liz play the guitar?
     **Hint:** For a singular subject in the present simple, use "does" with the base form of the verb [6B].
-    **Answer:** C) **Does Liz play the guitar?**
+    **Correct Answer:** C) **Does Liz play the guitar?**
 
 18. You watched television last night.
     A) Watched you television last night?
@@ -144,7 +144,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Do you watch television last night?
     D) **Did you watch television last night?**
     **Hint:** For questions in the past simple tense with a main verb, use "did" followed by the base form of the verb [6B].
-    **Answer:** D) **Did you watch television last night?**
+    **Correct Answer:** D) **Did you watch television last night?**
 
 19. She got up early this morning.
     A) Got up she early this morning?
@@ -152,7 +152,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Does she get up early this morning?
     D) **Did she get up early this morning?**
     **Hint:** In the past simple question form, "did" is used with the base verb [6B].
-    **Answer:** D) **Did she get up early this morning?**
+    **Correct Answer:** D) **Did she get up early this morning?**
 
 20. They had a good time yesterday.
     A) Had they a good time yesterday?
@@ -160,7 +160,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Do they have a good time yesterday?
     D) **Did they have a good time yesterday?**
     **Hint:** When "have" is a main verb in the past simple, the question uses "did have" [6B].
-    **Answer:** D) **Did they have a good time yesterday?**
+    **Correct Answer:** D) **Did they have a good time yesterday?**
 
 21. Why John isn't here?
     A) Why John isn't here?
@@ -168,7 +168,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Why John not here?
     D) **Why isn't John here?**
     **Hint:** For "Why" questions with negative "be" forms, the structure is "Why" + "isn't/aren't" + subject [6C].
-    **Answer:** D) **Why isn't John here?**
+    **Correct Answer:** D) **Why isn't John here?**
 
 22. Why you don't like to work hard?
     A) Why you don't like to work hard?
@@ -176,7 +176,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Why you no like to work hard?
     D) **Why don't you like to work hard?**
     **Hint:** For "Why" questions with negative "do" forms, the structure is "Why" + "don't/doesn't" + subject + base verb [6C].
-    **Answer:** D) **Why don't you like to work hard?**
+    **Correct Answer:** D) **Why don't you like to work hard?**
 
 23. Why Paula didn't come to the meeting?
     A) Why Paula didn't come to the meeting?
@@ -184,7 +184,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Why Paula no come to the meeting?
     D) **Why didn't Paula come to the meeting?**
     **Hint:** For "Why" questions with negative "did" forms, the structure is "Why" + "didn't" + subject + base verb [6C].
-    **Answer:** D) **Why didn't Paula come to the meeting?**
+    **Correct Answer:** D) **Why didn't Paula come to the meeting?**
 
 24. She is happy with the results.
     A) Is happy she with the results?
@@ -192,7 +192,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Does she happy with the results?
     D) **Is she happy with the results?**
     **Hint:** In questions with "is," the word order is "Is" + subject [6A].
-    **Answer:** D) **Is she happy with the results?**
+    **Correct Answer:** D) **Is she happy with the results?**
 
 25. The train has left.
     A) The train has left?
@@ -200,7 +200,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Did the train leave?
     D) **Has the train left?**
     **Hint:** To form a present perfect question, the auxiliary verb "has" comes before the subject [6A].
-    **Answer:** D) **Has the train left?**
+    **Correct Answer:** D) **Has the train left?**
 
 26. I have a car.
     A) Have I a car?
@@ -208,7 +208,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Am I have a car?
     D) Has I a car?
     **Hint:** When "have" is used as a main verb meaning "possess" in the present simple, use "do/does have" to form a question [6B].
-    **Answer:** B) **Do I have a car?**
+    **Correct Answer:** B) **Do I have a car?**
 
 27. You like swimming.
     A) Like you swimming?
@@ -216,7 +216,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Does you like swimming?
     D) **Do you like swimming?**
     **Hint:** For present simple questions with main verbs, use "do" or "does" before the subject [6B].
-    **Answer:** D) **Do you like swimming?**
+    **Correct Answer:** D) **Do you like swimming?**
 
 28. Ann lives near you.
     A) Lives Ann near you?
@@ -224,7 +224,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) **Does Ann live near you?**
     D) Is Ann live near you?
     **Hint:** For singular subjects in the present simple, use "does" with the base form of the verb [6B].
-    **Answer:** C) **Does Ann live near you?**
+    **Correct Answer:** C) **Does Ann live near you?**
 
 29. You told anybody what I said.
     A) Told you anybody what I said?
@@ -232,7 +232,7 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Do you tell anybody what I said?
     D) Did you told anybody what I said?
     **Hint:** For past simple questions, use "did" followed by the base form of the verb [6B].
-    **Answer:** B) **Did you tell anybody what I said?**
+    **Correct Answer:** B) **Did you tell anybody what I said?**
 
 30. Why you weren't at home?
     A) Why you weren't at home?
@@ -240,4 +240,4 @@ Here are 30 quiz questions related to the grammar points of Unit 43, which focus
     C) Why not you at home?
     D) Why you no at home?
     **Hint:** For "Why" questions with negative "be" forms, the structure is "Why" + "wasn't/weren't" + subject [6C].
-    **Answer:** B) **Why weren't you at home?**
+    **Correct Answer:** B) **Why weren't you at home?**

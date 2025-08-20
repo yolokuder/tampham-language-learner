@@ -8,7 +8,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **Do**
     D) Does
     **Hint:** For the subject "you" in the present simple tense, the correct auxiliary verb is "do".
-    **Answer:** C) **Do**
+    **Correct Answer:** C) **Do**
 
 2.  ____ she work in a hospital?
     A) Do
@@ -16,7 +16,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **Does**
     D) Is
     **Hint:** For the singular subject "she" in the present simple tense, the correct auxiliary verb is "does".
-    **Answer:** C) **Does**
+    **Correct Answer:** C) **Does**
 
 3.  What time ____ the banks close?
     A) does
@@ -24,7 +24,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) are
     D) **do**
     **Hint:** "The banks" is a plural subject, so "do" is used for present simple questions.
-    **Answer:** D) **do**
+    **Correct Answer:** D) **do**
 
 4.  Where ____ he usually go for vacation?
     A) do
@@ -32,7 +32,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **does**
     D) is
     **Hint:** For the singular subject "he" in the present simple tense, the correct auxiliary verb is "does".
-    **Answer:** C) **does**
+    **Correct Answer:** C) **does**
 
 5.  ____ your friends know about the party?
     A) Does
@@ -40,7 +40,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) Are
     D) **Do**
     **Hint:** "Your friends" is a plural subject, so "do" is used for present simple questions.
-    **Answer:** D) **Do**
+    **Correct Answer:** D) **Do**
 
 6.  ____ you see Mary yesterday?
     A) Do
@@ -48,7 +48,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) Are
     D) **Did**
     **Hint:** To ask a question in the past simple tense, the auxiliary verb "did" is used for all subjects.
-    **Answer:** D) **Did**
+    **Correct Answer:** D) **Did**
 
 7.  What ____ they do last weekend?
     A) does
@@ -56,7 +56,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) have
     D) **did**
     **Hint:** To ask about an action that happened in the past simple tense, use "did".
-    **Answer:** D) **did**
+    **Correct Answer:** D) **did**
 
 8.  Why ____ she leave the meeting early?
     A) do
@@ -64,7 +64,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) has
     D) **did**
     **Hint:** To inquire about the reason for a past action, use "did".
-    **Answer:** D) **did**
+    **Correct Answer:** D) **did**
 
 9.  ____ he enjoy the concert last night?
     A) Does
@@ -72,7 +72,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) Has
     D) **Did**
     **Hint:** For a completed action in the past, use "did" to form the question.
-    **Answer:** D) **Did**
+    **Correct Answer:** D) **Did**
 
 10. When ____ you finish your studies?
     A) do
@@ -80,7 +80,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) have
     D) **did**
     **Hint:** To ask about the time a past action was completed, use "did".
-    **Answer:** D) **did**
+    **Correct Answer:** D) **did**
 
 11. ____ you ready for the trip?
     A) Is
@@ -88,7 +88,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **Are**
     D) Do
     **Hint:** When using the verb "be" with the subject "you", the correct form is "are".
-    **Answer:** C) **Are**
+    **Correct Answer:** C) **Are**
 
 12. ____ it going to rain today?
     A) Are
@@ -96,7 +96,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **Is**
     D) Does
     **Hint:** When using the verb "be" with the subject "it", the correct form is "is".
-    **Answer:** C) **Is**
+    **Correct Answer:** C) **Is**
 
 13. Why ____ he so quiet today?
     A) are
@@ -104,7 +104,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **is**
     D) does
     **Hint:** For the singular subject "he" with the verb "be", the correct form is "is".
-    **Answer:** C) **is**
+    **Correct Answer:** C) **is**
 
 14. ____ they tired after the long journey?
     A) Is
@@ -112,7 +112,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **Are**
     D) Do
     **Hint:** For the plural subject "they" with the verb "be", the correct form is "are".
-    **Answer:** C) **Are**
+    **Correct Answer:** C) **Are**
 
 15. What ____ the problem?
     A) are
@@ -120,7 +120,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **is**
     D) do
     **Hint:** "The problem" is a singular subject, so "is" is used with the verb "be".
-    **Answer:** C) **is**
+    **Correct Answer:** C) **is**
 
 16. ____ you ever visited Rome?
     A) Do
@@ -128,7 +128,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) Is
     D) **Have**
     **Hint:** To ask about an experience at an unspecified time in the past (present perfect), use "have".
-    **Answer:** D) **Have**
+    **Correct Answer:** D) **Have**
 
 17. ____ he eaten dinner yet?
     A) Do
@@ -136,7 +136,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **Has**
     D) Did
     **Hint:** For the singular subject "he" in the present perfect tense, the auxiliary verb is "has".
-    **Answer:** C) **Has**
+    **Correct Answer:** C) **Has**
 
 18. ____ they finished their project?
     A) Has
@@ -144,7 +144,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) Is
     D) **Have**
     **Hint:** For the plural subject "they" in the present perfect tense, the auxiliary verb is "have".
-    **Answer:** D) **Have**
+    **Correct Answer:** D) **Have**
 
 19. ____ she bought a new phone?
     A) Do
@@ -152,7 +152,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **Has**
     D) Did
     **Hint:** For the singular subject "she" in the present perfect tense, the auxiliary verb is "has".
-    **Answer:** C) **Has**
+    **Correct Answer:** C) **Has**
 
 20. ____ you lived in this city for a long time?
     A) Do
@@ -160,7 +160,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) Is
     D) **Have**
     **Hint:** To ask about an action that started in the past and continues to the present, use "have".
-    **Answer:** D) **Have**
+    **Correct Answer:** D) **Have**
 
 21. It's quite warm today, ____?
     A) is it
@@ -168,7 +168,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) do it
     D) **isn't it**
     **Hint:** The statement is positive and uses "is", so the question tag should be negative "isn't" followed by the pronoun "it".
-    **Answer:** D) **isn't it**
+    **Correct Answer:** D) **isn't it**
 
 22. You like coffee, ____?
     A) aren't you
@@ -176,7 +176,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **don't you**
     D) do you
     **Hint:** The statement is positive and in the present simple with "like", so the tag uses "don't" and the pronoun "you".
-    **Answer:** C) **don't you**
+    **Correct Answer:** C) **don't you**
 
 23. He can speak French, ____?
     A) isn't he
@@ -184,7 +184,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **can't he**
     D) can he
     **Hint:** The statement is positive and uses the modal verb "can", so the tag should be negative "can't" followed by the pronoun "he".
-    **Answer:** C) **can't he**
+    **Correct Answer:** C) **can't he**
 
 24. They weren't late, ____?
     A) don't they
@@ -192,7 +192,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **were they**
     D) weren't they
     **Hint:** The statement is negative and uses "were", so the question tag should be positive "were" followed by the pronoun "they".
-    **Answer:** C) **were they**
+    **Correct Answer:** C) **were they**
 
 25. She hasn't got a dog, ____?
     A) doesn't she
@@ -200,7 +200,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **has she**
     D) have she
     **Hint:** The statement is negative and uses "hasn't (got)", so the question tag should be positive "has" followed by the pronoun "she".
-    **Answer:** C) **has she**
+    **Correct Answer:** C) **has she**
 
 26. You didn't tell him, ____?
     A) did you
@@ -208,7 +208,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) aren't you
     D) haven't you
     **Hint:** The statement is negative and in the past simple with "didn't tell", so the tag should be positive "did" followed by the pronoun "you".
-    **Answer:** A) **did you**
+    **Correct Answer:** A) **did you**
 
 27. We're visiting them tomorrow, ____?
     A) don't we
@@ -216,7 +216,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **aren't we**
     D) are we
     **Hint:** The statement is positive and uses "are" (from "we're"), so the question tag should be negative "aren't" followed by the pronoun "we".
-    **Answer:** C) **aren't we**
+    **Correct Answer:** C) **aren't we**
 
 28. Tom called you, ____?
     A) does he
@@ -224,7 +224,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **didn't he**
     D) did he
     **Hint:** The statement is positive and in the past simple tense ("called"), so the tag should be negative "didn't" followed by the pronoun "he".
-    **Answer:** C) **didn't he**
+    **Correct Answer:** C) **didn't he**
 
 29. You'll help me, ____?
     A) aren't you
@@ -232,7 +232,7 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) will you
     D) do you
     **Hint:** The statement is positive and uses "will" (from "you'll"), so the question tag should be negative "won't" followed by the pronoun "you".
-    **Answer:** B) **won't you**
+    **Correct Answer:** B) **won't you**
 
 30. He's not coming to the party, ____?
     A) doesn't he
@@ -240,4 +240,4 @@ Here are 30 quiz questions related to Unit 40, which covers forming questions wi
     C) **is he**
     D) isn't he
     **Hint:** The statement is negative and uses "is" (from "he's"), so the question tag should be positive "is" followed by the pronoun "he".
-    **Answer:** C) **is he**
+    **Correct Answer:** C) **is he**
