@@ -1,245 +1,245 @@
-Here are 30 quiz questions designed to help you practice the grammar points from **Unit 15: I have done (present perfect 1)** in "Essential Grammar in Use". This unit focuses on the formation of the present perfect (using "have/has" + the past participle) and its primary use to describe an **action in the past with a result in the present** [36A, 36B, 36C].
+Here are 30 multiple-choice questions designed to help you practice the grammar point of Unit 15, "I have done (present perfect 1)," from the "Essential Grammar in Use" book [2, p. 37]. This unit focuses on the formation of the present perfect (have/has + past participle) and its use to describe actions that happened in the past but have a **result in the present** [36, Section C].
 
 ***
 
-### Unit 15: I have done (present perfect 1) Quiz
+**Unit 15: I have done (Present Perfect 1)**
 
-1.  My car looks shiny now. I ______ (wash) it.
-    A) washed
-    B) am washing
-    C) was washing
-    D) **have washed** [36A, 36C]
+1.  My shoes are very dirty. I ___ them yet.
+    A) clean
+    B) cleaned
+    C) haven't cleaned
+    D) don't clean
+    *   Hint: The current state of the shoes (dirty) is due to a past inaction. You need the negative present perfect form.
+    *   Correct Answer: C) haven't cleaned
 
-    **Hint**: The car's current clean state is the **result** of a completed action in the past [36C].
+2.  He isn't here now. He ___ out.
+    A) go
+    B) went
+    C) has gone
+    D) is going
+    *   Hint: His current absence is the result of his leaving. Use the past participle of 'go'.
+    *   Correct Answer: C) has gone [36, Section B, example of 'gone']
 
-2.  I can't open the door. I think I ______ (lose) my keys.
-    A) lost
-    B) was losing
-    C) am losing
-    D) **have lost** [36C]
+3.  I can't find my passport. I ___ it.
+    A) lose
+    B) lost
+    C) have lost
+    D) am losing
+    *   Hint: My current inability to find the passport is the result of a past action.
+    *   Correct Answer: C) have lost [36, Section C, example]
 
-    **Hint**: The inability to open the door **now** is the **result** of losing the keys in the past [36C].
+4.  Look! The window ___ .
+    A) break
+    B) broke
+    C) has broken
+    D) is breaking
+    *   Hint: The visible state of the window (broken) is the present result of a past action. Use the past participle of 'break'.
+    *   Correct Answer: C) has broken [36, Section B, example of 'broken']
 
-3.  Sarah isn't at home. She ______ (go) out.
-    A) went
-    B) goes
-    C) is going
-    D) **has gone** [36C]
+5.  We have a new car now. We ___ it.
+    A) buy
+    B) bought
+    C) have bought
+    D) are buying
+    *   Hint: Our current possession of a new car is the result of a past action. Use the past participle of 'buy'.
+    *   Correct Answer: C) have bought [36, Section C, example]
 
-    **Hint**: Her absence **now** is the **result** of her having left [36C].
+6.  It's Rachel's birthday tomorrow and I ___ her a present.
+    A) didn't buy
+    B) hasn't bought
+    C) haven't bought
+    D) don't buy
+    *   Hint: The present problem (no present for tomorrow) is a result of a past inaction. The subject is 'I'.
+    *   Correct Answer: C) haven't bought [36, Section C, example]
 
-4.  I'm really hungry because I ______ (not / eat) anything all day.
-    A) didn't eat
-    B) haven't ate
-    C) wasn't eating
-    D) **haven't eaten** [36B, 36C]
+7.  The train isn't here. It ___ .
+    A) leave
+    B) left
+    C) has left
+    D) is leaving
+    *   Hint: The train's current absence is the result of its departure.
+    *   Correct Answer: C) has left
 
-    **Hint**: The feeling of hunger **now** is the **result** of not having eaten. Remember the correct past participle for "eat" [36B].
-
-5.  The film ______ (start). You're too late to see the beginning.
-    A) started
-    B) was starting
-    C) is starting
-    D) **has started** [36C]
-
-    **Hint**: Your current situation (being too late) is the **result** of the film's action being completed [36C].
-
-6.  I can't read this article. I ______ (not / bring) my reading glasses.
-    A) didn't bring
-    B) haven't bringed
-    C) wasn't bringing
-    D) **haven't brought** [36B, 36C]
-
-    **Hint**: The inability to read **now** is the **result** of not having brought the glasses. Pay attention to the correct past participle [36B].
-
-7.  Oh no! The lights ______ (go out). It's completely dark in here.
-    A) went out
-    B) were going out
-    C) are going out
-    D) **have gone out** [36C]
-
-    **Hint**: The current state (darkness) is the **result** of the lights' action [36C].
-
-8.  My brother ______ (break) his arm, so he can't play tennis.
-    A) broke
-    B) has broke
-    C) was breaking
-    D) **has broken** [36B, 36C]
-
-    **Hint**: His inability to play **now** is the **result** of his past injury. Ensure you use the correct past participle [36B].
-
-9.  ______ you ever ______ (be) to Paris?
-    A) Did / be
-    B) Were / being
-    C) Do / been
-    D) **Have / been** [36B]
-
-    **Hint**: This question asks about an experience at any time up to the present moment.
-
-10. I ______ (finish) my report, so I can email it to my boss now.
-    A) finished
-    B) am finishing
-    C) was finishing
-    D) **have finished** [36C]
-
-    **Hint**: The ability to email the report **now** is the **result** of completing it [36C].
-
-11. She's very upset because she ______ (lose) her favourite ring.
-    A) lost
-    B) was losing
-    C) loses
-    D) **has lost** [36C]
-
-    **Hint**: Her current emotional state is the **result** of the lost ring [36C].
-
-12. We ______ (buy) a new apartment. Do you want to come and see it?
-    A) bought
-    B) were buying
-    C) buy
-    D) **have bought** [36C]
-
-    **Hint**: The invitation to see the apartment **now** implies it's a recent action with a current **result** (they own it) [36C].
-
-13. Look at the wall! Someone ______ (paint) it blue. It looks much better.
-    A) painted
-    B) was painting
-    C) paints
-    D) **has painted** [36C]
-
-    **Hint**: The current appearance of the wall is the **result** of the painting action [36C].
-
-14. This coffee is too sweet. I ______ (put) too much sugar in it.
-    A) putted
-    B) was putting
-    C) putting
-    D) **have put** [36C]
-
-    **Hint**: The coffee's current state (too sweet) is the **result** of a past action. Remember the correct past participle of "put" [36B].
-
-15. What a wonderful painting! I ______ (never / see) anything like it.
-    A) never saw
-    B) was never seeing
-    C) am never seeing
-    D) **have never seen** [36B]
-
-    **Hint**: This describes a lack of past experience up to the present moment.
-
-16. They are very excited. They ______ (move) to a bigger house.
-    A) moved
-    B) are moving
-    C) were moving
-    D) **have moved** [36C]
-
-    **Hint**: Their excitement **now** is the **result** of having moved [36C].
-
-17. He knows a lot about European history. He ______ (study) it for many years.
-    A) studied
-    B) was studying
-    C) studies
-    D) **has studied** [36B]
-
-    **Hint**: His knowledge **now** is the **result** of his continuous study in the past [36B].
-
-18. This room is perfectly clean. Someone ______ (clean) it recently.
-    A) cleaned
-    B) cleans
-    C) was cleaning
-    D) **has cleaned** [36A, 36C]
-
-    **Hint**: The room's current state (clean) is the **result** of a past action [36A, 36C].
-
-19. I can't watch TV. The remote control battery ______ (die).
-    A) died
-    B) was dying
-    C) dies
-    D) **has died** [36C]
-
-    **Hint**: The TV's current state (unusable) is the **result** of the battery's action [36C].
-
-20. My phone screen is cracked. I ______ (drop) it.
-    A) dropped
-    B) was dropping
-    C) drop
-    D) **have dropped** [36B, 36C]
-
-    **Hint**: The phone's current state (cracked screen) is the **result** of a past action [36B, 36C].
-
-21. I'm full. I ______ (eat) too much dessert.
-    A) ate
-    B) was eating
-    C) eat
-    D) **have eaten** [36C]
-
-    **Hint**: The feeling of being full **now** is the **result** of eating [36C].
-
-22. The garden is very wet. It ______ (rain) heavily.
-    A) rained
-    B) rains
-    C) was raining
-    D) **has rained** [36C]
-
-    **Hint**: The wet garden **now** is the **result** of the rain [36C].
-
-23. I'm sorry, I ______ (forget) your name. Can you tell me again?
-    A) forgot
-    B) was forgetting
-    C) forget
-    D) **have forgotten** [36C]
-
-    **Hint**: The current inability to recall the name is the **result** of forgetting it [36C].
-
-24. My friend is crying because someone ______ (steal) her handbag.
-    A) stole
-    B) has stealed
-    C) was stealing
-    D) **has stolen** [36B, 36C]
-
-    **Hint**: Her current emotional state (crying) is the **result** of the handbag being stolen. Use the correct past participle [36B].
-
-25. ______ you ______ (ever / visit) another continent?
-    A) Did / ever visit
-    B) Were / ever visiting
-    C) Do / ever visit
-    D) **Have / ever visited** [36B]
-
-    **Hint**: This question asks about a past experience up to the present moment.
-
-26. My computer isn't responding. It ______ (crash).
-    A) crashed
-    B) was crashing
-    C) crashes
-    D) **has crashed** [36C]
-
-    **Hint**: The computer's current state (not responding) is the **result** of a past event [36C].
-
-27. He looks exhausted. He ______ (not / sleep) well for days.
-    A) didn't sleep
-    B) doesn't sleep
-    C) wasn't sleeping
-    D) **hasn't slept** [36B, 36C]
-
-    **Hint**: His current appearance is the **result** of his lack of sleep [36C].
-
-28. The police ______ (arrest) three suspects.
-    A) arrested
-    B) were arresting
-    C) arrest
-    D) **have arrested** [36C]
-
-    **Hint**: The suspects are currently under arrest (the action has a present **result**) [36C].
-
-29. What ______ happened? You look absolutely stunned!
+8.  They ___ their homework. Now they can watch TV.
     A) did
-    B) was
-    C) does
-    D) **has** [36C]
+    B) do
+    C) have done
+    D) are doing
+    *   Hint: Their ability to watch TV now is the result of finishing their homework. Use the past participle of 'do'.
+    *   Correct Answer: C) have done
 
-    **Hint**: Asking about a past event that has a clear **present result** (the person's reaction) [36C].
+9.  My brother's hair is clean. He ___ his hair.
+    A) clean
+    B) cleaned
+    C) has cleaned
+    D) is cleaning
+    *   Hint: The current cleanliness of his hair is the result of a past action.
+    *   Correct Answer: C) has cleaned [36, Section A, example]
 
-30. I'm sorry, but I ______ (not / finish) the painting yet.
-    A) didn't finish
-    B) wasn't finishing
-    C) don't finish
-    D) **haven't finished** [36C]
+10. ___ you finished with the newspaper?
+    A) Do
+    B) Are
+    C) Have
+    D) Did
+    *   Hint: This is a question asking if a past action has a present result.
+    *   Correct Answer: C) Have [36, Section C, example]
 
-    **Hint**: The painting is not ready **now** because the action is incomplete, making its incompleteness a **present result** [36C].
+11. The post office is closed. It ___ for the day.
+    A) close
+    B) closed
+    C) has closed
+    D) is closing
+    *   Hint: The current state of the post office is the result of a past action.
+    *   Correct Answer: C) has closed
+
+12. I'm not hungry. I ___ lunch.
+    A) eat
+    B) ate
+    C) have eaten
+    D) am eating
+    *   Hint: Your current state (not hungry) is the result of a past action. Use the past participle of 'eat'.
+    *   Correct Answer: C) have eaten
+
+13. She ___ her chores. Her room is tidy now.
+    A) did
+    B) do
+    C) has done
+    D) is doing
+    *   Hint: The tidy room is the result of her completing her chores. Use the past participle of 'do'.
+    *   Correct Answer: C) has done
+
+14. We can't go to the concert. We ___ tickets.
+    A) didn't buy
+    B) haven't bought
+    C) don't buy
+    D) aren't buying
+    *   Hint: Our current inability to go is because we didn't buy tickets, which is a past inaction with a present result.
+    *   Correct Answer: B) haven't bought
+
+15. He looks tired. He ___ much sleep.
+    A) not have
+    B) hasn't had
+    C) didn't have
+    D) doesn't have
+    *   Hint: His current appearance is due to a past lack of sleep. Use the negative present perfect of 'have'.
+    *   Correct Answer: B) hasn't had
+
+16. The cat ___ a mouse. Look, it's on the floor!
+    A) catch
+    B) caught
+    C) has caught
+    D) is catching
+    *   Hint: The mouse on the floor is the present result of the cat's action. Use the past participle of 'catch'.
+    *   Correct Answer: C) has caught
+
+17. My car is very clean now. I ___ it.
+    A) wash
+    B) washed
+    C) have washed
+    D) am washing
+    *   Hint: The current cleanliness of the car is the result of a past action.
+    *   Correct Answer: C) have washed
+
+18. They ___ a new house. They moved in last week.
+    A) bought
+    B) buy
+    C) have bought
+    D) are buying
+    *   Hint: Their current living situation is the result of a past purchase.
+    *   Correct Answer: C) have bought
+
+19. She's happy because she ___ her exam.
+    A) pass
+    B) passed
+    C) has passed
+    D) is passing
+    *   Hint: Her current happiness is the result of a successful past action.
+    *   Correct Answer: C) has passed
+
+20. We ___ our dinner. Now we can watch a movie.
+    A) finish
+    B) finished
+    C) have finished
+    D) are finishing
+    *   Hint: Our current ability to watch a movie is the result of completing dinner.
+    *   Correct Answer: C) have finished [36, Section B, example of 'finished']
+
+21. I ___ the letter. It's ready to send.
+    A) write
+    B) wrote
+    C) have written
+    D) am writing
+    *   Hint: The letter being ready now is the result of writing it. Use the past participle of 'write'.
+    *   Correct Answer: C) have written
+
+22. The lights are off. Someone ___ them off.
+    A) turn
+    B) turned
+    C) has turned
+    D) is turning
+    *   Hint: The current state of the lights is the result of a past action.
+    *   Correct Answer: C) has turned
+
+23. ___ he sent the email? I need to know.
+    A) Do
+    B) Has
+    C) Is
+    D) Did
+    *   Hint: This is a question about a past action with a present relevance.
+    *   Correct Answer: B) Has
+
+24. She can't open her bag. She ___ her keys.
+    A) lost
+    B) lose
+    C) has lost
+    D) is losing
+    *   Hint: Her current inability to open the bag is the result of a past action.
+    *   Correct Answer: C) has lost
+
+25. The floor is wet. Someone ___ the water.
+    A) spill
+    B) spilled
+    C) has spilled
+    D) is spilling
+    *   Hint: The wet floor is a present result of a past action.
+    *   Correct Answer: C) has spilled
+
+26. I ___ my new book. It's on the table now.
+    A) buy
+    B) bought
+    C) have bought
+    D) am buying
+    *   Hint: The book being on the table now is the result of a past purchase.
+    *   Correct Answer: C) have bought
+
+27. They ___ their passports. They can't travel now.
+    A) not find
+    B) haven't found
+    C) didn't find
+    D) don't find
+    *   Hint: Their current inability to travel is due to a past inaction. Use the negative present perfect of 'find'.
+    *   Correct Answer: B) haven't found
+
+28. The game ___ . We can start playing.
+    A) start
+    B) started
+    C) has started
+    D) is starting
+    *   Hint: Our ability to play now is the result of the game beginning.
+    *   Correct Answer: C) has started [36, Section B, example of 'started']
+
+29. He's very happy. He ___ a good job.
+    A) get
+    B) got
+    C) has got
+    D) is getting
+    *   Hint: His current happiness is the result of a past event. 'Got' is the past participle of 'get'.
+    *   Correct Answer: C) has got
+
+30. We ___ the new movie yet. It's still in cinemas.
+    A) didn't see
+    B) haven't seen
+    C) don't see
+    D) aren't seeing
+    *   Hint: The movie still being in cinemas implies a present opportunity, and 'yet' signals a negative present perfect. Use the past participle of 'see'.
+    *   Correct Answer: B) haven't seen

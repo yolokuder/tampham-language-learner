@@ -1,275 +1,245 @@
-Here are 30 quiz questions designed to help you practice the grammar points from Unit 8 of "Essential Grammar in Use," which covers the **present continuous (I am doing)** and **present simple (I do)** tenses.
+Certainly! Unit 08 of "Essential Grammar in Use" focuses on the distinction between the **present continuous** (I am doing) and the **present simple** (I do), explaining when to use each tense for actions happening **now** or **around the time of speaking** versus actions that are **general truths** or happen **sometimes**. It also highlights verbs that are generally **not used in the continuous form** [23, D].
 
-***
+Here are 30 quiz questions designed to help you practice the grammar points of Unit 08:
 
-### Unit 8: Present Continuous and Present Simple Quiz
+---
 
-1.  Please be quiet! I ______ to concentrate.
-    A) try
-    B) am trying [23B]
-    C) tries
-    D) are trying
+1.  Look! Sarah _______ (sing) a song now.
+    A) sings
+    B) **is singing**
+    C) sing
+    D) has sung
+    *   **Hint:** The word "**now**" indicates an action happening at the moment of speaking, requiring the present continuous tense [23, B].
+    *   **Correct Answer:** B) is singing
 
-    **Hint**: The phrase "Please be quiet!" indicates an action happening **now**, which requires the present continuous [23B].
-    **Answer**: B) am trying
+2.  My brother usually _______ (play) football on Saturdays.
+    A) is playing
+    B) play
+    C) **plays**
+    D) played
+    *   **Hint:** "**Usually**" indicates a regular habit or routine, which calls for the present simple tense [23, C].
+    *   **Correct Answer:** C) plays
 
-2.  What ______ you ______? You look busy.
-    A) do ... do
-    B) are ... doing [23B]
-    C) does ... do
-    D) is ... doing
+3.  Please be quiet. I _______ (work).
+    A) work
+    B) **am working**
+    C) works
+    D) worked
+    *   **Hint:** The request "**Please be quiet**" suggests the action is happening right now, requiring the present continuous [23, B].
+    *   **Correct Answer:** B) am working
 
-    **Hint**: The phrase "You look busy" suggests an action happening **at the moment of speaking**, requiring the present continuous [23B].
-    **Answer**: B) are ... doing
-
-3.  I ______ work every day from 9 to 5.
-    A) am working
-    B) working
-    C) work [23C]
-    D) works
-
-    **Hint**: "Every day from 9 to 5" describes a **regular or habitual action**, which uses the present simple [23C].
-    **Answer**: C) work
-
-4.  He usually ______ a shower in the morning.
-    A) is having
-    B) has [23C]
-    C) have
-    D) having
-
-    **Hint**: "Usually" indicates a **habitual action**, requiring the present simple. For 'he', the verb 'have' becomes 'has' [23C].
-    **Answer**: B) has
-
-5.  Look! It ______ outside.
-    A) rains
-    B) is raining [23B]
-    C) rain
-    D) raining
-
-    **Hint**: "Look!" signals an action happening **at this very moment**, using the present continuous [23B].
-    **Answer**: B) is raining
-
-6.  I ______ to go home now, I'm tired.
-    A) am wanting
-    B) wants
-    C) want [23D]
-    D) wanting
-
-    **Hint**: The verb 'want' is generally **not used in the continuous form**; it expresses a state or feeling [23D].
-    **Answer**: C) want
-
-7.  She ______ English at university this year.
-    A) studies
-    B) is studying [23B]
-    C) study
-    D) studying
-
-    **Hint**: "This year" suggests an ongoing action or project **around the present time**, which can be expressed with the present continuous [23B].
-    **Answer**: B) is studying
-
-8.  They ______ to the cinema every weekend.
-    A) are going
-    B) goes
-    C) go [23C]
-    D) is going
-
-    **Hint**: "Every weekend" indicates a **regular habit**, requiring the present simple [23C].
-    **Answer**: C) go
-
-9.  Why ______ you ______ under the table?
-    A) do ... do
-    B) are ... doing [23B]
-    C) does ... do
-    D) is ... doing
-
-    **Hint**: This question asks about an action happening **at the moment**, requiring the present continuous [23B].
-    **Answer**: B) are ... doing
-
-10. My brother ______ coffee, but I ______ tea.
-    A) likes ... prefer [23C, 23D]
-    B) is liking ... am preferring
-    C) like ... prefer
-    D) is liking ... prefer
-
-    **Hint**: Both 'like' and 'prefer' are verbs that **express states/preferences** and are typically used in the present simple, not continuous [23D].
-    **Answer**: A) likes ... prefer
-
-11. What kind of music ______ you usually ______ to?
-    A) are ... listening
-    B) do ... listen [23C]
-    C) are ... listen
-    D) does ... listen
-
-    **Hint**: "Usually" indicates a **regular habit or general truth**, requiring the present simple. The structure is 'Do/Does + subject + base verb' [23C].
-    **Answer**: B) do ... listen
-
-12. The sun ______ in the east.
-    A) is rising
-    B) rise
-    C) rises [23C]
-    D) rising
-
-    **Hint**: This is a **general truth or fact**, which uses the present simple [23C].
-    **Answer**: C) rises
-
-13. Don't disturb him. He ______ a very important email.
-    A) writes
-    B) is writing [23B]
-    C) write
-    D) writing
-
-    **Hint**: "Don't disturb him" implies an action happening **right now**, using the present continuous [23B].
-    **Answer**: B) is writing
-
-14. We ______ dinner at 7 PM every evening.
-    A) are having
-    B) have [23C]
-    C) has
-    D) having
-
-    **Hint**: "Every evening" denotes a **regular habit**, requiring the present simple [23C].
-    **Answer**: B) have
-
-15. Excuse me, ______ you ______ English?
-    A) Do ... speak [23D]
-    B) Are ... speaking
-    C) Does ... speak
-    D) Do ... speaking
-
-    **Hint**: 'Speak' in this context refers to a general ability or knowledge, not an action happening right now. It is used in the present simple [23D].
-    **Answer**: A) Do ... speak
-
-16. Sarah ______ for a new job these days.
-    A) looks
-    B) is looking [23B]
-    C) look
-    D) looking
-
-    **Hint**: "These days" suggests an activity happening **around the present time, but not necessarily at this exact moment**, which uses the present continuous [23B].
-    **Answer**: B) is looking
-
-17. How often ______ you ______ to the gym?
-    A) are ... going
-    B) do ... go [23C]
-    C) does ... go
-    D) are ... go
-
-    **Hint**: "How often" asks about **frequency or habit**, requiring the present simple [23C].
-    **Answer**: B) do ... go
-
-18. He ______ television very often.
-    A) doesn't watch [23C]
-    B) isn't watching
-    C) don't watch
-    D) not watch
-
-    **Hint**: "Very often" refers to a **general habit or routine**, using the present simple negative [23C].
-    **Answer**: A) doesn't watch
-
-19. They ______ dinner right now.
-    A) cook
-    B) cooks
-    C) are cooking [23B]
-    D) is cooking
-
-    **Hint**: "Right now" clearly indicates an action happening **at this moment**, requiring the present continuous [23B].
-    **Answer**: C) are cooking
-
-20. I usually ______ up early.
-    A) am getting
-    B) get [23C]
-    C) gets
-    D) getting
-
-    **Hint**: "Usually" indicates a **habitual action**, requiring the present simple [23C].
-    **Answer**: B) get
-
-21. What time ______ the banks ______ in your country?
-    A) are ... opening
-    B) do ... open [23C]
-    C) does ... open
-    D) are ... open
-
-    **Hint**: This asks about a **regular schedule or general fact** (bank opening hours), using the present simple [23C].
-    **Answer**: B) do ... open
-
-22. We ______ a party next Saturday.
-    A) have
-    B) are having [23B]
-    C) has
-    D) having
-
-    **Hint**: The present continuous can be used for **definite future arrangements**, especially when the time is specified ("next Saturday") [23B]. This is information from outside of the specified unit, as unit 8 focuses on actions happening now or in general, and unit 26 explicitly covers future arrangements with present continuous. You may want to independently verify this information in Unit 26 of your book. However, within the context of Unit 8's scope, the nuance between "now" and "around now" can extend to current plans.
-    **Answer**: B) are having
-
-23. She ______ English very well.
-    A) is understanding
-    B) understand
-    C) understands [23D]
-    D) understanding
-
-    **Hint**: The verb 'understand' is a **state verb** and is not typically used in the continuous form [23D].
-    **Answer**: C) understands
-
-24. Excuse me, ______ you ______ where the post office is?
-    A) Are ... knowing
-    B) Do ... know [23D]
-    C) Does ... know
-    D) Are ... know
-
-    **Hint**: The verb 'know' is a **state verb** and is not used in the continuous form [23D].
-    **Answer**: B) Do ... know
-
-25. The children ______ at the moment.
-    A) play
-    B) plays
-    C) are playing [23B]
-    D) is playing
-
-    **Hint**: "At the moment" clearly indicates an action happening **now**, requiring the present continuous [23B].
-    **Answer**: C) are playing
-
-26. I ______ on Saturdays.
-    A) am not working
-    B) don't work [23C]
-    C) doesn't work
-    D) not working
-
-    **Hint**: "On Saturdays" indicates a **regular occurrence or habit**, requiring the present simple negative [23C].
-    **Answer**: B) don't work
-
-27. How much ______ it ______ to fly to Rome?
-    A) is ... costing
-    B) do ... cost
-    C) does ... cost [23C]
-    D) are ... cost
-
-    **Hint**: This question asks about a **general fact or price**, using the present simple. For 'it', use 'does' [23C]. The verb 'cost' is a state verb and is not used in the continuous form.
-    **Answer**: C) does ... cost
-
-28. The water ______ at 100 degrees Celsius.
-    A) boils
-    B) is boiling
+4.  Water _______ (boil) at 100 degrees Celsius.
+    A) is boiling
+    B) **boils**
     C) boil
-    D) boiling
+    D) boiled
+    *   **Hint:** This is a **general truth** or scientific fact, which requires the present simple tense [23, C].
+    *   **Correct Answer:** B) boils
 
-    **Hint**: This is a **scientific fact or general truth**, which uses the present simple [23C].
-    **Answer**: A) boils
+5.  What _______ you _______ (do) at the moment?
+    A) do / do
+    B) **are / doing**
+    C) are / do
+    D) do / doing
+    *   **Hint:** "**At the moment**" indicates an action happening right now, requiring the present continuous tense [23, B].
+    *   **Correct Answer:** B) are / doing
 
-29. My sister ______ the guitar right now.
-    A) plays
-    B) is playing [23B]
-    C) play
-    D) playing
+6.  He _______ (not / watch) television very often.
+    A) isn't watching
+    B) **doesn't watch**
+    C) don't watch
+    D) not watches
+    *   **Hint:** "**Very often**" indicates a regular frequency, suggesting the present simple tense for something that happens "sometimes" [23, C].
+    *   **Correct Answer:** B) doesn't watch
 
-    **Hint**: "Right now" indicates an action happening **at this moment**, requiring the present continuous [23B].
-    **Answer**: B) is playing
+7.  I _______ (want) to go home now.
+    A) am wanting
+    B) **want**
+    C) wanting
+    D) wants
+    *   **Hint:** The verb "**want**" is typically not used in the continuous form, as it's a state verb [23, D].
+    *   **Correct Answer:** B) want
 
-30. Why ______ you look so sad? What ______ you ______?
-    A) are ... do
-    B) do ... do
-    C) do ... doing
-    D) are ... doing [23B]
+8.  They _______ (have) dinner every evening at 7 PM.
+    A) are having
+    B) **have**
+    C) has
+    D) having
+    *   **Hint:** "**Every evening**" describes a regular habit, which uses the present simple tense [23, C].
+    *   **Correct Answer:** B) have
 
-    **Hint**: The first part uses the present simple for a state. The second part asks about an action happening **at the moment** ('doing'), requiring the present continuous [23B].
-    **Answer**: D) are ... doing
+9.  Why _______ you _______ (look) at me like that?
+    A) do / look
+    B) **are / looking**
+    C) are / look
+    D) do / looking
+    *   **Hint:** The question implies observing an action happening **at the moment of speaking**, requiring the present continuous.
+    *   **Correct Answer:** B) are / looking
+
+10. The sun _______ (rise) in the east.
+    A) is rising
+    B) **rises**
+    C) rise
+    D) rose
+    *   **Hint:** This is a **general truth** or a universal fact, which uses the present simple tense [23, C].
+    *   **Correct Answer:** B) rises
+
+11. She _______ (study) for her exam this week.
+    A) studies
+    B) **is studying**
+    C) study
+    D) studied
+    *   **Hint:** "**This week**" indicates a **temporary action happening around now**, even if not at the exact moment of speaking, requiring the present continuous [23, B].
+    *   **Correct Answer:** B) is studying
+
+12. I never _______ (eat) meat.
+    A) am never eating
+    B) **never eat**
+    C) don't ever eat
+    D) am eating never
+    *   **Hint:** "**Never**" indicates a general truth or habit about oneself, which uses the present simple tense [23, C].
+    *   **Correct Answer:** B) never eat
+
+13. Excuse me, _______ you _______ (know) where the nearest bank is?
+    A) are / knowing
+    B) **do / know**
+    C) do / knowing
+    D) are / know
+    *   **Hint:** The verb "**know**" is a state verb and is typically not used in the continuous form [23, D].
+    *   **Correct Answer:** B) do / know
+
+14. The children _______ (play) outside right now.
+    A) play
+    B) **are playing**
+    C) plays
+    D) played
+    *   **Hint:** "**Right now**" specifies an action happening at this exact moment, requiring the present continuous [23, B].
+    *   **Correct Answer:** B) are playing
+
+15. He _______ (not / understand) what you mean.
+    A) isn't understanding
+    B) **doesn't understand**
+    C) don't understand
+    D) not understands
+    *   **Hint:** The verb "**understand**" is a state verb and is typically not used in the continuous form [23, D].
+    *   **Correct Answer:** B) doesn't understand
+
+16. How often _______ you _______ (go) to the cinema?
+    A) are / going
+    B) **do / go**
+    C) does / go
+    D) are / go
+    *   **Hint:** "**How often**" asks about frequency or habit, which uses the present simple tense [23, C].
+    *   **Correct Answer:** B) do / go
+
+17. Look! It _______ (rain) outside.
+    A) rains
+    B) **is raining**
+    C) rain
+    D) rained
+    *   **Hint:** "**Look!**" suggests something happening **at the moment of speaking**, requiring the present continuous tense [23, B].
+    *   **Correct Answer:** B) is raining
+
+18. Anna _______ (not / like) coffee.
+    A) isn't liking
+    B) **doesn't like**
+    C) don't like
+    D) not likes
+    *   **Hint:** The verb "**like**" is a state verb and is typically not used in the continuous form [23, D].
+    *   **Correct Answer:** B) doesn't like
+
+19. What time _______ the banks _______ (close) in your country?
+    A) are / closing
+    B) **do / close**
+    C) does / close
+    D) is / closing
+    *   **Hint:** This question asks about a general timetable or **regular closing time**, which uses the present simple tense [23, C].
+    *   **Correct Answer:** B) do / close
+
+20. I _______ (read) a very interesting book at the moment.
+    A) read
+    B) **am reading**
+    C) reads
+    D) have read
+    *   **Hint:** "**At the moment**" implies an action that is **ongoing right now**, requiring the present continuous [23, B].
+    *   **Correct Answer:** B) am reading
+
+21. Birds _______ (fly).
+    A) are flying
+    B) **fly**
+    C) flies
+    D) is flying
+    *   **Hint:** This is a **general truth** about birds, requiring the present simple tense [23, C].
+    *   **Correct Answer:** B) fly
+
+22. What _______ Jim _______ (do) for a living? He's a teacher.
+    A) is / doing
+    B) **does / do**
+    C) is / do
+    D) does / doing
+    *   **Hint:** "**For a living**" asks about someone's regular profession or occupation, which is a general fact and uses the present simple tense [23, C].
+    *   **Correct Answer:** B) does / do
+
+23. She _______ (wear) a new dress today.
+    A) wears
+    B) **is wearing**
+    C) wear
+    D) worn
+    *   **Hint:** "**Today**" can refer to a **temporary action or state happening around now**, requiring the present continuous [23, B].
+    *   **Correct Answer:** B) is wearing
+
+24. We _______ (not / watch) TV very often.
+    A) aren't watching
+    B) **don't watch**
+    C) haven't watched
+    D) didn't watch
+    *   **Hint:** "**Very often**" indicates a frequency, suggesting the present simple for something that happens "sometimes" [23, C].
+    *   **Correct Answer:** B) don't watch
+
+25. Tom _______ (take) a shower at the moment.
+    A) takes
+    B) **is taking**
+    C) take
+    D) took
+    *   **Hint:** "**At the moment**" indicates an action happening right now, requiring the present continuous [23, B].
+    *   **Correct Answer:** B) is taking
+
+26. I _______ (not / like) cold weather.
+    A) am not liking
+    B) **don't like**
+    C) am not like
+    D) doesn't like
+    *   **Hint:** The verb "**like**" is a state verb and is typically not used in the continuous form [23, D].
+    *   **Correct Answer:** B) don't like
+
+27. _______ you _______ (believe) in ghosts?
+    A) Are / believing
+    B) **Do / believe**
+    C) Does / believe
+    D) Are / believe
+    *   **Hint:** The verb "**believe**" is a state verb and is generally not used in the continuous form. This question asks about a **general belief** [23, D].
+    *   **Correct Answer:** B) Do / believe
+
+28. The water _______ (get) colder.
+    A) gets
+    B) **is getting**
+    C) get
+    D) getting
+    *   **Hint:** This describes a **gradual change happening around the present time**, suggesting the present continuous [23, B].
+    *   **Correct Answer:** B) is getting
+
+29. My sister always _______ (drink) tea in the morning.
+    A) is drinking
+    B) **drinks**
+    C) drink
+    D) drank
+    *   **Hint:** "**Always**" with a regular habit uses the present simple tense [23, C].
+    *   **Correct Answer:** B) drinks
+
+30. Why _______ you _______ (cry)? Is something wrong?
+    A) do / cry
+    B) **are / crying**
+    C) does / cry
+    D) do / crying
+    *   **Hint:** The question implies observing an action happening **right now**, requiring the present continuous [23, B].
+    *   **Correct Answer:** B) are / crying

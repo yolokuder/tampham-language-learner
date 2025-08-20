@@ -1,275 +1,245 @@
-Here are 30 quiz questions to help you practice the grammar points from Unit 7 of "Essential Grammar in Use," which focuses on forming questions in the **present simple tense** using 'do' and 'does'.
+Of course! Let's practice Unit 07, which focuses on forming questions in the **present simple tense** using **do** and **does** [22, A]. This unit teaches how to ask about **general activities or habits** [22, C] and how to provide **short answers** [22, D].
 
-***
+Here are 30 quiz questions for Unit 07 of "Essential Grammar in Use":
 
-### Unit 7: Present Simple Questions Quiz
+---
 
-1.  ______ you like pizza?
-    A) Does [21A]
-    B) Do [21A]
+1.  _______ you **live** in a big city?
+    A) Are
+    B) Is
+    C) **Do**
+    D) Does
+    *   **Hint:** For "you" in the present simple question, we use **Do** [22, A].
+    *   **Correct Answer:** C) Do
+
+2.  What _______ she **do** for a living?
+    A) do
+    B) are
+    C) is
+    D) **does**
+    *   **Hint:** For "she" in the present simple question, we use **Does** [22, A]. The question asks about her regular occupation [22, C].
+    *   **Correct Answer:** D) does
+
+3.  _______ they **work** on weekends?
+    A) Is
+    B) Does
+    C) **Do**
+    D) Are
+    *   **Hint:** For "they" in the present simple question, we use **Do** [22, A].
+    *   **Correct Answer:** C) Do
+
+4.  How often _______ he **go** to the cinema?
+    A) is
+    B) are
+    C) **does**
+    D) do
+    *   **Hint:** The question asks about frequency ("how often"), requiring the present simple, and for "he" we use **does** [22, B, C].
+    *   **Correct Answer:** C) does
+
+5.  _______ it **rain** a lot in winter?
+    A) Do
+    B) Are
+    C) Is
+    D) **Does**
+    *   **Hint:** For "it" in the present simple question, we use **Does** [22, A]. This is a general truth about the weather.
+    *   **Correct Answer:** D) Does
+
+6.  When _______ the banks **close**?
+    A) are
+    B) **do**
+    C) does
+    D) is
+    *   **Hint:** We use **do** for "the banks" (plural) to ask about their regular closing time [22, B].
+    *   **Correct Answer:** B) do
+
+7.  _______ you **like** chocolate?
+    A) Are
+    B) Is
+    C) **Do**
+    D) Does
+    *   **Hint:** For "you" in the present simple question, we use **Do** [22, A]. The verb "like" is about a general preference [22, C].
+    *   **Correct Answer:** C) Do
+
+8.  What time _______ you **get up** in the morning?
+    A) are
+    B) **do**
+    C) does
+    D) is
+    *   **Hint:** This asks about your daily routine ("get up"), requiring the present simple, and for "you" we use **do** [22, B].
+    *   **Correct Answer:** B) do
+
+9.  _______ Paul **play** tennis?
+    A) Do
+    B) **Does**
     C) Is
     D) Are
+    *   **Hint:** For "Paul" (he) in the present simple question, we use **Does** [22, A].
+    *   **Correct Answer:** B) Does
 
-    **Hint**: For the subject 'you', the auxiliary verb used to form a present simple question is 'Do' [21A].
-    **Answer**: B) Do
-
-2.  ______ she live in London?
-    A) Do [21A]
+10. _______ they **have** a car?
+    A) Does
     B) Is
-    C) Does [21A]
-    D) Has
+    C) **Do**
+    D) Are
+    *   **Hint:** For "they" in the present simple question, we use **Do** [22, A].
+    *   **Correct Answer:** C) Do
 
-    **Hint**: For the subject 'she', the auxiliary verb used to form a present simple question is 'Does' [21A].
-    **Answer**: C) Does
+11. _______ your parents **speak** English?
+    A) Is
+    B) Does
+    C) **Do**
+    D) Are
+    *   **Hint:** "Your parents" is plural ("they"), so we use **Do** [22, A].
+    *   **Correct Answer:** C) Do
 
-3.  ______ they work here?
-    A) Does [21A]
-    B) Do [21A]
-    C) Are
-    D) Have
+12. Where _______ Jim **work**?
+    A) is
+    B) **does**
+    C) do
+    D) are
+    *   **Hint:** For "Jim" (he) in the present simple question, we use **does** [22, A].
+    *   **Correct Answer:** B) does
 
-    **Hint**: For the subject 'they', the auxiliary verb used to form a present simple question is 'Do' [21A].
-    **Answer**: B) Do
+13. _______ George **live** in London?
+    A) Do
+    B) **Does**
+    C) Is
+    D) Are
+    *   **Hint:** For "George" (he) in the present simple question, we use **Does** [22, A].
+    *   **Correct Answer:** B) Does
 
-4.  ______ he speak French?
-    A) Do [21A]
-    B) Is
-    C) Does [21A]
-    D) Has
+14. _______ she **go** to the gym every day?
+    A) Do
+    B) **Does**
+    C) Is
+    D) Are
+    *   **Hint:** "Every day" indicates a habit, and for "she" we use **Does** [22, C].
+    *   **Correct Answer:** B) Does
 
-    **Hint**: For the subject 'he', the auxiliary verb used to form a present simple question is 'Does' [21A].
-    **Answer**: C) Does
-
-5.  ______ it rain a lot in summer?
-    A) Do [21A]
-    B) Is
-    C) Does [21A]
-    D) Not
-
-    **Hint**: For the subject 'it', the auxiliary verb used to form a present simple question is 'Does' [21A].
-    **Answer**: C) Does
-
-6.  Do you ______ in a big city?
-    A) lives
-    B) living
-    C) live [21A]
-    D) lived
-
-    **Hint**: After 'Do' or 'Does', the main verb must always be in its base (infinitive) form [21A].
-    **Answer**: C) live
-
-7.  Does she ______ to the gym every day?
-    A) goes
-    B) going
-    C) went
-    D) go [21A]
-
-    **Hint**: After 'Do' or 'Does', the main verb must always be in its base (infinitive) form [21A].
-    **Answer**: D) go
-
-8.  Do they ______ a car?
-    A) has
-    B) having
-    C) have [21A]
-    D) had
-
-    **Hint**: After 'Do' or 'Do', the main verb must always be in its base (infinitive) form [21A].
-    **Answer**: C) have
-
-9.  Does he ______ TV in the evening?
-    A) watches
-    B) watch [21A]
-    C) watching
-    D) watched
-
-    **Hint**: After 'Do' or 'Does', the main verb must always be in its base (infinitive) form [21A].
-    **Answer**: B) watch
-
-10. Do we ______ any help?
-    A) needs
-    B) needing
-    C) need [21A]
-    D) needed
-
-    **Hint**: After 'Do' or 'Does', the main verb must always be in its base (infinitive) form [21A].
-    **Answer**: C) need
-
-11. ______ your parents ______ in Canada?
-    A) Do ... lives [21A, 21C]
-    B) Does ... live
-    C) Do ... live [21A, 21C]
-    D) Does ... lives
-
-    **Hint**: 'Your parents' is a plural subject (they), so use 'Do'. The main verb needs to be in its base form [21A, 21C].
-    **Answer**: C) Do ... live
-
-12. ______ your sister ______ in a bank?
-    A) Do ... work
-    B) Does ... works
-    C) Does ... work [21A, 21C]
-    D) Do ... works
-
-    **Hint**: 'Your sister' is a singular subject (she), so use 'Does'. The main verb needs to be in its base form [21A, 21C].
-    **Answer**: C) Does ... work
-
-13. ______ you ______ tennis?
-    A) Do ... plays
-    B) Does ... play
-    C) Do ... play [21A]
-    D) Are ... play
-
-    **Hint**: For the subject 'you', the auxiliary verb is 'Do'. The main verb should be in its base form [21A].
-    **Answer**: C) Do ... play
-
-14. ______ Jim ______ chocolate?
-    A) Do ... like
-    B) Does ... likes
-    C) Does ... like [21A, 21C]
-    D) Do ... likes
-
-    **Hint**: 'Jim' is a singular subject (he), so use 'Does'. The main verb needs to be in its base form [21A, 21C].
-    **Answer**: C) Does ... like
-
-15. ______ they ______ to the cinema often?
-    A) Does ... go
-    B) Do ... goes
-    C) Do ... go [21A, 21C]
-    D) Are ... going
-
-    **Hint**: For the subject 'they', use 'Do'. The main verb needs to be in its base form [21A, 21C].
-    **Answer**: C) Do ... go
-
-16. ______ you often ______ out?
-    A) Do ... eats
-    B) Do ... eat [21A, 21B]
-    C) Does ... eat
-    D) Are ... eating
-
-    **Hint**: For 'you', use 'Do'. Adverbs like 'often' are placed between the subject and the main verb, which remains in its base form [21A, 21B].
-    **Answer**: B) Do ... eat
-
-17. ______ she usually ______ early?
-    A) Do ... gets up
-    B) Does ... get up [21A, 21B]
-    C) Do ... get up
-    D) Does ... gets up
-
-    **Hint**: For 'she', use 'Does'. Adverbs like 'usually' are placed between the subject and the main verb, which remains in its base form [21A, 21B].
-    **Answer**: B) Does ... get up
-
-18. ______ they always ______ coffee in the morning?
-    A) Do ... drink [21A, 21B]
-    B) Does ... drink
-    C) Do ... drinks
-    D) Are ... drinking
-
-    **Hint**: For 'they', use 'Do'. Adverbs like 'always' are placed between the subject and the main verb, which remains in its base form [21A, 21B].
-    **Answer**: A) Do ... drink
-
-19. ______ he often ______ for work?
-    A) Does ... travels
-    B) Do ... travel
-    C) Does ... travel [21A, 21B]
-    D) Is ... traveling
-
-    **Hint**: For 'he', use 'Does'. Adverbs like 'often' are placed between the subject and the main verb, which remains in its base form [21A, 21B].
-    **Answer**: C) Does ... travel
-
-20. ______ it usually ______ in winter here?
-    A) Do ... snows
-    B) Does ... snow [21A, 21B]
-    C) Do ... snow
-    D) Is ... snowing
-
-    **Hint**: For 'it', use 'Does'. Adverbs like 'usually' are placed between the subject and the main verb, which remains in its base form [21A, 21B].
-    **Answer**: B) Does ... snow
-
-21. What ______ you ______ in your free time?
-    A) does ... do
-    B) do ... doing
-    C) do ... do [21B]
-    D) are ... doing
-
-    **Hint**: The word order for questions with a question word is: Question word + do/does + subject + infinitive. For 'you', use 'do' [21B].
-    **Answer**: C) do ... do
-
-22. Where ______ she ______ for holidays?
-    A) does ... goes
-    B) do ... go
-    C) does ... go [21B]
-    D) is ... going
-
-    **Hint**: The word order is Question word + do/does + subject + infinitive. For 'she', use 'does' [21B].
-    **Answer**: C) does ... go
-
-23. How often ______ he ______ his family?
-    A) do ... visit
-    B) does ... visits
-    C) does ... visit [21B]
-    D) is ... visiting
-
-    **Hint**: The word order is Question word + do/does + subject + infinitive. For 'he', use 'does' [21B].
-    **Answer**: C) does ... visit
-
-24. When ______ the shops ______?
-    A) does ... open
-    B) do ... opens
-    C) do ... open [21B]
-    D) are ... opening
-
-    **Hint**: 'The shops' is a plural subject (they), so use 'do'. The word order is Question word + do/does + subject + infinitive [21B].
-    **Answer**: C) do ... open
-
-25. What ______ that word ______?
-    A) do ... mean
-    B) does ... means
-    C) does ... mean [21B]
-    D) is ... meaning
-
-    **Hint**: 'That word' is a singular subject (it), so use 'does'. The word order is Question word + do/does + subject + infinitive [21B].
-    **Answer**: C) does ... mean
-
-26. Do you play tennis? Yes, I ______.
-    A) do [21D]
-    B) does
-    C) am
-    D) don't
-
-    **Hint**: For short answers with 'I' and 'Do you...?', the positive form is 'Yes, I do' [21D].
-    **Answer**: A) do
-
-27. Does Mark live in London? No, he ______.
+15. What _______ this word **mean**?
     A) do
-    B) don't
-    C) doesn't [21D]
-    D) isn't
+    B) are
+    C) is
+    D) **does**
+    *   **Hint:** For "this word" (it) in the present simple question, we use **does** [22, A].
+    *   **Correct Answer:** D) does
 
-    **Hint**: For short answers with 'he' and 'Does he...?', the negative form is 'No, he doesn't' [21D].
-    **Answer**: C) doesn't
+16. How much _______ it **cost**?
+    A) do
+    B) are
+    C) is
+    D) **does**
+    *   **Hint:** To ask about the general price of "it", we use **does** [22, B].
+    *   **Correct Answer:** D) does
 
-28. Do your friends speak English? Yes, they ______.
-    A) do [21D]
-    B) don't
-    C) does
-    D) are
+17. _______ you **understand**?
+    A) Are
+    B) Is
+    C) **Do**
+    D) Does
+    *   **Hint:** For "you" in the present simple question, we use **Do** [22, A].
+    *   **Correct Answer:** C) Do
 
-    **Hint**: 'Your friends' is a plural subject (they), so the positive short answer uses 'do' [21D].
-    **Answer**: A) do
-
-29. Does it rain a lot here? No, it ______.
-    A) don't
-    B) doesn't [21D]
-    C) isn't
-    D) not
-
-    **Hint**: For short answers with 'it' and 'Does it...?', the negative form is 'No, it doesn't' [21D].
-    **Answer**: B) doesn't
-
-30. Do your parents work? Yes, they ______.
+18. Where _______ you **go** to school?
     A) does
-    B) do [21D]
-    C) don't
-    D) are
+    B) **do**
+    C) are
+    D) is
+    *   **Hint:** For "you" in the present simple question, we use **Do** [22, A].
+    *   **Correct Answer:** B) do
 
-    **Hint**: 'Your parents' is a plural subject (they), so the positive short answer uses 'do' [21D].
-    **Answer**: B) do
+19. _______ Anna **like** reading?
+    A) Do
+    B) **Does**
+    C) Are
+    D) Is
+    *   **Hint:** For "Anna" (she) in the present simple question, we use **Does** [22, A].
+    *   **Correct Answer:** B) Does
+
+20. What kind of music _______ you **listen** to?
+    A) does
+    B) are
+    C) is
+    D) **do**
+    *   **Hint:** This question asks about a general preference, and for "you" we use **do** [22, B, C].
+    *   **Correct Answer:** D) do
+
+21. _______ he **always** **work** hard?
+    A) Do
+    B) Is
+    C) Are
+    D) **Does**
+    *   **Hint:** "Always" indicates a habit, and for "he" we use **Does** [22, B, C].
+    *   **Correct Answer:** D) Does
+
+22. _______ Ann **have** a lot of friends?
+    A) Do
+    B) **Does**
+    C) Is
+    D) Are
+    *   **Hint:** For "Ann" (she) in the present simple question, we use **Does** [22, A].
+    *   **Correct Answer:** B) Does
+
+23. How many languages _______ you **speak**?
+    A) does
+    B) are
+    C) is
+    D) **do**
+    *   **Hint:** This asks about a general ability, and for "you" we use **do** [22, B, C].
+    *   **Correct Answer:** D) do
+
+24. _______ Tom **smoke**?
+    A) Do
+    B) **Does**
+    C) Is
+    D) Are
+    *   **Hint:** For "Tom" (he) in the present simple question, we use **Does** [22, A].
+    *   **Correct Answer:** B) Does
+
+25. _______ we **need** to buy more milk?
+    A) Does
+    B) Are
+    C) Is
+    D) **Do**
+    *   **Hint:** For "we" in the present simple question, we use **Do** [22, A].
+    *   **Correct Answer:** D) Do
+
+26. _______ your brother **play** the guitar?
+    A) Do
+    B) **Does**
+    C) Is
+    D) Are
+    *   **Hint:** "Your brother" (he) takes **Does** in the present simple question [22, A].
+    *   **Correct Answer:** B) Does
+
+27. What _______ you **do** at weekends?
+    A) is
+    B) does
+    C) are
+    D) **do**
+    *   **Hint:** This question asks about habitual activities, and for "you" we use **do** [22, B, C].
+    *   **Correct Answer:** D) do
+
+28. _______ your car **use** a lot of petrol?
+    A) Do
+    B) **Does**
+    C) Is
+    D) Are
+    *   **Hint:** "Your car" (it) takes **Does** in the present simple question [22, A].
+    *   **Correct Answer:** B) Does
+
+29. _______ they **often** **visit** their grandparents?
+    A) Does
+    B) Is
+    C) **Do**
+    D) Are
+    *   **Hint:** "Often" indicates frequency, and for "they" we use **Do** [22, B, C].
+    *   **Correct Answer:** C) Do
+
+30. _______ Mary **believe** in ghosts?
+    A) Do
+    B) **Does**
+    C) Is
+    D) Are
+    *   **Hint:** The verb "**believe**" is a state verb and typically used in the present simple. For "Mary" (she), we use **Does** [23, D].
+    *   **Correct Answer:** B) Does

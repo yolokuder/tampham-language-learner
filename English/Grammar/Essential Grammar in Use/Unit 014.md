@@ -1,245 +1,247 @@
-Here are 30 quiz questions to help you practice the grammar points from **Unit 14: I was doing (past continuous) and I did (past simple)** in "Essential Grammar in Use". This unit focuses on distinguishing between the past continuous (for actions in progress) and the past simple (for completed actions or events) [34A]. It also covers situations where two actions were happening at the same time in the past [34B].
+Here are 30 multiple-choice questions to help you practice the grammar point of Unit 14, "I was doing (past continuous) and I did (past simple)," from the "Essential Grammar in Use" book [2, p. 37]. This unit focuses on comparing the use of the **past continuous** (was/were + -ing) for actions that were in progress at a specific time in the past, and the **past simple** for actions that were completed in the past [34, Section A, B].
+
+The exercises often highlight situations where a longer action in the past continuous is interrupted by a shorter action in the past simple [34, Section A].
 
 ***
 
-### Unit 14: Past Continuous and Past Simple Quiz
+**Unit 14: I was doing (Past Continuous) and I did (Past Simple)**
 
-1.  When I saw Jack, he ______ (read) a book.
-    A) read
-    B) reads
-    C) **was reading** [34A]
-    D) is reading
+1.  I ___ (walk) down the street when I ___ (see) my friend.
+    A) was walking / saw
+    B) walked / was seeing
+    C) was walking / was seeing
+    D) walked / saw
+    *   Hint: The first action was in progress (long action), and the second was a sudden, completed action that interrupted it.
+    *   Correct Answer: A) was walking / saw [34, Section A, example of 'was reading' when 'the phone rang']
 
-    **Hint**: Use the past continuous to describe a longer action that was in progress when a shorter, completed action (seeing Jack) occurred [34A].
+2.  While I ___ (cook) dinner, the electricity ___ (go) out.
+    A) cooked / went
+    B) was cooking / went
+    C) cooked / was going
+    D) was cooking / was going
+    *   Hint: The first action was in progress, and the second was a sudden, completed event that interrupted it.
+    *   Correct Answer: B) was cooking / went
 
-2.  The phone ______ (ring) while I was having a shower.
-    A) was ringing
-    B) is ringing
-    C) rings
-    D) **rang** [34A]
+3.  What ___ you ___ (do) when I ___ (call) you yesterday?
+    A) were you doing / called
+    B) did you do / called
+    C) were you doing / was calling
+    D) did you do / was calling
+    *   Hint: The question asks about an action in progress at the specific moment of the call.
+    *   Correct Answer: A) were you doing / called [34, Section B, example of 'What were you doing at 10.30 yesterday?']
 
-    **Hint**: Use the past simple for a short, completed action that happened during an ongoing one [34A].
+4.  She ___ (watch) TV when she ___ (hear) a strange noise.
+    A) watched / heard
+    B) was watching / heard
+    C) watched / was hearing
+    D) was watching / was hearing
+    *   Hint: The TV watching was an ongoing activity that was interrupted by the noise.
+    *   Correct Answer: B) was watching / heard
 
-3.  What ______ you ______ (do) when the fire alarm rang?
-    A) did / do
-    B) are / doing
-    C) **were / doing** [34A]
-    D) do / do
+5.  I ___ (sleep) when the fire alarm ___ (ring).
+    A) slept / rang
+    B) was sleeping / rang
+    C) slept / was ringing
+    D) was sleeping / was ringing
+    *   Hint: The first action was in progress, and the second was a sudden event that interrupted it.
+    *   Correct Answer: B) was sleeping / rang
 
-    **Hint**: To ask about an action that was in progress at a specific moment in the past, use the past continuous question form (was/were + subject + -ing) [34A].
+6.  They ___ (play) football when it ___ (start) to rain.
+    A) played / started
+    B) were playing / started
+    C) played / was starting
+    D) were playing / was starting
+    *   Hint: The football playing was ongoing, and the rain started suddenly, interrupting the game.
+    *   Correct Answer: B) were playing / started
 
-4.  While I ______ (cook) dinner, my brother ______ (watch) TV.
-    A) cooked / watched
-    B) cooked / was watching
-    C) was cooking / watched
-    D) **was cooking / was watching** [34B]
+7.  He ___ (drive) home when he ___ (have) an accident.
+    A) drove / had
+    B) was driving / had
+    C) drove / was having
+    D) was driving / was having
+    *   Hint: The driving was in progress, and the accident happened suddenly.
+    *   Correct Answer: B) was driving / had
 
-    **Hint**: When two actions were happening simultaneously over a period in the past, both use the past continuous [34B].
+8.  At 7 PM last night, I ___ (eat) dinner.
+    A) ate
+    B) was eating
+    C) had eaten
+    D) am eating
+    *   Hint: The specific time (7 PM) indicates a moment when the action was in progress.
+    *   Correct Answer: B) was eating [34, Section B, describing an action at a specific point in time]
 
-5.  It ______ (rain) when we left the house this morning.
-    A) rained
-    B) rains
-    C) is raining
-    D) **was raining** [34A]
+9.  We ___ (not / go) out because it ___ (rain).
+    A) didn't go / rained
+    B) weren't going / rained
+    C) didn't go / was raining
+    D) weren't going / was raining
+    *   Hint: The continuous action of raining was the reason for a completed decision not to go out.
+    *   Correct Answer: C) didn't go / was raining [34, Section C, example comparing 'it rained' and 'it was raining']
 
-    **Hint**: This describes an ongoing weather condition at the specific moment of leaving the house [34A].
-
-6.  I ______ (not / watch) television when you called me last night.
-    A) didn't watch
-    B) don't watch
-    C) am not watching
-    D) **wasn't watching** [32B, 34A]
-
-    **Hint**: To express that an action was not in progress at a specific past time, use the negative past continuous (wasn't/weren't + -ing) [32B, 34A].
-
-7.  Jack ______ (read) a book when the phone rang.
-    A) read
-    B) reads
-    C) is reading
-    D) **was reading** [34A]
-
-    **Hint**: An ongoing action (reading) was interrupted by a sudden, completed event (the phone ringing) [34A].
-
-8.  I ______ (see) Sue and Steve last night. They ______ (wait) at the bus stop.
-    A) saw / waited
-    B) was seeing / waited
-    C) was seeing / were waiting
-    D) **saw / were waiting** [34A]
-
-    **Hint**: "Saw" is a quick, completed action, while "were waiting" describes an action in progress when you saw them [34A].
-
-9.  Jenny ______ (fall) asleep while she ______ (read).
-    A) fell / read
-    B) was falling / read
-    C) was falling / was reading
-    D) **fell / was reading** [34A]
-
-    **Hint**: "Fell asleep" is a sudden, completed action, while "was reading" describes the continuous activity happening beforehand [34A].
-
-10. I ______ (not / work) at 9 o'clock last night. I ______ (watch) a movie.
-    A) didn't work / watched
-    B) didn't work / was watching
-    C) wasn't working / watched
-    D) **wasn't working / was watching** [32B, 34B]
-
-    **Hint**: Both describe actions that were (or weren't) in progress at a specific time in the past, implying duration [32B, 34B].
-
-11. While we ______ (have) dinner, the lights ______ (go out).
-    A) had / went out
-    B) had / were going out
-    C) were having / were going out
-    D) **were having / went out** [34A]
-
-    **Hint**: The longer action of "having dinner" was in progress when the sudden event of "lights going out" happened [34A].
-
-12. He ______ (play) tennis when he ______ (break) his arm.
-    A) played / broke
-    B) played / was breaking
-    C) was playing / was breaking
-    D) **was playing / broke** [34A]
-
-    **Hint**: "Was playing" describes the activity in progress, and "broke" describes the sudden, completed injury [34A].
-
-13. She ______ (clean) the house all morning.
-    A) cleaned
-    B) cleans
-    C) is cleaning
-    D) **was cleaning** [32B]
-
-    **Hint**: Use the past continuous to emphasize an action that was continuously happening over a period in the past [32B].
-
-14. When I ______ (arrive), they ______ (discuss) something important.
-    A) arrived / discussed
+10. When I ___ (arrive), they ___ (discuss) something important.
+    A) arrived / were discussing
     B) was arriving / discussed
-    C) was arriving / were discussing
-    D) **arrived / were discussing** [34A]
+    C) arrived / discussed
+    D) was arriving / were discussing
+    *   Hint: Your arrival was a single, completed event, while their discussion was ongoing.
+    *   Correct Answer: A) arrived / were discussing
 
-    **Hint**: "Arrived" is a completed action, while "were discussing" describes the ongoing background activity [34A].
+11. She ___ (read) a magazine while her brother ___ (watch) TV.
+    A) read / watched
+    B) was reading / watched
+    C) read / was watching
+    D) was reading / was watching
+    *   Hint: Both actions were happening continuously and simultaneously in the past.
+    *   Correct Answer: D) was reading / was watching
 
-15. The baby ______ (sleep) soundly when his mother ______ (check) on him.
-    A) slept / checked
-    B) slept / was checking
-    C) was sleeping / was checking
-    D) **was sleeping / checked** [34A]
+12. I ___ (see) Tom yesterday. He ___ (sit) in a cafe.
+    A) saw / was sitting
+    B) was seeing / sat
+    C) saw / sat
+    D) was seeing / was sitting
+    *   Hint: Seeing Tom was a completed action, and his sitting was an ongoing action at that time.
+    *   Correct Answer: A) saw / was sitting [35, Exercise 14.3, example "I saw Lucy and Steve this morning. They were waiting at the bus stop."]
 
-    **Hint**: The baby's continuous action of "sleeping" was in progress when the mother's quick, completed action of "checking" happened [34A].
+13. Why ___ you ___ (not / listen) to me when I ___ (try) to tell you the news?
+    A) didn't you listen / tried
+    B) weren't you listening / tried
+    C) didn't you listen / were trying
+    D) weren't you listening / were trying
+    *   Hint: The first part asks about an ongoing state (not listening) during a specific, completed attempt to tell the news.
+    *   Correct Answer: B) weren't you listening / tried
 
-16. I ______ (walk) down the street when I ______ (meet) an old friend.
-    A) walked / met
-    B) walked / was meeting
-    C) was walking / was meeting
-    D) **was walking / met** [34A]
+14. While we ___ (have) a picnic, it suddenly ___ (get) very cold.
+    A) had / got
+    B) were having / got
+    C) had / was getting
+    D) were having / was getting
+    *   Hint: The picnic was an ongoing activity when the weather changed abruptly.
+    *   Correct Answer: B) were having / got
 
-    **Hint**: "Was walking" describes the ongoing journey, and "met" describes the sudden encounter [34A].
+15. I ___ (see) an old friend of mine while I ___ (walk) to the market.
+    A) saw / was walking
+    B) was seeing / walked
+    C) saw / walked
+    D) was seeing / was walking
+    *   Hint: Seeing the friend was a sudden event that happened during the ongoing activity of walking.
+    *   Correct Answer: A) saw / was walking
 
-17. They ______ (listen) to music while they ______ (do) their homework.
-    A) listened / did
-    B) listened / were doing
-    C) were listening / did
-    D) **were listening / were doing** [34B]
+16. The children ___ (sleep) when their parents ___ (come) home.
+    A) slept / came
+    B) were sleeping / came
+    C) slept / were coming
+    D) were sleeping / were coming
+    *   Hint: The children's sleeping was an ongoing state that was interrupted by their parents' arrival.
+    *   Correct Answer: B) were sleeping / came
 
-    **Hint**: Both actions were happening at the same time in the past, so both use the past continuous [34B].
+17. At midnight, I ___ (still / work) on my project.
+    A) still worked
+    B) was still working
+    C) have still worked
+    D) had still worked
+    *   Hint: "At midnight" indicates a specific past moment when an action was in progress.
+    *   Correct Answer: B) was still working [34, Section B, indicating an action in progress at a specific past time]
 
-18. At midnight, I ______ (be) in bed, but I ______ (not / sleep).
-    A) was / didn't sleep
-    B) was / am not sleeping
-    C) was / don't sleep
-    D) **was / wasn't sleeping** [32A, 32B]
+18. The sun ___ (shine) brightly when we ___ (leave) the house.
+    A) shone / left
+    B) was shining / left
+    C) shone / were leaving
+    D) was shining / were leaving
+    *   Hint: The sun's shining was an ongoing condition when a completed action happened.
+    *   Correct Answer: B) was shining / left
 
-    **Hint**: "Was" is the simple past for the state of being in bed. "Wasn't sleeping" describes the ongoing activity that was not happening at that time [32A, 32B].
+19. While he ___ (paint) the wall, he ___ (drop) the brush.
+    A) painted / dropped
+    B) was painting / dropped
+    C) painted / was dropping
+    D) was painting / was dropping
+    *   Hint: The painting was an ongoing action, and dropping the brush was a sudden, completed event.
+    *   Correct Answer: B) was painting / dropped
 
-19. She ______ (drive) home when she ______ (run) out of petrol.
-    A) drove / ran
-    B) drove / was running
-    C) was driving / was running
-    D) **was driving / ran** [34A]
+20. What ___ you ___ (do) at 9 AM yesterday?
+    A) did you do
+    B) were you doing
+    C) have you done
+    D) do you do
+    *   Hint: The specific time asks about an action that was in progress.
+    *   Correct Answer: B) were you doing [34, Section B, similar to 'What did you do yesterday morning? B: What were you doing at 10.30?']
 
-    **Hint**: "Was driving" describes the ongoing action, and "ran out" describes the sudden event that interrupted it [34A].
+21. I ___ (not / feel) well, so I ___ (go) to bed early.
+    A) wasn't feeling / went
+    B) didn't feel / went
+    C) wasn't feeling / was going
+    D) didn't feel / was going
+    *   Hint: The first part describes an ongoing state (not feeling well) that led to a completed action.
+    *   Correct Answer: A) wasn't feeling / went
 
-20. When I last saw him, he ______ (try) to find a new job.
-    A) tried
-    B) tries
-    C) is trying
-    D) **was trying** [32B, 34A]
+22. He ___ (read) the newspaper when his wife ___ (arrive).
+    A) read / arrived
+    B) was reading / arrived
+    C) read / was arriving
+    D) was reading / was arriving
+    *   Hint: Reading was in progress, and the arrival was a single, completed event.
+    *   Correct Answer: B) was reading / arrived
 
-    **Hint**: This describes an ongoing effort that was in progress when he was last seen [32B, 34A].
+23. I ___ (walk) in the park when I ___ (find) some money.
+    A) walked / found
+    B) was walking / found
+    C) walked / was finding
+    D) was walking / was finding
+    *   Hint: Walking was an ongoing action, and finding money was a sudden, completed event.
+    *   Correct Answer: B) was walking / found
 
-21. They ______ (not / pay) attention while the teacher ______ (explain) the lesson.
-    A) didn't pay / explained
-    B) didn't pay / was explaining
-    C) weren't paying / explained
-    D) **weren't paying / was explaining** [34B]
+24. They ___ (not / listen) to the teacher, so they ___ (not / understand) the instructions.
+    A) weren't listening / didn't understand
+    B) didn't listen / didn't understand
+    C) weren't listening / weren't understanding
+    D) didn't listen / weren't understanding
+    *   Hint: The lack of listening was an ongoing state, and not understanding was a completed consequence.
+    *   Correct Answer: A) weren't listening / didn't understand
 
-    **Hint**: Both describe actions (or lack thereof) that were happening at the same time in the past [34B].
+25. While the children ___ (play) outside, their mother ___ (prepare) lunch.
+    A) played / prepared
+    B) were playing / prepared
+    C) played / was preparing
+    D) were playing / was preparing
+    *   Hint: Both actions were happening continuously and simultaneously in the past.
+    *   Correct Answer: D) were playing / was preparing
 
-22. I ______ (cook) when you ______ (call) me.
-    A) cooked / called
-    B) cooked / was calling
-    C) was cooking / was calling
-    D) **was cooking / called** [34A]
+26. The phone ___ (ring) while I ___ (take) a shower.
+    A) rang / took
+    B) rang / was taking
+    C) was ringing / took
+    D) was ringing / was taking
+    *   Hint: The phone ringing was a sudden event that interrupted the ongoing action of taking a shower.
+    *   Correct Answer: B) rang / was taking
 
-    **Hint**: "Was cooking" describes the longer, ongoing action, and "called" describes the sudden, completed interruption [34A].
+27. He ___ (break) his leg while he ___ (ski).
+    A) broke / skied
+    B) broke / was skiing
+    C) was breaking / skied
+    D) was breaking / was skiing
+    *   Hint: Breaking his leg was a sudden event that happened during the ongoing activity of skiing.
+    *   Correct Answer: B) broke / was skiing
 
-23. Why ______ you ______ (cry) when I ______ (see) you this morning?
-    A) did / cry / saw
-    B) are / crying / saw
-    C) do / cry / see
-    D) **were / crying / saw** [34A]
-
-    **Hint**: To ask about an ongoing action ("were crying") at the moment of a completed action ("saw") [34A].
-
-24. The children ______ (draw) pictures while their mother ______ (read) a story.
-    A) drew / read
-    B) drew / was reading
-    C) were drawing / read
-    D) **were drawing / was reading** [34B]
-
-    **Hint**: Both activities were happening at the same time in the past [34B].
-
-25. When she ______ (open) the door, a cat ______ (sit) on the doorstep.
-    A) opened / sat
-    B) was opening / sat
-    C) was opening / was sitting
-    D) **opened / was sitting** [34A]
-
-    **Hint**: "Opened" is a quick, completed action, and "was sitting" describes the continuous state or position of the cat at that moment [34A].
-
-26. I ______ (not / understand) what he ______ (say).
-    A) didn't understand / said
-    B) wasn't understanding / said
-    C) wasn't understanding / was saying
-    D) **didn't understand / was saying** [34A]
-
-    **Hint**: "Didn't understand" refers to a completed lack of understanding, while "was saying" describes the ongoing act of speaking [34A].
-
-27. As I ______ (walk) through the park, I ______ (notice) a strange bird.
-    A) walked / noticed
-    B) walked / was noticing
-    C) was walking / was noticing
-    D) **was walking / noticed** [34A]
-
-    **Hint**: "Was walking" describes the longer, continuous action, and "noticed" describes a sudden observation [34A].
-
-28. He ______ (play) computer games all evening last night.
-    A) played
-    B) plays
-    C) is playing
-    D) **was playing** [32B]
-
-    **Hint**: Use the past continuous to indicate an action that was continuously happening throughout a period in the past [32B].
-
-29. When I ______ (wake up) this morning, it ______ (snow).
+28. When I ___ (wake up) this morning, it ___ (snow) heavily.
     A) woke up / snowed
     B) was waking up / snowed
-    C) was waking up / was snowing
-    D) **woke up / was snowing** [34A]
+    C) woke up / was snowing
+    D) was waking up / was snowing
+    *   Hint: Waking up was a completed action, and the snowing was an ongoing condition at that time.
+    *   Correct Answer: C) woke up / was snowing
 
-    **Hint**: "Woke up" is a sudden, completed action, and "was snowing" describes the ongoing weather condition at that time [34A].
+29. She ___ (lose) her wallet while she ___ (shop) in the city.
+    A) lost / shopped
+    B) was losing / shopped
+    C) lost / was shopping
+    D) was losing / was shopping
+    *   Hint: Losing the wallet was a sudden event that occurred during the ongoing activity of shopping.
+    *   Correct Answer: C) lost / was shopping
 
-30. What ______ you ______ (do) at 3 PM yesterday?
-    A) did / do
-    B) are / doing
-    C) do / do
-    D) **were / doing** [32A]
-
-    **Hint**: Use the past continuous question form (was/were + subject + -ing) to ask about an activity that was in progress at a specific time in the past [32A].
+30. The movie ___ (begin) at 8 PM, and at 8:15 PM, we ___ (still / watch) it.
+    A) began / still watched
+    B) began / were still watching
+    C) was beginning / still watched
+    D) was beginning / were still watching
+    *   Hint: The beginning of the movie is a completed past action. At 8:15 PM, the watching was an ongoing action.
+    *   Correct Answer: B) began / were still watching

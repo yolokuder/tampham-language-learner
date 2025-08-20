@@ -1,245 +1,245 @@
-Here are 30 quiz questions to help you practice the grammar points from **Unit 12: I didn't ... Did you ... ? (past simple negative and questions)** in "Essential Grammar in Use". This unit focuses on forming negative sentences and questions in the past simple tense, primarily using **did** and **didn't** with the base form of the verb [30A, 30C].
+Excellent! Let's focus on Unit 12 of "Essential Grammar in Use," which covers the **past simple negative (I didn't...) and questions (Did you...?)** [2, p.2; 30, p.32].
 
-***
+Here are 30 multiple-choice questions to help you practice this grammar point, complete with hints and answers.
 
-### Unit 12: Past Simple Negative and Questions Quiz
+---
 
-1.  I ______ (watch) television very often yesterday.
+1.  I _______ (not watch) television yesterday evening.
     A) don't watch
-    B) didn't watched
-    C) **didn't watch** [30C]
-    D) not watch
+    B) wasn't watching
+    C) didn't watch
+    D) not watched
+    *   **Hint:** Unit 12 explains that the past simple negative is formed with 'didn't' followed by the base form of the verb [30, p.32].
+    *   **Correct Answer:** C) didn't watch
 
-    **Hint**: For past simple negative sentences, you use **'didn't'** followed by the **base form** of the verb [30C].
-
-2.  ______ (you / go) out last night?
+2.  _______ (you / go) out last night?
     A) Do you go
-    B) Did you went
-    C) **Did you go** [30A, 30B]
-    D) Went you
+    B) Were you go
+    C) Did you go
+    D) Are you going
+    *   **Hint:** To form a question in the past simple, you use 'Did' before the subject and the base form of the main verb [30, p.32].
+    *   **Correct Answer:** C) Did you go
 
-    **Hint**: To form a past simple question, use **'Did'** + **subject** + **base form** of the verb [30A, 30B].
-
-3.  She ______ (have) a good time at the party.
+3.  She _______ (not have) time to finish the work.
     A) doesn't have
-    B) didn't had
-    C) **didn't have** [30A, 30C]
-    D) not had
+    B) wasn't having
+    C) didn't had
+    D) didn't have
+    *   **Hint:** Remember that after 'didn't', the main verb always takes its base (infinitive) form [30, p.32].
+    *   **Correct Answer:** D) didn't have
 
-    **Hint**: Even for irregular verbs like 'have', the past simple negative uses **'didn't'** and the **base form** of the verb [30A, 30C].
+4.  _______ (they / buy) a new car last month?
+    A) Do they buy
+    B) Were they buy
+    C) Did they buy
+    D) Have they bought
+    *   **Hint:** This question asks about a completed action in the past, requiring the past simple question structure [30, p.32].
+    *   **Correct Answer:** C) Did they buy
 
-4.  What ______ (you / do) yesterday?
-    A) did you did
-    B) **did you do** [30D]
+5.  We _______ (not enjoy) the film last night.
+    A) don't enjoy
+    B) weren't enjoying
+    C) didn't enjoyed
+    D) didn't enjoy
+    *   **Hint:** The negative past simple requires 'didn't' + base verb [30, p.32].
+    *   **Correct Answer:** D) didn't enjoy
+
+6.  _______ (he / sleep) well last night?
+    A) Does he sleep
+    B) Was he sleeping
+    C) Did he sleep
+    D) Has he slept
+    *   **Hint:** Use the correct auxiliary verb for past simple questions with 'he' [30, p.32].
+    *   **Correct Answer:** C) Did he sleep
+
+7.  It _______ (not rain) on Sunday.
+    A) doesn't rain
+    B) wasn't raining
+    C) didn't rained
+    D) didn't rain
+    *   **Hint:** The negative form for a past simple action with 'it' is formed with 'didn't' [30, p.32].
+    *   **Correct Answer:** D) didn't rain
+
+8.  _______ (you / do) the shopping yesterday?
+    A) Are you doing
+    B) Did you do
+    C) Do you do
+    D) Were you doing
+    *   **Hint:** This asks about a completed action from the past [30, p.32].
+    *   **Correct Answer:** B) Did you do
+
+9.  They _______ (not come) to the party.
+    A) don't come
+    B) aren't coming
+    C) didn't came
+    D) didn't come
+    *   **Hint:** Even with irregular verbs, the base form is used after 'didn't' [30, p.32].
+    *   **Correct Answer:** D) didn't come
+
+10. _______ (you / visit) your friends when you were on holiday?
+    A) Do you visit
+    B) Were you visiting
+    C) Did you visit
+    D) Have you visited
+    *   **Hint:** The question is about a completed action in the past [30, p.32].
+    *   **Correct Answer:** C) Did you visit
+
+11. I _______ (not see) Joe yesterday.
+    A) don't see
+    B) wasn't seeing
+    C) didn't saw
+    D) didn't see
+    *   **Hint:** For negative statements in the past simple, the verb remains in its base form [30, p.32].
+    *   **Correct Answer:** D) didn't see
+
+12. Where _______ (you / go) on holiday last year?
+    A) are you going
+    B) did you go
+    C) do you go
+    D) were you going
+    *   **Hint:** This is a "wh-" question in the past simple. The structure follows 'wh-word + did + subject + base verb' [30, p.32].
+    *   **Correct Answer:** B) did you go
+
+13. She _______ (not like) the food at the restaurant.
+    A) doesn't like
+    B) wasn't liking
+    C) didn't liked
+    D) didn't like
+    *   **Hint:** Form the negative past simple correctly with 'didn't' + base verb [30, p.32].
+    *   **Correct Answer:** D) didn't like
+
+14. What _______ (you / do) last night?
+    A) are you doing
+    B) did you do
     C) do you do
-    D) did you
+    D) have you done
+    *   **Hint:** To ask about an action that was completed in the past, use 'did' and the base verb [30, p.32].
+    *   **Correct Answer:** B) Did you do
 
-    **Hint**: For questions starting with a question word (like 'what'), the structure is **Question word** + **'did'** + **subject** + **base form** of the verb [30D].
+15. We _______ (not watch) the news last night.
+    A) don't watch
+    B) weren't watching
+    C) didn't watched
+    D) didn't watch
+    *   **Hint:** Construct the past simple negative using the rules from Unit 12 [30, p.32].
+    *   **Correct Answer:** D) didn't watch
 
-5.  We ______ (finish) the work yesterday.
-    A) didn't finished
-    B) don't finish
-    C) **didn't finish** [30C]
-    D) not finish
+16. When _______ (they / arrive)?
+    A) do they arrive
+    B) are they arriving
+    C) did they arrive
+    D) were they arriving
+    *   **Hint:** This is a past simple question asking for a specific time of a past event [30, p.32].
+    *   **Correct Answer:** C) did they arrive
 
-    **Hint**: For regular verbs in the past simple negative, use **'didn't'** and the **base form** [30C].
+17. He _______ (not finish) his work yesterday.
+    A) doesn't finish
+    B) wasn't finishing
+    C) didn't finished
+    D) didn't finish
+    *   **Hint:** The base form of the verb is always used after 'didn't' [30, p.32].
+    *   **Correct Answer:** D) didn't finish
 
-6.  ______ (it / rain) on Sunday?
+18. _______ (it / rain) on Sunday?
     A) Does it rain
-    B) Did it rained
-    C) **Did it rain** [30B]
-    D) Rained it
+    B) Is it raining
+    C) Did it rain
+    D) Was it raining
+    *   **Hint:** Form a yes/no question in the past simple about a weather event [30, p.32].
+    *   **Correct Answer:** C) Did it rain
 
-    **Hint**: To ask a question in the past simple, use **'Did'** followed by the **subject** and the **base form** of the verb [30B].
+19. My parents _______ (not have) a good holiday.
+    A) don't have
+    B) weren't having
+    C) didn't had
+    D) didn't have
+    *   **Hint:** The negative form of 'have' in the past simple uses 'didn't' + 'have' [30, p.32].
+    *   **Correct Answer:** D) didn't have
 
-7.  They ______ (come) to the party.
-    A) didn't came
-    B) don't come
-    C) **didn't come** [30C]
-    D) not come
+20. _______ (Helen / come) to the party?
+    A) Does Helen come
+    B) Is Helen coming
+    C) Did Helen come
+    D) Was Helen coming
+    *   **Hint:** Ask about a person's attendance at a past event using the past simple question form [30, p.32].
+    *   **Correct Answer:** C) Did Helen come
 
-    **Hint**: Irregular verbs, such as 'come', use their **base form** after **'didn't'** in the past simple negative [30C].
+21. I _______ (not understand) the lesson yesterday.
+    A) don't understand
+    B) wasn't understanding
+    C) didn't understood
+    D) didn't understand
+    *   **Hint:** The past simple negative form uses 'didn't' + base verb [30, p.32].
+    *   **Correct Answer:** D) didn't understand
 
-8.  Where ______ (Helen / go) last holiday?
-    A) did Helen went
-    B) **did Helen go** [30D]
-    C) does Helen go
-    D) went Helen
+22. Why _______ (you / leave) early?
+    A) do you leave
+    B) were you leaving
+    C) did you leave
+    D) are you leaving
+    *   **Hint:** This is a "wh-" question about the reason for a past action [30, p.32].
+    *   **Correct Answer:** C) Did you leave
 
-    **Hint**: The question word 'where' comes first, followed by **'did'** + **subject** + **base form** of the verb [30D].
+23. They _______ (not play) tennis yesterday.
+    A) don't play
+    B) weren't playing
+    C) didn't played
+    D) didn't play
+    *   **Hint:** Ensure the main verb is in its base form after 'didn't' [30, p.32].
+    *   **Correct Answer:** D) didn't play
 
-9.  I ______ (buy) a newspaper this morning.
-    A) didn't bought
-    B) don't buy
-    C) **didn't buy** [30A, 30C]
-    D) not bought
+24. _______ (you / have) breakfast this morning?
+    A) Do you have
+    B) Are you having
+    C) Did you have
+    D) Were you having
+    *   **Hint:** This question refers to an action that is completed and in the past relative to the present moment [30, p.32].
+    *   **Correct Answer:** C) Did you have
 
-    **Hint**: The past simple negative of irregular verbs like 'buy' is formed with **'didn't'** and the **base form** [30A, 30C].
+25. The shop _______ (not open) on time today.
+    A) doesn't open
+    B) wasn't opening
+    C) didn't opened
+    D) didn't open
+    *   **Hint:** Apply the rule for forming negative sentences in the past simple [30, p.32].
+    *   **Correct Answer:** D) didn't open
 
-10. ______ (you / win) the game?
-    A) Did you won
-    B) Do you win
-    C) **Did you win** [30A]
-    D) Won you
+26. _______ (she / enjoy) the concert last night?
+    A) Does she enjoy
+    B) Was she enjoying
+    C) Did she enjoy
+    D) Is she enjoying
+    *   **Hint:** Form a past simple question about someone's experience at a past event [30, p.32].
+    *   **Correct Answer:** C) Did she enjoy
 
-    **Hint**: For past simple questions, the structure is **'Did'** + **subject** + **base form** of the verb [30A].
+27. I _______ (not hear) the announcement clearly.
+    A) don't hear
+    B) wasn't hearing
+    C) didn't heard
+    D) didn't hear
+    *   **Hint:** The negative past simple construction uses 'didn't' and the base verb [30, p.32].
+    *   **Correct Answer:** D) didn't hear
 
-11. Did you see Joe yesterday? No, I ______.
-    A) didn't saw
-    B) didn't see
-    C) don't see
-    D) **didn't** [30E]
+28. How many people _______ (you / invite) to your party?
+    A) do you invite
+    B) were you inviting
+    C) did you invite
+    D) are you inviting
+    *   **Hint:** This is a "how many" question about a past action [30, p.32].
+    *   **Correct Answer:** C) did you invite
 
-    **Hint**: For negative short answers in the past simple, you only use **'didn't'** [30E].
+29. We _______ (not want) to go home early.
+    A) don't want
+    B) weren't wanting
+    C) didn't wanted
+    D) didn't want
+    *   **Hint:** The correct negative form of the past simple always uses the base verb after 'didn't' [30, p.32].
+    *   **Correct Answer:** D) didn't want
 
-12. He ______ (drive) to work yesterday.
-    A) didn't drove
-    B) doesn't drive
-    C) **didn't drive** [30C]
-    D) not drive
-
-    **Hint**: Remember to use the **base form** of the irregular verb 'drive' after **'didn't'** [30C].
-
-13. ______ (they / play) tennis yesterday?
-    A) Do they play
-    B) Did they played
-    C) **Did they play** [30A]
-    D) Played they
-
-    **Hint**: For regular verbs in past simple questions, the structure is **'Did'** + **subject** + **base form** [30A].
-
-14. We ______ (enjoy) the concert.
-    A) didn't enjoyed
-    B) don't enjoy
-    C) **didn't enjoy** [30C]
-    D) not enjoy
-
-    **Hint**: For regular verbs in the past simple negative, always use the **base form** after **'didn't'** [30C].
-
-15. Why ______ (you / call) me last night?
-    A) did you called
-    B) do you call
-    C) **did you call** [30D]
-    D) called you
-
-    **Hint**: The structure for a 'why' question in the past simple is **'Why'** + **'did'** + **subject** + **base form** of the verb [30D].
-
-16. I ______ (sleep) well last night.
-    A) didn't slept
-    B) don't sleep
-    C) **didn't sleep** [30C]
-    D) not sleep
-
-    **Hint**: The irregular verb 'sleep' uses its **base form** when forming a past simple negative with **'didn't'** [30C].
-
-17. ______ (Sue / come) to the party?
-    A) Does Sue come
-    B) Did Sue came
-    C) **Did Sue come** [30C]
-    D) Came Sue
-
-    **Hint**: To form a past simple question with an irregular verb, use **'Did'** + **subject** + **base form** [30C].
-
-18. Did your parents have a good holiday? Yes, they ______.
-    A) **did** [30E]
-    B) had
-    C) did have
-    D) have
-
-    **Hint**: For affirmative short answers in the past simple, you only use **'did'** [30E].
-
-19. We ______ (watch) the movie to the end.
-    A) didn't watched
-    B) don't watch
-    C) **didn't watch** [30C]
-    D) not watch
-
-    **Hint**: The base form of the regular verb 'watch' is used after **'didn't'** [30C].
-
-20. What time ______ (the train / leave)?
-    A) did the train left
-    B) does the train leave
-    C) **did the train leave** [30A, 30D]
-    D) the train left
-
-    **Hint**: For a specific time question in the past simple, use **'What time'** + **'did'** + **subject** + **base form** of the verb [30A, 30D].
-
-21. He ______ (eat) anything for breakfast.
-    A) didn't ate
-    B) doesn't eat
-    C) **didn't eat** [30A]
-    D) not eat
-
-    **Hint**: The irregular verb 'eat' uses its **base form** after **'didn't'** in the past simple negative [30A].
-
-22. ______ (you / enjoy) the concert?
-    A) Do you enjoy
-    B) Did you enjoyed
-    C) **Did you enjoy** [30A]
-    D) Enjoyed you
-
-    **Hint**: For past simple questions with regular verbs, use **'Did'** + **subject** + **base form** [30A].
-
-23. I ______ (read) the book last week.
-    A) didn't readed
-    B) don't read
-    C) **didn't read** [28C, 30A]
-    D) not read
-
-    **Hint**: The verb 'read' has the same spelling for its base form and past simple. In the negative, use the **base form** after **'didn't'** [28C, 30A].
-
-24. ______ (she / give) you a present?
-    A) Did she gave
-    B) Does she give
-    C) **Did she give** [30A]
-    D) Gave she
-
-    **Hint**: To form a past simple question, use **'Did'** + **subject** + **base form** of the verb [30A].
-
-25. Did you do the shopping? No, I ______.
-    A) didn't do
-    B) **didn't** [30E]
-    C) do not
-    D) not did
-
-    **Hint**: Short answers in the negative past simple use **'didn't'** [30E].
-
-26. They ______ (see) the new film.
-    A) didn't saw
-    B) don't see
-    C) **didn't see** [30A]
-    D) not saw
-
-    **Hint**: The irregular verb 'see' uses its **base form** after **'didn't'** [30A].
-
-27. How much ______ (it / cost)?
-    A) did it costed
-    B) does it cost
-    C) **did it cost** [30A, 30D]
-    D) cost it
-
-    **Hint**: The structure is **Question word** + **'did'** + **subject** + **base form** of the verb. 'Cost' is an irregular verb whose base form is the same as its past simple form, but the base form is used here because of 'did' [30A, 30D].
-
-28. We ______ (play) tennis yesterday.
-    A) didn't played
-    B) don't play
-    C) **didn't play** [30C]
-    D) not play
-
-    **Hint**: Regular verbs use their **base form** after **'didn't'** [30C].
-
-29. ______ (you / remember) to lock the door?
-    A) Did you remembered
-    B) Do you remember
-    C) **Did you remember** [30A]
-    D) Remembered you
-
-    **Hint**: For a past simple question, use **'Did'** followed by the **subject** and the **base form** of the verb [30A].
-
-30. Did they come to the meeting? No, they ______.
-    A) didn't came
-    B) don't come
-    C) **didn't** [30E]
-    D) not come
-
-    **Hint**: For negative short answers in the past simple, use **'didn't'** [30E].
+30. What time _______ (you / wake up) this morning?
+    A) do you wake up
+    B) were you waking up
+    C) did you wake up
+    D) are you waking up
+    *   **Hint:** Ask about a specific time for a completed action that occurred earlier today [30, p.32].
+    *   **Correct Answer:** C) did you wake up

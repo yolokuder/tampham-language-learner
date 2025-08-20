@@ -1,275 +1,245 @@
-Here are 30 quiz questions related to the grammar points covered in Unit 6 of "Essential Grammar in Use," which focuses on the **present simple negative** tense.
+Of course! Let's practice Unit 06, which focuses on forming **negative sentences** in the **present simple tense** [19, A]. This unit teaches how to use **don't** and **doesn't** with the **infinitive form of the verb** to talk about **general activities or habits that do not happen** [19, A, B].
 
-***
+Here are 30 quiz questions for Unit 06 of "Essential Grammar in Use":
 
-### Unit 6: Present Simple Negative Quiz
+---
 
-1.  I ______ like coffee.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) am not
-    D) isn't
+1.  I _______ coffee.
+    A) doesn't like
+    B) am not like
+    C) **don't like**
+    D) not like
+    *   **Hint:** For the subject "I" in the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't like
 
-    **Hint**: For the subject 'I', the negative form in the present simple uses 'don't' [19A].
-    **Answer**: B) don't
+2.  She _______ television very often.
+    A) do not watch
+    B) isn't watch
+    C) **doesn't watch**
+    D) not watch
+    *   **Hint:** For the subject "she" in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't watch
 
-2.  She ______ play the piano.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
+3.  We _______ work on Saturdays.
+    A) doesn't work
+    B) are not work
+    C) **don't work**
+    D) not work
+    *   **Hint:** For the subject "we" in the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't work
 
-    **Hint**: For the subject 'she', the negative form in the present simple uses 'doesn't' [19A].
-    **Answer**: B) doesn't
+4.  He _______ football.
+    A) don't play
+    B) isn't play
+    C) **doesn't play**
+    D) not play
+    *   **Hint:** For the subject "he" in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't play
 
-3.  It ______ rain very often here.
-    A) don't [19A]
-    B) isn't
-    C) doesn't [19A]
-    D) not
+5.  They _______ English.
+    A) doesn't speak
+    B) aren't speak
+    C) **don't speak**
+    D) not speak
+    *   **Hint:** For the subject "they" in the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't speak
 
-    **Hint**: For the subject 'it', the negative form in the present simple uses 'doesn't' [19A].
-    **Answer**: C) doesn't
-
-4.  We ______ watch television very often.
-    A) doesn't [19A]
-    B) not
-    C) don't [19A]
-    D) aren't
-
-    **Hint**: For the subject 'we', the negative form in the present simple uses 'don't' [19A].
-    **Answer**: C) don't
-
-5.  They ______ live in a big house.
-    A) doesn't [19A]
-    B) not
-    C) aren't
-    D) don't [19A]
-
-    **Hint**: For the subject 'they', the negative form in the present simple uses 'don't' [19A].
-    **Answer**: D) don't
-
-6.  He ______ like his job.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: For the subject 'he', the negative form in the present simple uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-7.  I don't ______ coffee.
-    A) drinks
-    B) drinking
-    C) drank
-    D) drink [19A, 19C]
-
-    **Hint**: After 'don't' or 'doesn't', the main verb is always in its base (infinitive) form [19C].
-    **Answer**: D) drink
-
-8.  She doesn't ______ tea.
-    A) drinks
-    B) drinking
-    C) drink [19A, 19C]
-    D) drank
-
-    **Hint**: After 'don't' or 'doesn't', the main verb is always in its base (infinitive) form [19C].
-    **Answer**: C) drink
-
-9.  My car ______ use much petrol.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) not
-    D) isn't
-
-    **Hint**: 'My car' is a singular subject, referring to 'it', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-10. Bill ______ do his job very well.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: 'Bill' is a singular subject, referring to 'he', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-11. Paula ______ usually have breakfast.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: 'Paula' is a singular subject, referring to 'she', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-12. Gerry and Linda ______ know many people.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) isn't
-    D) aren't
-
-    **Hint**: 'Gerry and Linda' refers to 'they' (plural subject), so it uses 'don't' [19A].
-    **Answer**: B) don't
-
-13. They don't ______ football.
-    A) likes
-    B) liked
-    C) play [19C]
-    D) playing
-
-    **Hint**: After 'don't', the verb is in its base form [19C].
-    **Answer**: C) play
-
-14. He doesn't ______ football.
-    A) likes
-    B) play [19C]
-    C) played
-    D) playing
-
-    **Hint**: After 'doesn't', the verb is in its base form [19C].
-    **Answer**: B) play
-
-15. The weather ______ very often.
-    A) doesn't rain [19A, 19C]
-    B) don't rain
-    C) isn't rain
+6.  It _______ very often in summer.
+    A) don't rain
+    B) isn't rain
+    C) **doesn't rain**
     D) not rain
+    *   **Hint:** For the subject "it" (e.g., "the weather") in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't rain
 
-    **Hint**: 'The weather' refers to 'it', so use 'doesn't' followed by the base form of the verb [19A, 19C].
-    **Answer**: A) doesn't rain
+7.  My car _______ much petrol.
+    A) don't use
+    B) isn't use
+    C) **doesn't use**
+    D) not use
+    *   **Hint:** "My car" can be replaced by "it", so for the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't use
 
-16. My friend ______ speak Spanish.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) aren't
+8.  You _______ have breakfast.
+    A) doesn't have
+    B) aren't have
+    C) **don't have**
+    D) not have
+    *   **Hint:** For the subject "you" in the present simple negative, we use **don't** followed by the base form of the verb "have" [19, A, B].
+    *   **Correct Answer:** C) don't have
+
+9.  Gerry and Linda _______ many people.
+    A) doesn't know
+    B) aren't know
+    C) **don't know**
+    D) not know
+    *   **Hint:** "Gerry and Linda" is a plural subject (like "they"), so for the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't know
+
+10. Paul _______ his job.
+    A) don't like
+    B) isn't like
+    C) **doesn't like**
+    D) not like
+    *   **Hint:** For "Paul" (which is "he") in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't like
+
+11. The banks _______ on Sundays.
+    A) doesn't open
+    B) aren't open
+    C) **don't open**
+    D) not open
+    *   **Hint:** "The banks" is a plural subject (like "they"), so for the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't open
+
+12. Chris _______ in New York.
+    A) don't live
+    B) isn't live
+    C) **doesn't live**
+    D) not live
+    *   **Hint:** For "Chris" (which is "he") in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't live
+
+13. We _______ washing the car.
+    A) doesn't like
+    B) aren't like
+    C) **don't like**
+    D) not like
+    *   **Hint:** For the subject "we" in the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't like
+
+14. Sandra _______ Spanish very well.
+    A) don't speak
+    B) isn't speak
+    C) **doesn't speak**
+    D) not speak
+    *   **Hint:** For "Sandra" (which is "she") in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't speak
+
+15. Bill _______ his job very well.
+    A) don't do
+    B) isn't do
+    C) **doesn't do**
+    D) not do
+    *   **Hint:** For "Bill" (which is "he") in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't do
+
+16. My sister _______ read books.
+    A) **doesn't read**
+    B) aren't read
+    C) don't read
+    D) not read
+    *   **Hint:** "My sister" (which is "she") takes **doesn't** followed by the base form of the verb in the present simple negative [19, A, B].
+    *   **Correct Answer:** A) doesn't read
+
+17. Cats _______ like water.
+    A) doesn't like
+    B) aren't like
+    C) **don't like**
+    D) not like
+    *   **Hint:** "Cats" is a plural subject (like "they"), so it takes **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't like
+
+18. He _______ a big house.
+    A) don't have
+    B) isn't have
+    C) **doesn't have**
+    D) not have
+    *   **Hint:** For the subject "he" in the present simple negative, we use **doesn't** followed by the base form of the verb "have" [19, A, B].
+    *   **Correct Answer:** C) doesn't have
+
+19. I _______ much money.
+    A) doesn't have
+    B) am not have
+    C) **don't have**
+    D) not have
+    *   **Hint:** For the subject "I" in the present simple negative, we use **don't** followed by the base form of the verb "have" [19, A, B].
+    *   **Correct Answer:** C) don't have
+
+20. Liz _______ a car.
+    A) **doesn't own**
+    B) aren't own
+    C) don't own
+    D) not own
+    *   **Hint:** For "Liz" (which is "she") in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** A) doesn't own
+
+21. My parents _______ near here.
+    A) doesn't live
+    B) isn't live
+    C) **don't live**
+    D) not live
+    *   **Hint:** "My parents" is a plural subject (like "they"), so it takes **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't live
+
+22. The train _______ at 6 PM.
+    A) don't arrive
+    B) isn't arrive
+    C) **doesn't arrive**
+    D) not arrive
+    *   **Hint:** "The train" (which is "it") takes **doesn't** followed by the base form of the verb in the present simple negative [19, A, B].
+    *   **Correct Answer:** C) doesn't arrive
+
+23. She _______ much.
+    A) don't eat
+    B) isn't eat
+    C) **doesn't eat**
+    D) not eat
+    *   **Hint:** For the subject "she" in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't eat
+
+24. We _______ to the cinema very often.
+    A) doesn't go
+    B) aren't go
+    C) **don't go**
+    D) not go
+    *   **Hint:** For the subject "we" in the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't go
+
+25. He _______ his room.
+    A) don't clean
+    B) isn't clean
+    C) **doesn't clean**
+    D) not clean
+    *   **Hint:** For the subject "he" in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't clean
+
+26. They _______ coffee, they prefer tea.
+    A) doesn't drink
+    B) aren't drink
+    C) **don't drink**
+    D) not drink
+    *   **Hint:** For the subject "they" in the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't drink
+
+27. The weather _______ very cold here.
+    A) don't get
+    B) isn't get
+    C) **doesn't get**
+    D) not get
+    *   **Hint:** "The weather" (which is "it") takes **doesn't** followed by the base form of the verb in the present simple negative [19, A, B].
+    *   **Correct Answer:** C) doesn't get
+
+28. I _______ to work on Sundays.
+    A) doesn't go
+    B) am not go
+    C) **don't go**
+    D) not go
+    *   **Hint:** For the subject "I" in the present simple negative, we use **don't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) don't go
+
+29. She _______ very hard.
+    A) don't work
+    B) isn't work
+    C) **doesn't work**
+    D) not work
+    *   **Hint:** For the subject "she" in the present simple negative, we use **doesn't** followed by the base form of the verb [19, A, B].
+    *   **Correct Answer:** C) doesn't work
+
+30. Sometimes it _______ happen very often.
+    A) don't
+    B) isn't
+    C) **doesn't**
     D) not
-
-    **Hint**: 'My friend' is a singular subject (he/she), so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-17. Cats ______ like water.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: 'Cats' is a plural subject, referring to 'they', so it uses 'don't' [19A].
-    **Answer**: B) don't
-
-18. The bus ______ leave until 8.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) not
-    D) aren't
-
-    **Hint**: 'The bus' is a singular subject, referring to 'it', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-19. My phone ______ work. It's broken.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: 'My phone' is a singular subject, referring to 'it', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-20. We ______ want to go out tonight.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) aren't
-    D) not
-
-    **Hint**: For the subject 'we', the negative form in the present simple uses 'don't' [19A].
-    **Answer**: B) don't
-
-21. I ______ usually get up early.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) am not
-    D) aren't
-
-    **Hint**: For the subject 'I', the negative form in the present simple uses 'don't' [19A].
-    **Answer**: B) don't
-
-22. This car ______ very fast.
-    A) don't goes
-    B) doesn't go [19A, 19C]
-    C) doesn't goes
-    D) don't go
-
-    **Hint**: 'This car' refers to 'it', so use 'doesn't'. The main verb must be in its base form ('go') [19A, 19C].
-    **Answer**: B) doesn't go
-
-23. Birds ______ in winter.
-    A) doesn't sing
-    B) don't sing [19A, 19C]
-    C) aren't singing
-    D) not sing
-
-    **Hint**: 'Birds' is plural, referring to 'they', so use 'don't' followed by the base form of the verb [19A, 19C].
-    **Answer**: B) don't sing
-
-24. My parents ______ live near here.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) isn't
-    D) aren't
-
-    **Hint**: 'My parents' refers to 'they' (plural subject), so it uses 'don't' [19A].
-    **Answer**: B) don't
-
-25. The film ______ start until 9 PM.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: 'The film' is a singular subject, referring to 'it', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-26. He ______ read newspapers.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: For the subject 'he', the negative form in the present simple uses 'doesn't' [19A].
-    **Answer**: A) doesn't
-
-27. This restaurant ______ open on Mondays.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: 'This restaurant' is a singular subject, referring to 'it', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-28. My dog ______ bark a lot.
-    A) don't [19A]
-    B) doesn't [19A]
-    C) isn't
-    D) not
-
-    **Hint**: 'My dog' is a singular subject, referring to 'it', so it uses 'doesn't' [19A].
-    **Answer**: B) doesn't
-
-29. We ______ often go to the cinema.
-    A) doesn't [19A]
-    B) don't [19A]
-    C) aren't
-    D) not
-
-    **Hint**: For the subject 'we', the negative form in the present simple uses 'don't' [19A].
-    **Answer**: B) don't
-
-30. She ______ her emails in the morning.
-    A) don't check
-    B) doesn't checks
-    C) doesn't check [19A, 19C]
-    D) not checks
-
-    **Hint**: For the subject 'she', use 'doesn't'. The main verb must be in its base form ('check') [19A, 19C].
-    **Answer**: C) doesn't check
+    *   **Hint:** "It" takes **doesn't** for the present simple negative. The verb "happen" is already provided in its base form [19, A, B].
+    *   **Correct Answer:** C) doesn't

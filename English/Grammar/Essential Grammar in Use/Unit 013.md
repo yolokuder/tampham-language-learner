@@ -1,245 +1,245 @@
-Here are 30 quiz questions to help you practice the grammar points from **Unit 13: I was doing (past continuous)** in "Essential Grammar in Use". This unit focuses on forming and using the past continuous tense (was/were + -ing) for actions that were in progress at a specific time in the past [32A, 32B].
+Certainly! I can help you practice the grammar point from Unit 13 of "Essential Grammar in Use," which focuses on the **past continuous** (I was doing) [2, p.2; 32].
 
-***
+Here are 30 multiple-choice questions, each with a hint and the correct answer, designed to help you review the concepts covered in Unit 13 of the book.
 
-### Unit 13: Past Continuous Quiz
+---
 
-1.  At 6 o'clock this morning, I ______ (sleep).
-    A) slept
-    B) am sleeping
-    C) **was sleeping** [32A]
-    D) sleep
+1.  What were they doing at 8 PM yesterday? They _______ TV.
+    A) watch
+    B) are watching
+    C) were watching
+    D) watched
+    *   **Hint:** Unit 13 explains the form for actions happening at a specific time in the past [32, p.34].
+    *   **Correct Answer:** C) were watching
 
-    **Hint**: Use the past continuous (was/were + -ing) to describe an action that was in progress at a specific time in the past [32A].
+2.  Sarah _______ when I called her.
+    A) sleeps
+    B) was sleeping
+    C) slept
+    D) is sleeping
+    *   **Hint:** Use the past continuous to describe an ongoing action in the past that was interrupted [32, p.34].
+    *   **Correct Answer:** B) was sleeping
 
-2.  What ______ (you / do) at 10.30 yesterday morning?
-    A) did you do
-    B) are you doing
-    C) **were you doing** [32A, 32D]
-    D) do you do
+3.  I _______ (not work) at 10 AM this morning.
+    A) didn't work
+    B) wasn't working
+    C) am not working
+    D) don't work
+    *   **Hint:** The negative form of the past continuous uses 'wasn't' or 'weren't' followed by the -ing form of the verb [32, p.34].
+    *   **Correct Answer:** B) wasn't working
 
-    **Hint**: To ask about an action that was ongoing at a specific past time, use **'What' + was/were + subject + -ing** [32A, 32D].
+4.  _______ (you / read) a book when I saw you?
+    A) Are you reading
+    B) Did you read
+    C) Were you reading
+    D) Do you read
+    *   **Hint:** For questions in the past continuous, start with 'Was' or 'Were' before the subject [32, p.34].
+    *   **Correct Answer:** C) Were you reading
 
-3.  It ______ (rain) when I left the house.
-    A) rained
-    B) is raining
-    C) **was raining** [32B]
-    D) rains
+5.  It _______ (rain) hard when we left the house.
+    A) rains
+    B) was raining
+    C) rained
+    D) is raining
+    *   **Hint:** Describe the weather condition that was ongoing in the past [32, p.34].
+    *   **Correct Answer:** B) was raining
 
-    **Hint**: This describes an action that was in progress when another past action occurred [32B].
+6.  At midnight, I _______ (still / dance) at the party.
+    A) still danced
+    B) was still dancing
+    C) am still dancing
+    D) have still danced
+    *   **Hint:** An action that was in progress at a specific point in the past uses the past continuous [32, p.34].
+    *   **Correct Answer:** B) was still dancing
 
-4.  We ______ (not / play) tennis at 4 PM yesterday.
-    A) didn't play
-    B) don't play
-    C) **weren't playing** [32B]
-    D) aren't playing
-
-    **Hint**: For negative sentences in the past continuous, use **'wasn't'** or **'weren't'** followed by the **-ing form** of the verb [32B].
-
-5.  She ______ (read) a book when her sister came in.
-    A) read
-    B) is reading
-    C) **was reading** [34A]
-    D) reads
-
-    **Hint**: This indicates an action that was in progress when another event happened in the past [34A].
-
-6.  While I ______ (cook), my brother ______ (watch) television.
-    A) cooked / watched
-    B) was cooking / watched
-    C) cooked / was watching
-    D) **was cooking / was watching** [34B]
-
-    **Hint**: When two actions were happening at the same time in the past, both use the past continuous [34B].
-
-7.  ______ (Tom / work) when you saw him at the cafe?
-    A) Did Tom work
-    B) Does Tom work
-    C) **Was Tom working** [32A]
-    D) Is Tom working
-
-    **Hint**: To form a question in the past continuous, use **'Was/Were' + subject + -ing form** [32A].
-
-8.  They ______ (not / wait) for me when I arrived.
-    A) didn't wait
-    B) don't wait
-    C) **weren't waiting** [32B]
-    D) aren't waiting
-
-    **Hint**: The negative form of the past continuous uses **'weren't' + -ing** [32B].
-
-9.  What ______ (she / do) when the fire alarm rang?
-    A) did she do
-    B) is she doing
-    C) **was she doing** [32A, 32D]
-    D) does she do
-
-    **Hint**: To ask about an action in progress at a specific past moment, use **'What' + was/were + subject + -ing** [32A, 32D].
-
-10. The children ______ (play) in the park all afternoon yesterday.
+7.  My brother and I _______ (play) football yesterday afternoon.
     A) played
     B) are playing
-    C) **were playing** [32B]
+    C) were playing
     D) play
+    *   **Hint:** Use the past continuous for an action happening over a period in the past [32, p.34].
+    *   **Correct Answer:** C) were playing
 
-    **Hint**: This describes an action that was continuously happening over a period in the past [32B].
+8.  Why _______ (you / wear) a hat yesterday?
+    A) do you wear
+    B) did you wear
+    C) were you wearing
+    D) are you wearing
+    *   **Hint:** Ask about an action that was ongoing or visible at a specific moment in the past [32, p.34].
+    *   **Correct Answer:** C) were you wearing
 
-11. I ______ (have) a shower when the phone rang.
-    A) had
-    B) am having
-    C) **was having** [34A]
-    D) have
+9.  The children _______ (do) their homework at 7 PM.
+    A) did
+    B) are doing
+    C) were doing
+    D) do
+    *   **Hint:** An action in progress at a specific time in the past requires the past continuous [32, p.34].
+    *   **Correct Answer:** C) were doing
 
-    **Hint**: An action was in progress (having a shower) when another action (phone rang) interrupted it [34A].
+10. I _______ (not watch) television when the phone rang.
+    A) didn't watch
+    B) wasn't watching
+    C) don't watch
+    D) am not watching
+    *   **Hint:** This describes an action that was not in progress at the time another event occurred [32, p.34].
+    *   **Correct Answer:** B) wasn't watching
 
-12. Where ______ (he / go) when you met him on the street?
-    A) did he go
-    B) is he going
-    C) **was he going** [32A, 32D]
-    D) does he go
+11. What _______ (he / eat) at lunchtime yesterday?
+    A) does he eat
+    B) did he eat
+    C) was he eating
+    D) is he eating
+    *   **Hint:** Form a question about an ongoing action at a specific time in the past [32, p.34].
+    *   **Correct Answer:** C) was he eating
 
-    **Hint**: Use a question word **'Where' + was/were + subject + -ing** to ask about an ongoing action in the past [32A, 32D].
-
-13. We ______ (sit) by the window when we heard the noise.
-    A) sat
-    B) are sitting
-    C) **were sitting** [34A]
-    D) sit
-
-    **Hint**: This shows an ongoing action that was interrupted by a sudden past event [34A].
-
-14. My keys fell out of my pocket while I ______ (run).
-    A) ran
-    B) am running
-    C) **was running** [34A]
-    D) run
-
-    **Hint**: This describes an ongoing action that was in progress when another action happened [34A].
-
-15. Helen ______ (not / listen) to the teacher during the lesson.
-    A) didn't listen
-    B) doesn't listen
-    C) **wasn't listening** [32B]
-    D) isn't listening
-
-    **Hint**: The negative form of the past continuous uses **'wasn't' + -ing** [32B].
-
-16. What exactly ______ (you / discuss) when I joined the meeting?
-    A) did you discuss
-    B) are you discussing
-    C) **were you discussing** [32A, 32D]
-    D) do you discuss
-
-    **Hint**: To ask about an action in progress at a specific past time, use **'what' + was/were + subject + -ing** [32A, 32D].
-
-17. The sun ______ (set) beautifully when we left the beach.
-    A) set
-    B) is setting
-    C) **was setting** [32B]
-    D) sets
-
-    **Hint**: This describes an action that was in progress at a particular past moment [32B].
-
-18. I ______ (walk) my dog when I saw the accident.
-    A) walked
-    B) am walking
-    C) **was walking** [34A]
-    D) walk
-
-    **Hint**: This indicates an ongoing action that was happening when another event (past simple) occurred [34A].
-
-19. Why ______ (you / smile) when I looked at you?
-    A) did you smile
-    B) are you smiling
-    C) **were you smiling** [32A, 32D]
-    D) do you smile
-
-    **Hint**: For questions using 'why' in the past continuous, use **'Why' + was/were + subject + -ing** [32A, 32D].
-
-20. We ______ (pack) our bags all morning yesterday.
-    A) packed
-    B) are packing
-    C) **were packing** [32B]
-    D) pack
-
-    **Hint**: This describes an action that was continuously happening over a period in the past [32B].
-
-21. He ______ (not / look) at me while he was talking.
-    A) didn't look
-    B) doesn't look
-    C) **wasn't looking** [32B]
-    D) isn't looking
-
-    **Hint**: The negative past continuous is formed with **'wasn't' + -ing** [32B].
-
-22. What ______ (they / wear) at the party last Saturday?
-    A) did they wear
-    B) are they wearing
-    C) **were they wearing** [32A, 32D]
-    D) do they wear
-
-    **Hint**: To ask about what people were doing or wearing at a specific past event, use **'what' + was/were + subject + -ing** [32A, 32D].
-
-23. She ______ (wait) for me at the bus stop when I arrived.
-    A) waited
-    B) is waiting
-    C) **was waiting** [34A]
-    D) waits
-
-    **Hint**: This shows an ongoing action that was interrupted by another action [34A].
-
-24. While Sarah ______ (clean) the kitchen, John ______ (do) the laundry.
-    A) cleaned / did
-    B) was cleaning / did
-    C) cleaned / was doing
-    D) **was cleaning / was doing** [34B]
-
-    **Hint**: When two actions were happening simultaneously in the past, both use the past continuous [34B].
-
-25. ______ (the phone / ring) when you opened the door?
-    A) Did the phone ring
-    B) Does the phone ring
-    C) **Was the phone ringing** [32A]
-    D) Is the phone ringing
-
-    **Hint**: To ask if an action was continuous in the past, use **'Was/Were' + subject + -ing** [32A].
-
-26. I ______ (listen) to music while I was jogging.
+12. Ann _______ (listen) to music while she was studying.
     A) listened
-    B) am listening
-    C) **was listening** [34B]
-    D) listen
+    B) was listening
+    C) listens
+    D) is listening
+    *   **Hint:** Two actions happening simultaneously in the past often use the past continuous [32, p.34].
+    *   **Correct Answer:** B) was listening
 
-    **Hint**: This describes two actions happening at the same time in the past [34B].
+13. We _______ (have) dinner when the lights went out.
+    A) had
+    B) were having
+    C) have
+    D) are having
+    *   **Hint:** Use the past continuous for an ongoing action interrupted by a sudden event [32, p.34].
+    *   **Correct Answer:** B) were having
 
-27. When I saw them, they ______ (argue) loudly.
-    A) argued
-    B) are arguing
-    C) **were arguing** [34A]
-    D) argue
+14. They _______ (not walk) fast enough to catch the bus.
+    A) didn't walk
+    B) weren't walking
+    C) don't walk
+    D) aren't walking
+    *   **Hint:** The negative form of the past continuous for plural subjects uses 'weren't' [32, p.34].
+    *   **Correct Answer:** B) weren't walking
 
-    **Hint**: This describes an ongoing action that was in progress when another event (past simple) occurred [34A].
+15. Who _______ (you / talk) to on the phone just now?
+    A) did you talk
+    B) were you talking
+    C) are you talking
+    D) do you talk
+    *   **Hint:** Ask about an action that was ongoing recently in the past [32, p.34].
+    *   **Correct Answer:** B) were you talking
 
-28. My computer ______ (not / work) when I tried to turn it on this morning.
-    A) didn't work
-    B) don't work
-    C) **wasn't working** [32B]
-    D) isn't working
+16. The sun _______ (shine) brightly all morning.
+    A) shines
+    B) was shining
+    C) shone
+    D) is shining
+    *   **Hint:** Describe a continuous state or activity throughout a period in the past [32, p.34].
+    *   **Correct Answer:** B) was shining
 
-    **Hint**: The negative past continuous is formed with **'wasn't' + -ing** [32B].
+17. I _______ (lie) in bed when I heard the noise.
+    A) lay
+    B) was lying
+    C) am lying
+    D) lie
+    *   **Hint:** Remember the spelling rule for verbs ending in -ie, which changes to -y before adding -ing (e.g., `lie` becomes `lying`) [32, p.34].
+    *   **Correct Answer:** B) was lying
 
-29. What book ______ (you / read) when I called you last night?
-    A) did you read
-    B) are you reading
-    C) **were you reading** [32A, 32D]
-    D) do you read
+18. What kind of music _______ (they / listen) to at the party last night?
+    A) did they listen
+    B) were they listening
+    C) do they listen
+    D) are they listening
+    *   **Hint:** Form a question about an activity ongoing at a specific past event [32, p.34].
+    *   **Correct Answer:** B) were they listening
 
-    **Hint**: To ask about an ongoing action in the past, use **'what' + was/were + subject + -ing** [32A, 32D].
+19. Sarah _______ (drive) when she saw the accident.
+    A) drove
+    B) was driving
+    C) drives
+    D) is driving
+    *   **Hint:** An ongoing action in the past interrupted by another event uses the past continuous [32, p.34].
+    *   **Correct Answer:** B) was driving
 
-30. Did you hear the storm? Yes, it ______ (blow) very hard.
-    A) blew
-    B) is blowing
-    C) **was blowing** [32B]
-    D) blows
+20. At 6 o'clock, I _______ (prepare) dinner.
+    A) prepared
+    B) was preparing
+    C) am preparing
+    D) prepare
+    *   **Hint:** An action specifically in progress at a precise moment in the past uses the past continuous [32, p.34].
+    *   **Correct Answer:** B) was preparing
 
-    **Hint**: This describes an action that was in progress at the time of the storm [32B].
+21. Why _______ (she / cry) when you saw her?
+    A) does she cry
+    B) did she cry
+    C) was she crying
+    D) is she crying
+    *   **Hint:** Ask about the reason for an ongoing action in the past [32, p.34].
+    *   **Correct Answer:** C) was she crying
+
+22. Tom _______ (not sleep) when his mom checked on him.
+    A) didn't sleep
+    B) wasn't sleeping
+    C) doesn't sleep
+    D) isn't sleeping
+    *   **Hint:** The negative form of the past continuous for a singular subject is 'wasn't + -ing' [32, p.34].
+    *   **Correct Answer:** B) wasn't sleeping
+
+23. They _______ (wait) for the bus when it started to snow.
+    A) waited
+    B) are waiting
+    C) were waiting
+    D) wait
+    *   **Hint:** An ongoing action in the past interrupted by a new event uses the past continuous [32, p.34].
+    *   **Correct Answer:** C) were waiting
+
+24. I _______ (read) a book for two hours this morning.
+    A) read
+    B) was reading
+    C) am reading
+    D) have read
+    *   **Hint:** An action that was ongoing for a duration in the past uses the past continuous [32, p.34].
+    *   **Correct Answer:** B) was reading
+
+25. The bird _______ (sing) beautifully when I woke up.
+    A) sang
+    B) was singing
+    C) sings
+    D) is singing
+    *   **Hint:** A continuous sound or activity happening in the past uses the past continuous [32, p.34].
+    *   **Correct Answer:** B) was singing
+
+26. What _______ (you / do) when I called you yesterday?
+    A) did you do
+    B) were you doing
+    C) do you do
+    D) are you doing
+    *   **Hint:** Ask about an action that was in progress when another event occurred [32, p.34].
+    *   **Correct Answer:** B) were you doing
+
+27. We _______ (not listen) to the radio at the time of the announcement.
+    A) didn't listen
+    B) weren't listening
+    C) don't listen
+    D) aren't listening
+    *   **Hint:** Use the negative past continuous for a plural subject at a specific past time [32, p.34].
+    *   **Correct Answer:** B) weren't listening
+
+28. At 9:45, Sarah _______ (wash) her car.
+    A) washes
+    B) washed
+    C) was washing
+    D) is washing
+    *   **Hint:** An action specifically in progress at a precise moment in the past is described using the past continuous [32, p.34].
+    *   **Correct Answer:** C) was washing
+
+29. Jim _______ (read) a book yesterday morning.
+    A) reads
+    B) read
+    C) was reading
+    D) is reading
+    *   **Hint:** Unit 13 focuses on "I was doing" for actions happening over a period in the past [32, p.34].
+    *   **Correct Answer:** C) was reading
+
+30. The children _______ (play) in the garden all afternoon.
+    A) played
+    B) are playing
+    C) were playing
+    D) play
+    *   **Hint:** An activity that continued for an extended period in the past is expressed with the past continuous [32, p.34].
+    *   **Correct Answer:** C) were playing

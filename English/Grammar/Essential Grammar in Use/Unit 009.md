@@ -1,279 +1,245 @@
-Here are 30 quiz questions to help you practice the grammar points covered in **Unit 9: I have ... / I've got ...** from "Essential Grammar in Use." This unit focuses on using **have** and **have got** to talk about **possession, characteristics, or certain states** like illnesses [25A, 25B, 25C].
+Let's focus on **Unit 9: I have ... / I've got ...** from your "Essential Grammar in Use" book [2, p.2]. This unit explains that **'have'** and **'have got'** mean the same thing, and it covers their positive, negative, and question forms [25, p.26].
 
-***
+Here are 30 multiple-choice questions to help you practice this grammar point:
 
-### Unit 9: I have / I've got Quiz
+---
 
-1.  I ______ a new bicycle. It's red.
-    A) has got
-    B) have got [25A]
-    C) am having
-    D) gets
-
-    **Hint**: For the subject "I," the correct positive forms for possession are "have" or "have got" [25A].
-    **Answer**: B) have got
-
-2.  She ______ very long hair.
-    A) have got
-    B) has got [25A]
-    C) got
-    D) is having
-
-    **Hint**: For the subject "She," the correct positive forms for possession or characteristics are "has" or "has got" [25A].
-    **Answer**: B) has got
-
-3.  We ______ a big house with a lovely garden.
+1.  I _______ (have) a new bicycle.
     A) have
     B) has
-    C) is having
-    D) have got [25A]
+    C) has got
+    D) is got
+    *   **Hint:** For the subject 'I', the common form is 'have' or 'have got' [25, p.26].
+    *   **Correct Answer:** A) have
 
-    **Hint**: Both "have" and "have got" are correct for "we" when indicating possession [25A].
-    **Answer**: D) have got (Both A and D are correct, but usually in multiple choice, there is one best or specifically tested option. "Have got" is often presented as the more informal, common alternative for possession in this unit.)
-
-4.  My brother ______ a job right now. He's looking for one.
-    A) hasn't got [25B]
-    B) don't have
-    C) isn't having
-    D) not have
-
-    **Hint**: For the subject "My brother" (he), the negative forms for possession are "hasn't got" or "doesn't have" [25B, 25C].
-    **Answer**: A) hasn't got
-
-5.  They ______ any children.
-    A) haven't got [25B]
-    B) hasn't got
-    C) don't has
-    D) doesn't have
-
-    **Hint**: For the subject "They," the negative forms for possession are "haven't got" or "don't have" [25B, 25C].
-    **Answer**: A) haven't got
-
-6.  ______ you ______ a camera?
-    A) Do ... got
-    B) Have ... got [25B]
-    C) Are ... having
-    D) Does ... have
-
-    **Hint**: To ask about possession with "you," you can use "Have you got...?" or "Do you have...?" [25B, 25C].
-    **Answer**: B) Have ... got
-
-7.  What ______ you ______ in your bag?
-    A) are ... having
-    B) do ... got
-    C) have ... got [25B]
-    D) does ... have
-
-    **Hint**: To ask about possession with "what," you can use "What have you got...?" or "What do you have...?" [25B, 25C].
-    **Answer**: C) have ... got
-
-8.  He ______ a new car, but he ______ a motorbike.
-    A) has got ... hasn't got [25A, 25B]
-    B) have got ... don't have
-    C) has ... haven't got
-    D) is having ... isn't having
-
-    **Hint**: Both parts refer to possession. Use "has got" for positive and "hasn't got" for negative with "he" [25A, 25B].
-    **Answer**: A) has got ... hasn't got
-
-9.  My parents ______ a small flat in the city.
-    A) has got
-    B) have got [25A]
-    C) is having
-    D) gets
-
-    **Hint**: For the subject "My parents" (they), use "have got" for possession [25A].
-    **Answer**: B) have got
-
-10. ______ she ______ a headache? She looks tired.
-    A) Has ... got [25B]
-    B) Do ... have
-    C) Does ... got
-    D) Is ... having
-
-    **Hint**: To ask about a state (like a headache) with "she," you can use "Has she got...?" or "Does she have...?" [25B, 25C].
-    **Answer**: A) Has ... got
-
-11. How many brothers and sisters ______ you ______?
-    A) have ... got [25B]
-    B) do ... got
-    C) has ... got
-    D) are ... having
-
-    **Hint**: To ask about quantity of possessions/relatives with "you," use "How many... have you got?" or "How many... do you have?" [25B, 25C].
-    **Answer**: A) have ... got
-
-12. The dog ______ a long tail.
-    A) have got
-    B) has got [25A]
-    C) is having
-    D) got
-
-    **Hint**: For the subject "The dog" (it), use "has got" for characteristics [25A].
-    **Answer**: B) has got
-
-13. I ______ much time to talk now, I'm very busy.
-    A) haven't got [25B]
-    B) don't has
-    C) doesn't have
-    D) not have
-
-    **Hint**: For the subject "I," the negative forms are "haven't got" or "don't have" [25B, 25C].
-    **Answer**: A) haven't got
-
-14. ______ they ______ any plans for the weekend?
-    A) Do ... got
-    B) Have ... got [25B]
-    C) Are ... having
-    D) Does ... have
-
-    **Hint**: To ask about plans (a form of possession/arrangement in this context) with "they," use "Have they got...?" or "Do they have...?" [25B, 25C].
-    **Answer**: B) Have ... got
-
-15. My new phone ______ a very good camera.
+2.  She _______ (have) long, dark hair.
     A) have
-    B) has [25A]
-    C) are having
-    D) have got
+    B) has
+    C) have got
+    D) are got
+    *   **Hint:** For singular subjects like 'she', use 'has' or 'has got' [25, p.26].
+    *   **Correct Answer:** B) has
 
-    **Hint**: For "My new phone" (it), use "has" or "has got" for possession/characteristics [25A].
-    **Answer**: B) has
-
-16. Sarah ______ blue eyes and blonde hair.
-    A) have got
-    B) has got [25A]
-    C) is having
-    D) got
-
-    **Hint**: For "Sarah" (she), use "has got" for characteristics [25A].
-    **Answer**: B) has got
-
-17. We ______ a party last night.
-    A) have got
-    B) had got
-    C) had [Unit 9 does not cover past tense of 'have'. This question requires knowledge of past simple 'had', which is not the focus of Unit 9 and might lead to confusion with 'have got'. I will replace this question to stay strictly within Unit 9's scope.]
-    **Revised Q17**: We ______ a lot of homework to do this evening.
+3.  They _______ (have) a big house with a large garden.
     A) has got
-    B) have got [25A]
-    C) is having
-    D) got
+    B) have got
+    C) is got
+    D) has
+    *   **Hint:** For plural subjects like 'they', use 'have got' [25, p.26].
+    *   **Correct Answer:** B) have got
 
-    **Hint**: For "We," use "have got" to express having obligations or things to do [25A].
-    **Answer**: B) have got
+4.  We _______ (not have) any milk in the fridge.
+    A) hasn't got
+    B) haven't got
+    C) isn't got
+    D) don't has
+    *   **Hint:** For plural subjects like 'we', the negative form is 'haven't got' or 'don't have' [25, p.26].
+    *   **Correct Answer:** B) haven't got
 
-18. I ______ a cold and I feel terrible.
-    A) am having
+5.  He _______ (have) a lot of friends at school.
+    A) have got
     B) has got
-    C) have got [25A]
-    D) got
+    C) am got
+    D) is have
+    *   **Hint:** For singular male subjects like 'he', use 'has got' [25, p.26].
+    *   **Correct Answer:** B) has got
 
-    **Hint**: For expressing an illness with "I," use "have got" [25A].
-    **Answer**: C) have got
-
-19. The company ______ over 200 employees.
-    A) have
-    B) has [25A]
-    C) are having
-    D) have got
-
-    **Hint**: For "The company" (it), use "has" or "has got" to express possession [25A].
-    **Answer**: B) has
-
-20. ______ your brother ______ a driving licence?
-    A) Does ... got
-    B) Have ... got
-    C) Has ... got [25B]
-    D) Do ... have
-
-    **Hint**: To ask about possession for "your brother" (he), use "Has he got...?" or "Does he have...?" [25B, 25C].
-    **Answer**: C) Has ... got
-
-21. I ______ enough money to buy that laptop.
-    A) haven't got [25B]
-    B) don't has
-    C) doesn't have
-    D) not have
-
-    **Hint**: For "I," use "haven't got" or "don't have" for negative possession [25B, 25C].
-    **Answer**: A) haven't got
-
-22. My car ______ four doors.
-    A) have
-    B) has [25A]
-    C) is having
-    D) have got
-
-    **Hint**: For "My car" (it), use "has" or "has got" for characteristics [25A].
-    **Answer**: B) has
-
-23. How many eggs ______ we ______?
-    A) do ... got
-    B) have ... got [25B]
-    C) are ... having
-    D) does ... have
-
-    **Hint**: To ask about quantity with "we," use "How many... have we got?" or "How many... do we have?" [25B, 25C].
-    **Answer**: B) have ... got
-
-24. She ______ a quiet personality.
-    A) have got
-    B) has got [25A]
-    C) is having
-    D) got
-
-    **Hint**: For "She," use "has got" to describe a characteristic [25A].
-    **Answer**: B) has got
-
-25. We ______ much time before the train leaves.
-    A) don't have [25C]
+6.  My car _______ (not have) enough petrol.
+    A) don't have
     B) haven't got
     C) doesn't have
-    D) not have
+    D) wasn't got
+    *   **Hint:** For singular 'my car' (it), the negative form can be 'doesn't have' or 'hasn't got' [25, p.26].
+    *   **Correct Answer:** C) doesn't have
 
-    **Hint**: For "We," use "don't have" or "haven't got" for negative possession/availability of time [25B, 25C].
-    **Answer**: A) don't have
+7.  _______ you _______ (have) a fever? You look ill.
+    A) Do / got
+    B) Have / got
+    C) Has / got
+    D) Are / have
+    *   **Hint:** To ask a question using 'have got' with 'you', use 'Have you got?' [25, p.26].
+    *   **Correct Answer:** B) Have / got
 
-26. Do you ______ a moment to talk?
-    A) got
-    B) have [25C]
-    C) having
-    D) has
-
-    **Hint**: In "Do you...?" questions for possession, use the base form "have" [25C].
-    **Answer**: B) have
-
-27. The old television ______ a remote control.
-    A) don't have
-    B) hasn't got [25B]
-    C) haven't got
-    D) doesn't have
-
-    **Hint**: For "The old television" (it), use "hasn't got" or "doesn't have" for negative possession [25B, 25C]. Both B and D are technically correct, but 'hasn't got' is a common alternative.
-    **Answer**: B) hasn't got
-
-28. My friend ______ a good sense of humour.
+8.  The dog _______ (have) a short tail.
     A) have
-    B) has [25A]
-    C) are having
-    D) have got
+    B) has
+    C) have got
+    D) were got
+    *   **Hint:** For singular subjects like 'the dog' (it), use 'has' or 'has got' [25, p.26].
+    *   **Correct Answer:** B) has
 
-    **Hint**: For "My friend" (he/she), use "has" or "has got" for characteristics [25A].
-    **Answer**: B) has
+9.  She _______ (not have) a passport. She can't travel.
+    A) hasn't got
+    B) don't have
+    C) aren't got
+    D) isn't have
+    *   **Hint:** For singular 'she', the negative form is 'hasn't got' or 'doesn't have' [25, p.26].
+    *   **Correct Answer:** A) hasn't got
 
-29. Excuse me, ______ you ______ a pen I could borrow?
-    A) Do ... got
-    B) Have ... got [25B]
-    C) Are ... having
-    D) Does ... have
+10. How many brothers and sisters _______ your parents _______ (have)?
+    A) do / got
+    B) has / have
+    C) do / have
+    D) have / got
+    *   **Hint:** When asking with 'do/does', use the base form 'have'. 'Your parents' is plural, so use 'do' [25, p.26].
+    *   **Correct Answer:** C) do / have
 
-    **Hint**: To ask about possession with "you," use "Have you got...?" or "Do you have...?" [25B, 25C].
-    **Answer**: B) Have ... got
+11. We _______ (have) a lot of work to do today.
+    A) has
+    B) have
+    C) is
+    D) got
+    *   **Hint:** For the subject 'we', use 'have' or 'have got' [25, p.26].
+    *   **Correct Answer:** B) have
 
-30. They ______ a dog, but they ______ two cats.
-    A) don't have ... have [25A, 25C]
-    B) haven't got ... has got
-    C) doesn't have ... have
-    D) not have ... have got
+12. He _______ (have) a headache.
+    A) got
+    B) have got
+    C) has got
+    D) is have
+    *   **Hint:** For 'he', use 'has got' [25, p.26].
+    *   **Correct Answer:** C) has got
 
-    **Hint**: For "they," use "don't have" or "haven't got" for negative and "have" or "have got" for positive possession [25A, 25C].
-    **Answer**: A) don't have ... have
+13. I _______ (not have) any free time this weekend.
+    A) doesn't have
+    B) hasn't got
+    C) don't have
+    D) weren't have
+    *   **Hint:** For 'I', the negative form can be 'don't have' or 'haven't got' [25, p.26].
+    *   **Correct Answer:** C) don't have
+
+14. _______ Mr. Smith _______ (have) a big family?
+    A) Do / have
+    B) Have / got
+    C) Does / have
+    D) Is / got
+    *   **Hint:** 'Mr. Smith' is a singular male subject, so use 'Does' for questions with 'have' [25, p.26].
+    *   **Correct Answer:** C) Does / have
+
+15. My phone _______ (have) a good camera.
+    A) has
+    B) have
+    C) are got
+    D) got
+    *   **Hint:** 'My phone' is a singular subject (it), so use 'has' or 'has got' [25, p.26].
+    *   **Correct Answer:** A) has
+
+16. They _______ (not have) any pets.
+    A) hasn't got
+    B) don't have
+    C) doesn't have
+    D) isn't got
+    *   **Hint:** For 'they', the negative form can be 'don't have' or 'haven't got' [25, p.26].
+    *   **Correct Answer:** B) don't have
+
+17. How much money _______ you _______ (have)?
+    A) do / got
+    B) have / got
+    C) do / have
+    D) has / got
+    *   **Hint:** To ask about quantity, 'do/does have' is often used, especially with 'how much' or 'how many' [25, p.26].
+    *   **Correct Answer:** C) do / have
+
+18. He _______ (not have) a job at the moment.
+    A) haven't got
+    B) don't have
+    C) hasn't got
+    D) aren't have
+    *   **Hint:** For 'he', the negative form is 'hasn't got' or 'doesn't have' [25, p.26].
+    *   **Correct Answer:** C) hasn't got
+
+19. My sister _______ (have) blue eyes.
+    A) have
+    B) has
+    C) have got
+    D) is got
+    *   **Hint:** 'My sister' is a singular female subject, so use 'has' or 'has got' [25, p.26].
+    *   **Correct Answer:** B) has
+
+20. We _______ (have) a lot of fun at the party last night.
+    A) has got
+    B) have got
+    C) is got
+    D) has
+    *   **Hint:** For 'we', use 'have got' or 'have' [25, p.26].
+    *   **Correct Answer:** B) have got
+
+21. I _______ (not have) a motor-bike.
+    A) haven't got
+    B) doesn't have
+    C) wasn't got
+    D) am not got
+    *   **Hint:** For 'I', the negative is 'haven't got' or 'don't have' [25, p.26].
+    *   **Correct Answer:** A) haven't got
+
+22. _______ Ann _______ (have) a car?
+    A) Have / got
+    B) Do / have
+    C) Does / have
+    D) Is / got
+    *   **Hint:** For a singular subject like 'Ann', use 'Does' with 'have' in a question [25, p.26].
+    *   **Correct Answer:** C) Does / have
+
+23. The house _______ (have) three bedrooms.
+    A) have
+    B) has
+    C) have got
+    D) are got
+    *   **Hint:** 'The house' (it) is singular, so use 'has' or 'has got' [25, p.26].
+    *   **Correct Answer:** B) has
+
+24. Sarah _______ (have) a new job.
+    A) have
+    B) has
+    C) were got
+    D) am got
+    *   **Hint:** 'Sarah' is a singular subject, so use 'has' or 'has got' [25, p.26].
+    *   **Correct Answer:** B) has
+
+25. We _______ (have) a busy day tomorrow.
+    A) has
+    B) have
+    C) is
+    D) got
+    *   **Hint:** For 'we', use 'have' or 'have got' [25, p.26].
+    *   **Correct Answer:** B) have
+
+26. They _______ (have) a lot of experience in this field.
+    A) have got
+    B) has got
+    C) is got
+    D) had got
+    *   **Hint:** For 'they', use 'have got' or 'have' [25, p.26].
+    *   **Correct Answer:** A) have got
+
+27. My computer _______ (not have) internet access.
+    A) haven't got
+    B) don't have
+    C) hasn't got
+    D) aren't have
+    *   **Hint:** 'My computer' (it) is singular, so the negative is 'hasn't got' or 'doesn't have' [25, p.26].
+    *   **Correct Answer:** C) hasn't got
+
+28. _______ he _______ (have) a big family?
+    A) Do / have
+    B) Has / got
+    C) Have / got
+    D) Does / got
+    *   **Hint:** To ask a question about 'he' using 'have got', use 'Has he got?' [25, p.26].
+    *   **Correct Answer:** B) Has / got
+
+29. The building _______ (have) five floors.
+    A) have
+    B) has
+    C) got
+    D) were
+    *   **Hint:** 'The building' (it) is singular, so use 'has' or 'has got' [25, p.26].
+    *   **Correct Answer:** B) has
+
+30. I _______ (have) blue eyes.
+    A) have got
+    B) has got
+    C) am got
+    D) is have
+    *   **Hint:** For 'I', use 'have got' or 'have' [25, p.26].
+    *   **Correct Answer:** A) have got
