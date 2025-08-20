@@ -9,7 +9,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Are
     C) Have
     D) Did
-    *   Hint: This question asks about an experience in your life, which requires the present perfect tense.
+    *   **Hint:** This question asks about an experience in your life, which requires the present perfect tense.
     *   **Correct Answer:** C) Have
 
 2.  Have you ever ___ golf?
@@ -17,7 +17,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) playing
     C) played
     D) plays
-    *   Hint: The present perfect uses "have/has" followed by the past participle of the main verb.
+    *   **Hint:** The present perfect uses "have/has" followed by the past participle of the main verb.
     *   **Correct Answer:** C) played
 
 3.  Sarah ___ ever eaten Chinese food?
@@ -25,7 +25,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) is
     C) does
     D) has
-    *   Hint: For third person singular subjects (he/she/it), use "has" with the present perfect.
+    *   **Hint:** For third person singular subjects (he/she/it), use "has" with the present perfect.
     *   **Correct Answer:** D) has
 
 4.  ___ they ever visited Australia?
@@ -33,7 +33,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Have
     C) Did
     D) Are
-    *   Hint: To form a question in the present perfect for "they," use "Have".
+    *   **Hint:** To form a question in the present perfect for "they," use "Have".
     *   **Correct Answer:** B) Have
 
 5.  My brother ___ never flown in an airplane.
@@ -41,7 +41,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) has
     C) is
     D) have
-    *   Hint: "Never" is often used with the present perfect to indicate that something has not happened at any point up to now.
+    *   **Hint:** "Never" is often used with the present perfect to indicate that something has not happened at any point up to now.
     *   **Correct Answer:** B) has
 
 6.  Have you ever ___ a famous person?
@@ -49,7 +49,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) meeting
     C) met
     D) meets
-    *   Hint: The past participle of "meet" is "met".
+    *   **Hint:** The past participle of "meet" is "met".
     *   **Correct Answer:** C) met
 
 7.  He ___ bought a new car yet.
@@ -57,7 +57,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) didn't
     C) isn't
     D) doesn't
-    *   Hint: "Yet" is used in negative sentences and questions with the present perfect.
+    *   **Hint:** "Yet" is used in negative sentences and questions with the present perfect.
     *   **Correct Answer:** A) hasn't
 
 8.  ___ you ___ that movie before?
@@ -65,7 +65,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Have / seen
     C) Are / seeing
     D) Do / see
-    *   Hint: To inquire about a past experience up to the present moment, use the present perfect.
+    *   **Hint:** To inquire about a past experience up to the present moment, use the present perfect.
     *   **Correct Answer:** B) Have / seen
 
 9.  We have already ___ the news.
@@ -73,7 +73,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) hearing
     C) heard
     D) hears
-    *   Hint: "Already" is used with the present perfect to indicate something happened sooner than expected or before now.
+    *   **Hint:** "Already" is used with the present perfect to indicate something happened sooner than expected or before now.
     *   **Correct Answer:** C) heard
 
 10. ___ she ever read "War and Peace"?
@@ -81,7 +81,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Has
     C) Is
     D) Did
-    *   Hint: This question asks about an experience she has had or not had in her life.
+    *   **Hint:** This question asks about an experience she has had or not had in her life.
     *   **Correct Answer:** B) Has
 
 11. I ___ just ___ my homework.
@@ -89,7 +89,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) have / finished
     C) did / finish
     D) will / finish
-    *   Hint: "Just" is used with the present perfect to indicate an action completed a very short time ago.
+    *   **Hint:** "Just" is used with the present perfect to indicate an action completed a very short time ago.
     *   **Correct Answer:** B) have / finished
 
 12. ___ you ever ___ a horse?
@@ -97,7 +97,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Do / ride
     C) Have / ridden
     D) Did / rode
-    *   Hint: The past participle of "ride" is "ridden".
+    *   **Hint:** The past participle of "ride" is "ridden".
     *   **Correct Answer:** C) Have / ridden
 
 13. They have ___ arrived.
@@ -105,7 +105,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) already
     C) just
     D) never
-    *   Hint: This sentence suggests they arrived a short time ago, and "already" fits this context when something happened sooner than expected.
+    *   **Hint:** This sentence suggests they arrived a short time ago, and "already" fits this context when something happened sooner than expected.
     *   **Correct Answer:** C) just (The source states "just = a short time ago" and provides the example "They have just arrived.")
 
 14. Have you ever ___ an elephant?
@@ -113,7 +113,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) saw
     C) seen
     D) sees
-    *   Hint: The past participle of "see" is "seen".
+    *   **Hint:** The past participle of "see" is "seen".
     *   **Correct Answer:** C) seen
 
 15. My parents ___ not eaten sushi before.
@@ -121,7 +121,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) are
     C) have
     D) did
-    *   Hint: For plural subjects like "my parents," use "have" in the present perfect.
+    *   **Hint:** For plural subjects like "my parents," use "have" in the present perfect.
     *   **Correct Answer:** C) have
 
 16. ___ he ___ to Paris?
@@ -129,7 +129,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Is / gone
     C) Did / go
     D) Does / go
-    *   Hint: When asking if someone has visited a place, "been to" is commonly used.
+    *   **Hint:** When asking if someone has visited a place, "been to" is commonly used.
     *   **Correct Answer:** A) Has / been
 
 17. We ___ already ___ the cake.
@@ -137,7 +137,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) have / baked
     C) did / bake
     D) will / bake
-    *   Hint: Use "already" to indicate completion sooner than expected with the present perfect.
+    *   **Hint:** Use "already" to indicate completion sooner than expected with the present perfect.
     *   **Correct Answer:** B) have / baked
 
 18. ___ she ever ___ a marathon?
@@ -145,7 +145,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Has / run
     C) Is / running
     D) Does / run
-    *   Hint: The past participle of "run" is "run".
+    *   **Hint:** The past participle of "run" is "run".
     *   **Correct Answer:** B) Has / run
 
 19. They haven't found their keys ___.
@@ -153,7 +153,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) just
     C) ever
     D) yet
-    *   Hint: "Yet" is used in negative sentences to mean "until now".
+    *   **Hint:** "Yet" is used in negative sentences to mean "until now".
     *   **Correct Answer:** D) yet
 
 20. Have you ever ___ sick on a trip?
@@ -161,7 +161,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) fall
     C) fallen
     D) falling
-    *   Hint: The past participle of "fall" is "fallen".
+    *   **Hint:** The past participle of "fall" is "fallen".
     *   **Correct Answer:** C) fallen
 
 21. My sister ___ just ___ home.
@@ -169,7 +169,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) has / gone
     C) did / go
     D) will / go
-    *   Hint: "Just" implies an action completed a very short time ago, and "has gone" is the correct present perfect form for third person singular.
+    *   **Hint:** "Just" implies an action completed a very short time ago, and "has gone" is the correct present perfect form for third person singular.
     *   **Correct Answer:** B) has / gone
 
 22. ___ they ever ___ a car accident?
@@ -177,7 +177,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Have / had
     C) Are / having
     D) Do / have
-    *   Hint: The past participle of "have" is "had".
+    *   **Hint:** The past participle of "have" is "had".
     *   **Correct Answer:** B) Have / had
 
 23. I've ___ paid the bill.
@@ -185,7 +185,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) never
     C) already
     D) ever
-    *   Hint: "Already" indicates that the action was completed before now, possibly sooner than expected.
+    *   **Hint:** "Already" indicates that the action was completed before now, possibly sooner than expected.
     *   **Correct Answer:** C) already
 
 24. ___ he ever ___ a professional game?
@@ -193,7 +193,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Has / watched
     C) Did / watch
     D) Is / watching
-    *   Hint: This questions asks about a past experience, requiring the present perfect.
+    *   **Hint:** This questions asks about a past experience, requiring the present perfect.
     *   **Correct Answer:** B) Has / watched
 
 25. We ___ never ___ skiing before.
@@ -201,7 +201,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) are / going
     C) have / gone
     D) will / go
-    *   Hint: "Never" is used with the present perfect to indicate that something has not happened at any point up to now.
+    *   **Hint:** "Never" is used with the present perfect to indicate that something has not happened at any point up to now.
     *   **Correct Answer:** C) have / gone
 
 26. ___ you ever ___ your passport?
@@ -209,7 +209,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) Have / lost
     C) Are / losing
     D) Do / lose
-    *   Hint: The past participle of "lose" is "lost".
+    *   **Hint:** The past participle of "lose" is "lost".
     *   **Correct Answer:** B) Have / lost
 
 27. The film ___ not started ___.
@@ -217,7 +217,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) hasn't / yet
     C) didn't / already
     D) isn't / just
-    *   Hint: For singular non-human subjects like "the film," use "hasn't" and "yet" is used in negative present perfect sentences.
+    *   **Hint:** For singular non-human subjects like "the film," use "hasn't" and "yet" is used in negative present perfect sentences.
     *   **Correct Answer:** B) hasn't / yet
 
 28. Have you ever ___ to a foreign country?
@@ -225,7 +225,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) travelling
     C) traveled (or travelled)
     D) travels
-    *   Hint: The past participle of "travel" is "traveled" (American English) or "travelled" (British English).
+    *   **Hint:** The past participle of "travel" is "traveled" (American English) or "travelled" (British English).
     *   **Correct Answer:** C) traveled (or travelled)
 
 29. She has ___ bought a new dress.
@@ -233,7 +233,7 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) never
     C) just
     D) ever
-    *   Hint: "Just" indicates that the action happened a short time ago.
+    *   **Hint:** "Just" indicates that the action happened a short time ago.
     *   **Correct Answer:** C) just
 
 30. I ___ not finished my work ___.
@@ -241,5 +241,5 @@ Here are 30 multiple-choice questions designed to help you practice the grammar 
     B) have / yet
     C) did / never
     D) has / yet
-    *   Hint: For the subject "I," use "have," and "yet" is used in negative present perfect sentences.
+    *   **Hint:** For the subject "I," use "have," and "yet" is used in negative present perfect sentences.
     *   **Correct Answer:** B) have / yet
