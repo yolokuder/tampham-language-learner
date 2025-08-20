@@ -16,7 +16,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) staying
     D) stayed
     *Hint:* The verb "want" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to stay**
+    ***Correct Answer:*** **B) to stay**
 
 **2.** She expected him ____ on time for the meeting.
     A) be
@@ -24,7 +24,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) being
     D) was
     *Hint:* The verb "expect" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to be**
+    ***Correct Answer:*** **B) to be**
 
 **3.** I asked the waiter ____ more water.
     A) bring
@@ -32,7 +32,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) bringing
     D) brought
     *Hint:* The verb "ask" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to bring**
+    ***Correct Answer:*** **B) to bring**
 
 **4.** Can you tell him ____ me back tomorrow?
     A) call
@@ -40,7 +40,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) calling
     D) calls
     *Hint:* The verb "tell" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to call**
+    ***Correct Answer:*** **B) to call**
 
 **5.** The doctor advised me ____ more exercise.
     A) do
@@ -48,7 +48,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) doing
     D) did
     *Hint:* The verb "advise" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to do**
+    ***Correct Answer:*** **B) to do**
 
 **6.** My boss doesn't allow us ____ personal calls during work hours.
     A) make
@@ -56,7 +56,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) making
     D) made
     *Hint:* The verb "allow" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to make**
+    ***Correct Answer:*** **B) to make**
 
 **7.** He persuaded his friend ____ the trip with him.
     A) join
@@ -64,7 +64,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) joining
     D) joins
     *Hint:* The verb "persuade" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to join**
+    ***Correct Answer:*** **B) to join**
 
 **8.** My English teacher taught me ____ grammatically correct sentences.
     A) write
@@ -72,7 +72,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) writing
     D) writes
     *Hint:* The verb "teach" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to write**
+    ***Correct Answer:*** **B) to write**
 
 **9.** I would like you ____ my new apartment.
     A) see
@@ -80,7 +80,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) seeing
     D) saw
     *Hint:* The expression "would like" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to see**
+    ***Correct Answer:*** **B) to see**
 
 **10.** They would prefer us ____ earlier to avoid traffic.
     A) leave
@@ -88,7 +88,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) leaving
     D) left
     *Hint:* The expression "would prefer" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to leave**
+    ***Correct Answer:*** **B) to leave**
 
 **11.** She would love her children ____ successful in life.
     A) be
@@ -96,7 +96,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) being
     D) are
     *Hint:* The expression "would love" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to be**
+    ***Correct Answer:*** **B) to be**
 
 **12.** The strict teacher made the students ____ their homework.
     A) **do** [106C]
@@ -104,7 +104,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) doing
     D) did
     *Hint:* The verb "make" followed by an object requires the bare infinitive (without 'to') [106C].
-    *Correct Answer:* **A) do**
+    ***Correct Answer:*** **A) do**
 
 **13.** My mom let me ____ out with my friends tonight.
     A) **go** [106C]
@@ -112,7 +112,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) going
     D) goes
     *Hint:* The verb "let" followed by an object requires the bare infinitive (without 'to') [106C].
-    *Correct Answer:* **A) go**
+    ***Correct Answer:*** **A) go**
 
 **14.** Did you want me ____ the report by Friday?
     A) finish
@@ -120,7 +120,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) finishing
     D) finished
     *Hint:* The verb "want" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to finish**
+    ***Correct Answer:*** **B) to finish**
 
 **15.** I didn't expect the movie ____ so boring.
     A) be
@@ -128,7 +128,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) being
     D) was
     *Hint:* The verb "expect" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to be**
+    ***Correct Answer:*** **B) to be**
 
 **16.** The coach advised the players ____ hard for the championship.
     A) train
@@ -136,7 +136,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) training
     D) trains
     *Hint:* The verb "advise" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to train**
+    ***Correct Answer:*** **B) to train**
 
 **17.** Don't let your fears ____ you from achieving your goals.
     A) **stop** [106C]
@@ -144,7 +144,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) stopping
     D) stopped
     *Hint:* The verb "let" followed by an object requires the bare infinitive (without 'to') [106C].
-    *Correct Answer:* **A) stop**
+    ***Correct Answer:*** **A) stop**
 
 **18.** What made you ____ that decision so quickly?
     A) **take** [106C]
@@ -152,7 +152,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) taking
     D) took
     *Hint:* The verb "make" followed by an object requires the bare infinitive (without 'to') [106C].
-    *Correct Answer:* **A) take**
+    ***Correct Answer:*** **A) take**
 
 **19.** She told me ____ my questions clearly.
     A) explain
@@ -160,7 +160,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) explaining
     D) explains
     *Hint:* The verb "tell" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to explain**
+    ***Correct Answer:*** **B) to explain**
 
 **20.** They allowed the children ____ outside until sunset.
     A) play
@@ -168,7 +168,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) playing
     D) played
     *Hint:* The verb "allow" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to play**
+    ***Correct Answer:*** **B) to play**
 
 **21.** The company tried to persuade him ____ the new contract.
     A) sign
@@ -176,7 +176,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) signing
     D) signed
     *Hint:* The verb "persuade" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to sign**
+    ***Correct Answer:*** **B) to sign**
 
 **22.** My older sister taught me ____ how to ride a bicycle.
     A) ride
@@ -184,7 +184,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) riding
     D) rides
     *Hint:* The verb "teach" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to ride**
+    ***Correct Answer:*** **B) to ride**
 
 **23.** I would like you ____ me when you arrive.
     A) call
@@ -192,7 +192,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) calling
     D) calls
     *Hint:* The expression "would like" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to call**
+    ***Correct Answer:*** **B) to call**
 
 **24.** Would you prefer me ____ you a drink?
     A) get
@@ -200,7 +200,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) getting
     D) gets
     *Hint:* The expression "would prefer" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to get**
+    ***Correct Answer:*** **B) to get**
 
 **25.** My grandparents would love us ____ them next holiday.
     A) visit
@@ -208,7 +208,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) visiting
     D) visited
     *Hint:* The expression "would love" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to visit**
+    ***Correct Answer:*** **B) to visit**
 
 **26.** Don't let anything ____ your concentration.
     A) **break** [106C]
@@ -216,7 +216,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) breaking
     D) breaks
     *Hint:* The verb "let" followed by an object requires the bare infinitive (without 'to') [106C].
-    *Correct Answer:* **A) break**
+    ***Correct Answer:*** **A) break**
 
 **27.** The manager made everyone ____ late to finish the project.
     A) **work** [106C]
@@ -224,7 +224,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) working
     D) works
     *Hint:* The verb "make" followed by an object requires the bare infinitive (without 'to') [106C].
-    *Correct Answer:* **A) work**
+    ***Correct Answer:*** **A) work**
 
 **28.** What do you want me ____ next?
     A) do
@@ -232,7 +232,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) doing
     D) did
     *Hint:* The verb "want" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to do**
+    ***Correct Answer:*** **B) to do**
 
 **29.** The noise made the baby ____ up.
     A) **wake** [106C]
@@ -240,7 +240,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) waking
     D) wakes
     *Hint:* The verb "make" followed by an object requires the bare infinitive (without 'to') [106C].
-    *Correct Answer:* **A) wake**
+    ***Correct Answer:*** **A) wake**
 
 **30.** Her parents wouldn't allow her ____ to that party.
     A) go
@@ -248,4 +248,4 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) going
     D) went
     *Hint:* The verb "allow" followed by an object requires the 'to'-infinitive [106A].
-    *Correct Answer:* **B) to go**
+    ***Correct Answer:*** **B) to go**

@@ -17,7 +17,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) calling
     D) calls
     *Hint:* After the modal verb "will," use the base form of the verb [102A].
-    *Correct Answer:* B) call
+    ***Correct Answer:*** B) call
 
 **2.** I want ____ a new car.
     A) buy
@@ -25,7 +25,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) buying
     D) bought
     *Hint:* The verb "want" is typically followed by the 'to'-infinitive [102B].
-    *Correct Answer:* B) to buy
+    ***Correct Answer:*** B) to buy
 
 **3.** They are ____ to the cinema tonight.
     A) go
@@ -33,7 +33,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) going [102C]
     D) goes
     *Hint:* Use the -ing form of the verb when forming the present continuous tense [102C].
-    *Correct Answer:* C) going
+    ***Correct Answer:*** C) going
 
 **4.** He must ____ his homework before dinner.
     A) to do
@@ -41,7 +41,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) does
     D) do [102A]
     *Hint:* After the modal verb "must," use the base form of the verb [102A].
-    *Correct Answer:* D) do
+    ***Correct Answer:*** D) do
 
 **5.** She ____ studying for her exam right now.
     A) is [102C]
@@ -49,7 +49,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) be
     D) to be
     *Hint:* For the present continuous tense with a singular subject ("She"), use "is" followed by the -ing form of the verb [102C].
-    *Correct Answer:* A) is
+    ***Correct Answer:*** A) is
 
 **6.** We had ____ early yesterday morning.
     A) go
@@ -57,7 +57,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) to go [102B]
     D) went
     *Hint:* The expression "had to" (meaning "it was necessary") is followed by the 'to'-infinitive [102B].
-    *Correct Answer:* C) to go
+    ***Correct Answer:*** C) to go
 
 **7.** What ____ you ____ when I called you?
     A) was / do
@@ -65,7 +65,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) was / doing
     D) did / do
     *Hint:* For past continuous questions with "you," use "were" followed by the -ing form of the verb [102C].
-    *Correct Answer:* B) were / doing
+    ***Correct Answer:*** B) were / doing
 
 **8.** They might ____ late for the meeting.
     A) coming
@@ -73,7 +73,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) come [102A]
     D) comes
     *Hint:* After the modal verb "might," use the base form of the verb [102A].
-    *Correct Answer:* C) come
+    ***Correct Answer:*** C) come
 
 **9.** Does he ____ in an office?
     A) works
@@ -81,7 +81,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) work [102A]
     D) working
     *Hint:* After "does" in a question, use the base form of the verb (infinitive without 'to') [102A].
-    *Correct Answer:* C) work
+    ***Correct Answer:*** C) work
 
 **10.** I would like ____ a cup of tea, please.
     A) have
@@ -89,7 +89,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) to have [102B]
     D) had
     *Hint:* The expression "would like" is followed by the 'to'-infinitive [102B].
-    *Correct Answer:* C) to have
+    ***Correct Answer:*** C) to have
 
 **11.** She ____ not sleep well last night.
     A) did [102A]
@@ -97,7 +97,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) to
     D) has
     *Hint:* For past simple negative sentences, use "did not" (or "didn't") followed by the base form of the verb [102A].
-    *Correct Answer:* A) did
+    ***Correct Answer:*** A) did
 
 **12.** The children are ____ in the garden.
     A) play
@@ -105,7 +105,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) playing [102C]
     D) played
     *Hint:* Use the -ing form of the verb when forming the present continuous tense [102C].
-    *Correct Answer:* C) playing
+    ***Correct Answer:*** C) playing
 
 **13.** He can ____ very well.
     A) to sing
@@ -113,7 +113,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) sings
     D) sing [102A]
     *Hint:* After the modal verb "can," use the base form of the verb [102A].
-    *Correct Answer:* D) sing
+    ***Correct Answer:*** D) sing
 
 **14.** We are ____ to visit them next weekend.
     A) go
@@ -121,7 +121,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) went
     D) goes
     *Hint:* Use "going to" to express a future plan, and it's followed by the base form of the verb [102B].
-    *Correct Answer:* B) going
+    ***Correct Answer:*** B) going
 
 **15.** What time did the train ____?
     A) leave [102A]
@@ -129,7 +129,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) leaving
     D) leaves
     *Hint:* After "did" in a question, use the base form of the verb (infinitive without 'to') [102A].
-    *Correct Answer:* A) leave
+    ***Correct Answer:*** A) leave
 
 **16.** I am ____ the news on TV.
     A) watch
@@ -137,7 +137,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) watching [102C]
     D) watched
     *Hint:* Use the -ing form of the verb when forming the present continuous tense [102C].
-    *Correct Answer:* C) watching
+    ***Correct Answer:*** C) watching
 
 **17.** You should ____ more carefully.
     A) drives
@@ -145,7 +145,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) driving
     D) drive [102A]
     *Hint:* After the modal verb "should," use the base form of the verb [102A].
-    *Correct Answer:* D) drive
+    ***Correct Answer:*** D) drive
 
 **18.** Dave used ____ in a factory.
     A) work
@@ -153,7 +153,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) working
     D) worked
     *Hint:* The expression "used to" is followed by the 'to'-infinitive [102B].
-    *Correct Answer:* B) to work
+    ***Correct Answer:*** B) to work
 
 **19.** It ____ raining heavily all morning.
     A) was [102C]
@@ -161,7 +161,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) been
     D) to be
     *Hint:* For past continuous tense with "it," use "was" followed by the -ing form of the verb [102C].
-    *Correct Answer:* A) was
+    ***Correct Answer:*** A) was
 
 **20.** I may ____ a little late for the meeting.
     A) being
@@ -169,7 +169,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) be [102A]
     D) am
     *Hint:* After the modal verb "may," use the base form of the verb [102A].
-    *Correct Answer:* C) be
+    ***Correct Answer:*** C) be
 
 **21.** My parents ____ going on holiday next month.
     A) is
@@ -177,7 +177,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) are [102C]
     D) to be
     *Hint:* For the present continuous tense with a plural subject ("My parents"), use "are" followed by the -ing form of the verb [102C].
-    *Correct Answer:* C) are
+    ***Correct Answer:*** C) are
 
 **22.** We couldn't ____ to the party last night.
     A) went
@@ -185,7 +185,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) going
     D) go [102A]
     *Hint:* After the modal verb "couldn't" (could not), use the base form of the verb [102A].
-    *Correct Answer:* D) go
+    ***Correct Answer:*** D) go
 
 **23.** He doesn't ____ a car.
     A) have [102A]
@@ -193,7 +193,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) having
     D) has
     *Hint:* After "doesn't" in a negative sentence, use the base form of the verb (infinitive without 'to') [102A].
-    *Correct Answer:* A) have
+    ***Correct Answer:*** A) have
 
 **24.** She is ____ an essay for her English class.
     A) write
@@ -201,7 +201,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) writing [102C]
     D) writes
     *Hint:* Use the -ing form of the verb when forming the present continuous tense [102C].
-    *Correct Answer:* C) writing
+    ***Correct Answer:*** C) writing
 
 **25.** I will ____ my best to help you.
     A) to do
@@ -209,7 +209,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) do [102A]
     D) did
     *Hint:* After the modal verb "will," use the base form of the verb [102A].
-    *Correct Answer:* C) do
+    ***Correct Answer:*** C) do
 
 **26.** They don't want ____ their old house.
     A) sell
@@ -217,7 +217,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) to sell [102B]
     D) sold
     *Hint:* The verb "want" is typically followed by the 'to'-infinitive [102B].
-    *Correct Answer:* C) to sell
+    ***Correct Answer:*** C) to sell
 
 **27.** The baby ____ sleeping peacefully in its crib.
     A) is [102C]
@@ -225,7 +225,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) were
     D) be
     *Hint:* For the present continuous tense with a singular subject ("The baby"), use "is" followed by the -ing form of the verb [102C].
-    *Correct Answer:* A) is
+    ***Correct Answer:*** A) is
 
 **28.** What ____ you ____ yesterday morning?
     A) did / do
@@ -233,7 +233,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) was / doing
     D) do / did
     *Hint:* For past continuous questions with "you," use "were" followed by the -ing form of the verb [102C].
-    *Correct Answer:* B) were / doing
+    ***Correct Answer:*** B) were / doing
 
 **29.** You must ____ your passport at the airport.
     A) shows
@@ -241,7 +241,7 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) showing
     D) show [102A]
     *Hint:* After the modal verb "must," use the base form of the verb [102A].
-    *Correct Answer:* D) show
+    ***Correct Answer:*** D) show
 
 **30.** Everybody has ____ at least one meal a day.
     A) eating
@@ -249,4 +249,4 @@ Here are 30 multiple-choice questions to help you practice the grammar points of
     C) to eat [102B]
     D) eats
     *Hint:* The expression "has to" (meaning "must") is followed by the 'to'-infinitive [102B].
-    *Correct Answer:* C) to eat
+    ***Correct Answer:*** C) to eat

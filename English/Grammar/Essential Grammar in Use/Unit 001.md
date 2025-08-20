@@ -8,7 +8,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **am**
     D) be
     **Hint:** For the subject "I", the correct form of "be" is "am".
-    **Answer:** C) **am**
+    ****Correct Answer:**** C) **am**
 
 2.  She ____ from Canada.
     A) am
@@ -16,7 +16,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **is**
     D) do
     **Hint:** For the subject "she", the correct form of "be" is "is".
-    **Answer:** C) **is**
+    ****Correct Answer:**** C) **is**
 
 3.  He ____ very tall.
     A) am
@@ -24,7 +24,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **is**
     D) be
     **Hint:** For the subject "he", the correct form of "be" is "is".
-    **Answer:** C) **is**
+    ****Correct Answer:**** C) **is**
 
 4.  It ____ cold outside today.
     A) am
@@ -32,7 +32,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **is**
     D) does
     **Hint:** For the subject "it", the correct form of "be" is "is".
-    **Answer:** C) **is**
+    ****Correct Answer:**** C) **is**
 
 5.  We ____ tired after work.
     A) am
@@ -40,7 +40,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **are**
     D) do
     **Hint:** For the subject "we", the correct form of "be" is "are".
-    **Answer:** C) **are**
+    ****Correct Answer:**** C) **are**
 
 6.  You ____ kind and helpful.
     A) am
@@ -48,7 +48,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **are**
     D) be
     **Hint:** For the subject "you", the correct form of "be" is "are".
-    **Answer:** C) **are**
+    ****Correct Answer:**** C) **are**
 
 7.  They ____ good friends.
     A) am
@@ -56,7 +56,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **are**
     D) do
     **Hint:** For the subject "they", the correct form of "be" is "are".
-    **Answer:** C) **are**
+    ****Correct Answer:**** C) **are**
 
 8.  My name ____ Lisa.
     A) am
@@ -64,7 +64,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **is**
     D) do
     **Hint:** "My name" is a singular subject (like "it"), so use "is".
-    **Answer:** C) **is**
+    ****Correct Answer:**** C) **is**
 
 9.  The dog ____ hungry.
     A) am
@@ -72,7 +72,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **is**
     D) has
     **Hint:** "The dog" is a singular subject (like "it"), so use "is".
-    **Answer:** C) **is**
+    ****Correct Answer:**** C) **is**
 
 10. My parents ____ at home.
     A) am
@@ -80,7 +80,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **are**
     D) do
     **Hint:** "My parents" is a plural subject (like "they"), so use "are".
-    **Answer:** C) **are**
+    ****Correct Answer:**** C) **are**
 
 11. I ____ not angry.
     A) isn't
@@ -88,7 +88,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **am not**
     D) doesn't
     **Hint:** For the subject "I", the negative form is "am not".
-    **Answer:** C) **am not**
+    ****Correct Answer:**** C) **am not**
 
 12. He ____ not interested in politics.
     A) am not
@@ -96,7 +96,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **isn't**
     D) don't
     **Hint:** For the subject "he", the negative contraction is "isn't" (or "is not").
-    **Answer:** C) **isn't**
+    ****Correct Answer:**** C) **isn't**
 
 13. She ____ not a doctor.
     A) am not
@@ -104,7 +104,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **isn't**
     D) doesn't
     **Hint:** For the subject "she", the negative contraction is "isn't" (or "is not").
-    **Answer:** C) **isn't**
+    ****Correct Answer:**** C) **isn't**
 
 14. It ____ not sunny today.
     A) am not
@@ -112,7 +112,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **isn't**
     D) doesn't
     **Hint:** For the subject "it", the negative contraction is "isn't" (or "is not").
-    **Answer:** C) **isn't**
+    ****Correct Answer:**** C) **isn't**
 
 15. We ____ not ready for the exam.
     A) am not
@@ -120,7 +120,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **aren't**
     D) don't
     **Hint:** For the subject "we", the negative contraction is "aren't" (or "are not").
-    **Answer:** C) **aren't**
+    ****Correct Answer:**** C) **aren't**
 
 16. You ____ not wrong.
     A) am not
@@ -128,7 +128,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **aren't**
     D) doesn't
     **Hint:** For the subject "you", the negative contraction is "aren't" (or "are not").
-    **Answer:** C) **aren't**
+    ****Correct Answer:**** C) **aren't**
 
 17. They ____ not at home.
     A) am not
@@ -136,7 +136,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **aren't**
     D) don't
     **Hint:** For the subject "they", the negative contraction is "aren't" (or "are not").
-    **Answer:** C) **aren't**
+    ****Correct Answer:**** C) **aren't**
 
 18. The book ____ not new.
     A) am not
@@ -144,7 +144,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **isn't**
     D) don't
     **Hint:** "The book" is a singular subject (like "it"), so the negative contraction is "isn't".
-    **Answer:** C) **isn't**
+    ****Correct Answer:**** C) **isn't**
 
 19. My keys ____ not on the table.
     A) am not
@@ -152,7 +152,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **aren't**
     D) doesn't
     **Hint:** "My keys" is a plural subject (like "they"), so the negative contraction is "aren't".
-    **Answer:** C) **aren't**
+    ****Correct Answer:**** C) **aren't**
 
 20. The children ____ not asleep.
     A) am not
@@ -160,7 +160,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **aren't**
     D) doesn't
     **Hint:** "The children" is a plural subject (like "they"), so the negative contraction is "aren't".
-    **Answer:** C) **aren't**
+    ****Correct Answer:**** C) **aren't**
 
 21. The full form of "**I'm** tired" is:
     A) I is tired
@@ -168,7 +168,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **I am tired**
     D) I be tired
     **Hint:** "I'm" is the contraction of "I am".
-    **Answer:** C) **I am tired**
+    ****Correct Answer:**** C) **I am tired**
 
 22. The full form of "**He's** busy" is:
     A) He am busy
@@ -176,7 +176,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **He is busy**
     D) He does busy
     **Hint:** "He's" is the contraction of "he is".
-    **Answer:** C) **He is busy**
+    ****Correct Answer:**** C) **He is busy**
 
 23. The full form of "**She's** a student" is:
     A) She am a student
@@ -184,7 +184,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **She is a student**
     D) She do a student
     **Hint:** "She's" is the contraction of "she is".
-    **Answer:** C) **She is a student**
+    ****Correct Answer:**** C) **She is a student**
 
 24. The full form of "**It's** ten o'clock" is:
     A) It am ten o'clock
@@ -192,7 +192,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **It is ten o'clock**
     D) It has ten o'clock
     **Hint:** "It's" is the contraction of "it is".
-    **Answer:** C) **It is ten o'clock**
+    ****Correct Answer:**** C) **It is ten o'clock**
 
 25. The full form of "**We're** happy" is:
     A) We am happy
@@ -200,7 +200,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **We are happy**
     D) We do happy
     **Hint:** "We're" is the contraction of "we are".
-    **Answer:** C) **We are happy**
+    ****Correct Answer:**** C) **We are happy**
 
 26. The full form of "**You're** late" is:
     A) You am late
@@ -208,7 +208,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **You are late**
     D) You do late
     **Hint:** "You're" is the contraction of "you are".
-    **Answer:** C) **You are late**
+    ****Correct Answer:**** C) **You are late**
 
 27. The full form of "**They're** friends" is:
     A) They am friends
@@ -216,7 +216,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **They are friends**
     D) They do friends
     **Hint:** "They're" is the contraction of "they are".
-    **Answer:** C) **They are friends**
+    ****Correct Answer:**** C) **They are friends**
 
 28. The full form of "**isn't**" is:
     A) am not
@@ -224,7 +224,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **is not**
     D) does not
     **Hint:** "Isn't" is the contraction of "is not".
-    **Answer:** C) **is not**
+    ****Correct Answer:**** C) **is not**
 
 29. The full form of "**aren't**" is:
     A) am not
@@ -232,7 +232,7 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) is not
     D) do not
     **Hint:** "Aren't" is the contraction of "are not".
-    **Answer:** B) **are not**
+    ****Correct Answer:**** B) **are not**
 
 30. Look! ____ your key.
     A) That are
@@ -240,4 +240,4 @@ Here are 30 quiz questions related to Unit 01, "**am/is/are**", from your "Essen
     C) **Here's**
     D) It is
     **Hint:** "Here's" (Here is) is used to point out something singular that is physically present.
-    **Answer:** C) **Here's**
+    ****Correct Answer:**** C) **Here's**

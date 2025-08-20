@@ -10,7 +10,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) sing
     D) has sung
     *   **Hint:** The word "**now**" indicates an action happening at the moment of speaking, requiring the present continuous tense [23, B].
-    *   **Correct Answer:** B) is singing
+    *   ****Correct Answer:**** B) is singing
 
 2.  My brother usually _______ (play) football on Saturdays.
     A) is playing
@@ -18,7 +18,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) **plays**
     D) played
     *   **Hint:** "**Usually**" indicates a regular habit or routine, which calls for the present simple tense [23, C].
-    *   **Correct Answer:** C) plays
+    *   ****Correct Answer:**** C) plays
 
 3.  Please be quiet. I _______ (work).
     A) work
@@ -26,7 +26,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) works
     D) worked
     *   **Hint:** The request "**Please be quiet**" suggests the action is happening right now, requiring the present continuous [23, B].
-    *   **Correct Answer:** B) am working
+    *   ****Correct Answer:**** B) am working
 
 4.  Water _______ (boil) at 100 degrees Celsius.
     A) is boiling
@@ -34,7 +34,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) boil
     D) boiled
     *   **Hint:** This is a **general truth** or scientific fact, which requires the present simple tense [23, C].
-    *   **Correct Answer:** B) boils
+    *   ****Correct Answer:**** B) boils
 
 5.  What _______ you _______ (do) at the moment?
     A) do / do
@@ -42,7 +42,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) are / do
     D) do / doing
     *   **Hint:** "**At the moment**" indicates an action happening right now, requiring the present continuous tense [23, B].
-    *   **Correct Answer:** B) are / doing
+    *   ****Correct Answer:**** B) are / doing
 
 6.  He _______ (not / watch) television very often.
     A) isn't watching
@@ -50,7 +50,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) don't watch
     D) not watches
     *   **Hint:** "**Very often**" indicates a regular frequency, suggesting the present simple tense for something that happens "sometimes" [23, C].
-    *   **Correct Answer:** B) doesn't watch
+    *   ****Correct Answer:**** B) doesn't watch
 
 7.  I _______ (want) to go home now.
     A) am wanting
@@ -58,7 +58,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) wanting
     D) wants
     *   **Hint:** The verb "**want**" is typically not used in the continuous form, as it's a state verb [23, D].
-    *   **Correct Answer:** B) want
+    *   ****Correct Answer:**** B) want
 
 8.  They _______ (have) dinner every evening at 7 PM.
     A) are having
@@ -66,7 +66,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) has
     D) having
     *   **Hint:** "**Every evening**" describes a regular habit, which uses the present simple tense [23, C].
-    *   **Correct Answer:** B) have
+    *   ****Correct Answer:**** B) have
 
 9.  Why _______ you _______ (look) at me like that?
     A) do / look
@@ -74,7 +74,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) are / look
     D) do / looking
     *   **Hint:** The question implies observing an action happening **at the moment of speaking**, requiring the present continuous.
-    *   **Correct Answer:** B) are / looking
+    *   ****Correct Answer:**** B) are / looking
 
 10. The sun _______ (rise) in the east.
     A) is rising
@@ -82,7 +82,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) rise
     D) rose
     *   **Hint:** This is a **general truth** or a universal fact, which uses the present simple tense [23, C].
-    *   **Correct Answer:** B) rises
+    *   ****Correct Answer:**** B) rises
 
 11. She _______ (study) for her exam this week.
     A) studies
@@ -90,7 +90,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) study
     D) studied
     *   **Hint:** "**This week**" indicates a **temporary action happening around now**, even if not at the exact moment of speaking, requiring the present continuous [23, B].
-    *   **Correct Answer:** B) is studying
+    *   ****Correct Answer:**** B) is studying
 
 12. I never _______ (eat) meat.
     A) am never eating
@@ -98,7 +98,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) don't ever eat
     D) am eating never
     *   **Hint:** "**Never**" indicates a general truth or habit about oneself, which uses the present simple tense [23, C].
-    *   **Correct Answer:** B) never eat
+    *   ****Correct Answer:**** B) never eat
 
 13. Excuse me, _______ you _______ (know) where the nearest bank is?
     A) are / knowing
@@ -106,7 +106,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) do / knowing
     D) are / know
     *   **Hint:** The verb "**know**" is a state verb and is typically not used in the continuous form [23, D].
-    *   **Correct Answer:** B) do / know
+    *   ****Correct Answer:**** B) do / know
 
 14. The children _______ (play) outside right now.
     A) play
@@ -114,7 +114,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) plays
     D) played
     *   **Hint:** "**Right now**" specifies an action happening at this exact moment, requiring the present continuous [23, B].
-    *   **Correct Answer:** B) are playing
+    *   ****Correct Answer:**** B) are playing
 
 15. He _______ (not / understand) what you mean.
     A) isn't understanding
@@ -122,7 +122,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) don't understand
     D) not understands
     *   **Hint:** The verb "**understand**" is a state verb and is typically not used in the continuous form [23, D].
-    *   **Correct Answer:** B) doesn't understand
+    *   ****Correct Answer:**** B) doesn't understand
 
 16. How often _______ you _______ (go) to the cinema?
     A) are / going
@@ -130,7 +130,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) does / go
     D) are / go
     *   **Hint:** "**How often**" asks about frequency or habit, which uses the present simple tense [23, C].
-    *   **Correct Answer:** B) do / go
+    *   ****Correct Answer:**** B) do / go
 
 17. Look! It _______ (rain) outside.
     A) rains
@@ -138,7 +138,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) rain
     D) rained
     *   **Hint:** "**Look!**" suggests something happening **at the moment of speaking**, requiring the present continuous tense [23, B].
-    *   **Correct Answer:** B) is raining
+    *   ****Correct Answer:**** B) is raining
 
 18. Anna _______ (not / like) coffee.
     A) isn't liking
@@ -146,7 +146,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) don't like
     D) not likes
     *   **Hint:** The verb "**like**" is a state verb and is typically not used in the continuous form [23, D].
-    *   **Correct Answer:** B) doesn't like
+    *   ****Correct Answer:**** B) doesn't like
 
 19. What time _______ the banks _______ (close) in your country?
     A) are / closing
@@ -154,7 +154,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) does / close
     D) is / closing
     *   **Hint:** This question asks about a general timetable or **regular closing time**, which uses the present simple tense [23, C].
-    *   **Correct Answer:** B) do / close
+    *   ****Correct Answer:**** B) do / close
 
 20. I _______ (read) a very interesting book at the moment.
     A) read
@@ -162,7 +162,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) reads
     D) have read
     *   **Hint:** "**At the moment**" implies an action that is **ongoing right now**, requiring the present continuous [23, B].
-    *   **Correct Answer:** B) am reading
+    *   ****Correct Answer:**** B) am reading
 
 21. Birds _______ (fly).
     A) are flying
@@ -170,7 +170,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) flies
     D) is flying
     *   **Hint:** This is a **general truth** about birds, requiring the present simple tense [23, C].
-    *   **Correct Answer:** B) fly
+    *   ****Correct Answer:**** B) fly
 
 22. What _______ Jim _______ (do) for a living? He's a teacher.
     A) is / doing
@@ -178,7 +178,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) is / do
     D) does / doing
     *   **Hint:** "**For a living**" asks about someone's regular profession or occupation, which is a general fact and uses the present simple tense [23, C].
-    *   **Correct Answer:** B) does / do
+    *   ****Correct Answer:**** B) does / do
 
 23. She _______ (wear) a new dress today.
     A) wears
@@ -186,7 +186,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) wear
     D) worn
     *   **Hint:** "**Today**" can refer to a **temporary action or state happening around now**, requiring the present continuous [23, B].
-    *   **Correct Answer:** B) is wearing
+    *   ****Correct Answer:**** B) is wearing
 
 24. We _______ (not / watch) TV very often.
     A) aren't watching
@@ -194,7 +194,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) haven't watched
     D) didn't watch
     *   **Hint:** "**Very often**" indicates a frequency, suggesting the present simple for something that happens "sometimes" [23, C].
-    *   **Correct Answer:** B) don't watch
+    *   ****Correct Answer:**** B) don't watch
 
 25. Tom _______ (take) a shower at the moment.
     A) takes
@@ -202,7 +202,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) take
     D) took
     *   **Hint:** "**At the moment**" indicates an action happening right now, requiring the present continuous [23, B].
-    *   **Correct Answer:** B) is taking
+    *   ****Correct Answer:**** B) is taking
 
 26. I _______ (not / like) cold weather.
     A) am not liking
@@ -210,7 +210,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) am not like
     D) doesn't like
     *   **Hint:** The verb "**like**" is a state verb and is typically not used in the continuous form [23, D].
-    *   **Correct Answer:** B) don't like
+    *   ****Correct Answer:**** B) don't like
 
 27. _______ you _______ (believe) in ghosts?
     A) Are / believing
@@ -218,7 +218,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) Does / believe
     D) Are / believe
     *   **Hint:** The verb "**believe**" is a state verb and is generally not used in the continuous form. This question asks about a **general belief** [23, D].
-    *   **Correct Answer:** B) Do / believe
+    *   ****Correct Answer:**** B) Do / believe
 
 28. The water _______ (get) colder.
     A) gets
@@ -226,7 +226,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) get
     D) getting
     *   **Hint:** This describes a **gradual change happening around the present time**, suggesting the present continuous [23, B].
-    *   **Correct Answer:** B) is getting
+    *   ****Correct Answer:**** B) is getting
 
 29. My sister always _______ (drink) tea in the morning.
     A) is drinking
@@ -234,7 +234,7 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) drink
     D) drank
     *   **Hint:** "**Always**" with a regular habit uses the present simple tense [23, C].
-    *   **Correct Answer:** B) drinks
+    *   ****Correct Answer:**** B) drinks
 
 30. Why _______ you _______ (cry)? Is something wrong?
     A) do / cry
@@ -242,4 +242,4 @@ Here are 30 quiz questions designed to help you practice the grammar points of U
     C) does / cry
     D) do / crying
     *   **Hint:** The question implies observing an action happening **right now**, requiring the present continuous [23, B].
-    *   **Correct Answer:** B) are / crying
+    *   ****Correct Answer:**** B) are / crying
