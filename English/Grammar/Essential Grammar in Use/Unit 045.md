@@ -1,279 +1,243 @@
-Here are 30 multiple-choice questions related to the grammar points covered in Unit 45 of "Essential Grammar in Use," along with a hint and the correct answer for each. Unit 45 focuses on forming questions, particularly those ending with prepositions, and using the phrase "What... like?" for descriptions.
+Here are 30 quiz questions designed to help you practice the grammar points of Unit 45, which focuses on questions using "who," "what," "where," "which" with prepositions at the end, and questions using "What... like?".
 
 ***
 
-**Unit 45: Questions (Who/What/Where/Which + preposition, What is it like?)**
+1.  I gave the money to somebody.
+    A) Who gave you the money?
+    B) To whom did you give the money?
+    C) **Who did you give the money to?**
+    D) Who you gave the money?
+    **Hint:** When "who" is the **object** of the preposition "to" at the end of the question, the structure is "Who + auxiliary verb + subject + main verb + preposition" [10A].
+    **Answer:** C) **Who did you give the money to?**
 
-**Questions 1-15: Questions with Prepositions at the End**
+2.  She talked about her new project.
+    A) Who did she talk about?
+    B) What she talked about?
+    C) **What did she talk about?**
+    D) About what did she talk?
+    **Hint:** To ask about the topic of conversation, use "what" followed by the auxiliary verb and then the subject and main verb, with the preposition "about" at the end [10A].
+    **Answer:** C) **What did she talk about?**
 
-1.  You see someone concentrating intently on a picture. You want to ask what they are focusing their attention on.
-    "What are you looking _____?"
-    A. at
-    B. for
-    C. about
-    D. from
-    *Hint*: When you direct your gaze towards something, the verb "look" is typically followed by a specific preposition.
-    *Correct Answer*: **A** [Source 93, Exercise 45.2, image 2 depicts looking at a picture; Source 168, Unit 84 C uses "look tired" and "look good" in descriptive context, but "look at" is a fundamental phrase]
+3.  The box belongs to the children.
+    A) Who does the box belong?
+    B) To whom does the box belong?
+    C) **Who does the box belong to?**
+    D) What does the box belong to?
+    **Hint:** To ask about the people something belongs to, use "who" with the preposition "to" at the end [10A].
+    **Answer:** C) **Who does the box belong to?**
 
-2.  Your friend mentioned they went to a party last night. You want to ask who accompanied them.
-    "Who did you go _____?"
-    A. for
-    B. to
-    C. with
-    D. about
-    *Hint*: To ask about companionship when attending an event, a particular preposition is used.
-    *Correct Answer*: **C** [Source 92, Unit 45 A provides the example "Who is she talking to?", demonstrating the pattern of ending a "Who" question with a preposition like "with"]
+4.  I often go to the cinema with my sister.
+    A) What do you often go to the cinema with?
+    B) **Who do you often go to the cinema with?**
+    C) With whom do you often go to the cinema?
+    D) Who often goes to the cinema with you?
+    **Hint:** To ask about the person you accompany, use "who" with the preposition "with" at the end [10A].
+    **Answer:** B) **Who do you often go to the cinema with?**
 
-3.  You found a wallet on the street. You want to ask about its owner.
-    "Who does this wallet belong _____?"
-    A. to
-    B. for
-    C. with
-    D. from
-    *Hint*: The verb "belong" takes a specific preposition to indicate possession or ownership.
-    *Correct Answer*: **A** [Source 92, Unit 45 A explicitly lists "Who do these books belong to?"]
+5.  He is looking for his glasses.
+    A) Who is he looking for?
+    B) **What is he looking for?**
+    C) For what is he looking?
+    D) What is he looking?
+    **Hint:** To ask about the specific item someone is searching for, use "what" with the preposition "for" at the end [10A].
+    **Answer:** B) **What is he looking for?**
 
-4.  You meet a new person and want to inquire about their origin.
-    "Where are you _____?"
-    A. to
-    B. from
-    C. at
-    D. with
-    *Hint*: To ask about someone's place of origin, a common preposition is used with "where."
-    *Correct Answer*: **B** [Source 92, Unit 45 A clearly shows "Where are you from?"]
+6.  She studies English in this university.
+    A) What does she study in?
+    B) Which university does she study?
+    C) **Which university does she study in?**
+    D) Where does she study?
+    **Hint:** To ask about a specific choice from a group (universities), use "which + noun" with the preposition at the end [10A, 11.4].
+    **Answer:** C) **Which university does she study in?**
 
-5.  You want to discover what subjects someone finds engaging.
-    "What are you interested _____?"
-    A. for
-    B. in
-    C. about
-    D. with
-    *Hint*: The adjective "interested" is followed by a specific preposition to indicate the topic of interest.
-    *Correct Answer*: **B** [Source 9, Unit 1 B provides "I'm interested in art." and Source 10, Exercise 1.6 reinforces this with "I'm interested (OR I'm not) in politics."]
+7.  They were worrying about their exams.
+    A) Who were they worrying about?
+    B) **What were they worrying about?**
+    C) About what were they worrying?
+    D) What they were worrying?
+    **Hint:** To ask about the topic of their worry, use "what" with the preposition "about" at the end [10A].
+    **Answer:** B) **What were they worrying about?**
 
-6.  You overhear a conversation and want to know the subject of discussion.
-    "What are they talking _____?"
-    A. at
-    B. to
-    C. about
-    D. for
-    *Hint*: To inquire about the topic of a conversation, a particular preposition is used with "talk."
-    *Correct Answer*: **C** [Source 92, Unit 45 A lists "What do you want to talk to me about?"; Source 117, Unit 58 C further illustrates "talk to" and "talk about"]
+8.  He comes from Spain.
+    A) What country does he come from?
+    B) **Where does he come from?**
+    C) From where does he come?
+    D) Where he comes from?
+    **Hint:** To ask about the place of origin, use "where" with the preposition "from" at the end [10A].
+    **Answer:** B) **Where does he come from?**
 
-7.  You're curious about the person someone is speaking to on the phone.
-    "Who are you speaking _____?"
-    A. with
-    B. from
-    C. to
-    D. about
-    *Hint*: To specify the recipient of communication, the verb "speak" or "talk" is followed by a particular preposition.
-    *Correct Answer*: **C** [Source 92, Unit 45 A includes "Who is she talking to?"]
+9.  I will talk to the manager about this.
+    A) What will you talk to?
+    B) **Who will you talk to about this?**
+    C) To whom will you talk?
+    D) Who will talk to you?
+    **Hint:** To ask about the person you intend to speak with, use "who" with the preposition "to" at the end [10A].
+    **Answer:** B) **Who will you talk to about this?**
 
-8.  You want to know where your friend usually buys their groceries.
-    "Which shop do you buy groceries _____?"
-    A. for
-    B. to
-    C. at
-    D. with
-    *Hint*: When referring to the location where an activity takes place, the verb "buy" can be followed by a specific preposition.
-    *Correct Answer*: **C** [Source 92, Unit 45 A implicitly covers this type of question; "at" is commonly used for a specific location for an activity.]
+10. The film was written by a new director.
+    A) What was the film written by?
+    B) By whom was the film written?
+    C) **Who was the film written by?**
+    D) Who wrote the film?
+    **Hint:** To ask about the person (agent) who created something, use "who" with the preposition "by" at the end [11.5].
+    **Answer:** C) **Who was the film written by?**
 
-9.  You want to know the company or person someone works for.
-    "Who do you work _____?"
-    A. to
-    B. for
-    C. with
-    D. at
-    *Hint*: To ask about an employer, the verb "work" is typically followed by a specific preposition.
-    *Correct Answer*: **B** [While not explicitly in Unit 45, the pattern of 'Who + verb + preposition at end' is central. Source 21, Unit 7 A, implies "work in a shop" showing the use of prepositions with "work."]
+11. She's looking at the beautiful painting.
+    A) Who is she looking?
+    B) **What is she looking at?**
+    C) At what is she looking?
+    D) What is she looking at the?
+    **Hint:** To ask about the specific object of someone's gaze, use "what" with the preposition "at" at the end [10A].
+    **Answer:** B) **What is she looking at?**
 
-10. You've lost something important and want to ask if anyone knows where you should look.
-    "What are you looking _____?"
-    A. at
-    B. for
-    C. about
-    D. to
-    *Hint*: When you are searching for something, the verb "look" uses a specific preposition.
-    *Correct Answer*: **B** [Source 4 lists phrasal verbs like "go in" and "go out on", suggesting the presence of such structures in the book, fitting the 'verb + preposition' pattern.]
+12. They are saving money for a new house.
+    A) What are they saving?
+    B) **What are they saving money for?**
+    C) For what are they saving money?
+    D) What money they are saving?
+    **Hint:** To ask about the purpose of an action, use "what" with the preposition "for" at the end [10A].
+    **Answer:** B) **What are they saving money for?**
 
-11. You're trying to figure out what a new project is all about.
-    "What is this project _____?"
-    A. to
-    B. for
-    C. about
-    D. from
-    *Hint*: To ask for the main topic or subject of something, you use a particular preposition with "about."
-    *Correct Answer*: **C** [Source 92, Unit 45 A has "What do you want to talk to me about?"]
+13. I'm listening to an interesting podcast.
+    A) Who are you listening to?
+    B) **What are you listening to?**
+    C) To what are you listening?
+    D) What you are listening?
+    **Hint:** To ask about the specific thing you are hearing, use "what" with the preposition "to" at the end [10A].
+    **Answer:** B) **What are you listening to?**
 
-12. You see a package and want to know its intended recipient.
-    "Who is this package _____?"
-    A. with
-    B. for
-    C. to
-    D. by
-    *Hint*: To indicate the person or purpose for which something is intended, a specific preposition is used.
-    *Correct Answer*: **B**
+14. We went to Paris for our anniversary.
+    A) What did you go to Paris?
+    B) **What did you go to Paris for?**
+    C) For what did you go to Paris?
+    D) Why did you go to Paris?
+    **Hint:** To ask about the reason or purpose for going somewhere, use "what" with the preposition "for" at the end [10A].
+    **Answer:** B) **What did you go to Paris for?**
 
-13. You want to ask which bus someone usually takes to work.
-    "Which bus do you go to work _____?"
-    A. on
-    B. by
-    C. with
-    D. from
-    *Hint*: To indicate the mode of transportation, a specific preposition is often used.
-    *Correct Answer*: **B** [Source 22, Exercise 7.2, asks "Which bus do you go by?"; Source 111, Unit 55 D, shows "get on the bus" and "get off the bus," implying "by bus" for method of transport.]
+15. She relies on her parents for support.
+    A) What does she rely on?
+    B) **Who does she rely on?**
+    C) On whom does she rely?
+    D) Who does she rely?
+    **Hint:** To ask about the people someone depends on, use "who" with the preposition "on" at the end [10A].
+    **Answer:** B) **Who does she rely on?**
 
-14. You want to ask about the reason for someone's happiness.
-    "What are you happy _____?"
-    A. for
-    B. with
-    C. about
-    D. to
-    *Hint*: The adjective "happy" is followed by a specific preposition to indicate the cause of the emotion.
-    *Correct Answer*: **C**
+16. My new smartphone is very fast and has a great camera.
+    A) How is your new smartphone?
+    B) **What's your new smartphone like?**
+    C) What is your new smartphone?
+    D) How do you feel about your new smartphone?
+    **Hint:** Use "What... like?" to ask about the characteristics or qualities of a thing [10B].
+    **Answer:** B) **What's your new smartphone like?**
 
-15. You want to know what film your friend is going to see.
-    "Which film are you going to see _____?"
-    A. with
-    B. for
-    C. at
-    D. to
-    *Hint*: To specify the location or event for watching a film, a specific preposition is used.
-    *Correct Answer*: **C** [Source 141, Unit 70 A, uses "go to the cinema" where a film is seen, and "at" is used for events or specific locations like a cinema. Source 93, Exercise 45.2, asks about watching TV, implicitly at a place.]
+17. The weather was cold and rainy all day.
+    A) How was the weather?
+    B) **What was the weather like?**
+    C) What did the weather do?
+    D) Was the weather good?
+    **Hint:** Use "What... like?" to ask about the conditions of the weather [10B].
+    **Answer:** B) **What was the weather like?**
 
-**Questions 16-30: "What is it like?" / "What are they like?"**
+18. Her brother is very tall and friendly.
+    A) How is her brother?
+    B) Who is her brother like?
+    C) **What's her brother like?**
+    D) Is her brother nice?
+    **Hint:** Use "What... like?" to ask about a person's physical appearance or personality [10B].
+    **Answer:** C) **What's her brother like?**
 
-16. You are curious about the current weather conditions.
-    "What _____ the weather like today?"
-    A. is
-    B. are
-    C. was
-    D. were
-    *Hint*: This question asks for a description of a singular, present-tense condition.
-    *Correct Answer*: **A** [Source 92, Unit 45 B, uses "What's your new house like?" and "What was the weather like yesterday?", illustrating the "What... like?" structure for descriptions, adjusted for present tense]
+19. The restaurant we tried yesterday was excellent, with delicious food and good service.
+    A) How was the restaurant?
+    B) **What was the restaurant like?**
+    C) What food did they have?
+    D) Did you enjoy the restaurant?
+    **Hint:** Use "What... like?" to ask about the characteristics or overall impression of a place [10B].
+    **Answer:** B) **What was the restaurant like?**
 
-17. Your friend just bought a new phone. You want them to describe it.
-    "What is your new phone _____?"
-    A. to
-    B. for
-    C. like
-    D. with
-    *Hint*: To ask for a description or characteristics of an object, use the phrase "what...like."
-    *Correct Answer*: **C** [Source 92, Unit 45 B, specifically defines "What's it like?" as asking for a description]
+20. The movie was very exciting and suspenseful.
+    A) How was the movie?
+    B) **What was the movie like?**
+    C) What kind of movie was it?
+    D) Did you like the movie?
+    **Hint:** Use "What... like?" to ask about the quality or nature of a film [10B].
+    **Answer:** B) **What was the movie like?**
 
-18. You are meeting your friend's new neighbors for the first time. You want to know about their personalities.
-    "What _____ your new neighbors like?"
-    A. is
-    B. are
-    C. was
-    D. were
-    *Hint*: This question asks for a description of multiple people in the present tense.
-    *Correct Answer*: **B** [Source 92, Unit 45 B, provides "What are they like?" for plural descriptions]
+21. Their new dog is very playful and energetic.
+    A) How is their new dog?
+    B) **What's their new dog like?**
+    C) Is their new dog friendly?
+    D) What is their new dog?
+    **Hint:** Use "What... like?" to ask about the characteristics or behavior of an animal [10B].
+    **Answer:** B) **What's their new dog like?**
 
-19. Your colleague returned from a business trip. You want to know how the trip was.
-    "What was the trip _____?"
-    A. to
-    B. for
-    C. like
-    D. with
-    *Hint*: To ask for a general description or impression of a past experience, use this structure.
-    *Correct Answer*: **C** [Source 92, Unit 45 B, uses "What was the weather like yesterday?" as an example for past descriptions]
+22. The city center is always busy and crowded.
+    A) How is the city center?
+    B) **What's the city center like?**
+    C) What about the city center?
+    D) Is the city center exciting?
+    **Hint:** Use "What... like?" to ask for a description of a place [10B].
+    **Answer:** B) **What's the city center like?**
 
-20. You want to ask about the appearance of a person you haven't met yet.
-    "What is your new boss _____?"
-    A. to
-    B. for
-    C. like
-    D. with
-    *Hint*: To ask for a description of a person's characteristics or appearance, use this specific phrase.
-    *Correct Answer*: **C** [Source 92, Unit 45 B, gives "What's your new teacher like? She's very good." as an example]
+23. The new manager is quite approachable and listens to suggestions.
+    A) How is the new manager?
+    B) Who is the new manager?
+    C) **What's the new manager like?**
+    D) Is the new manager good?
+    **Hint:** Use "What... like?" to ask about a person's character or qualities [10B].
+    **Answer:** C) **What's the new manager like?**
 
-21. You're curious about the food quality at a recently opened restaurant.
-    "What is the food _____ at the new restaurant?"
-    A. about
-    B. from
-    C. like
-    D. with
-    *Hint*: To inquire about the quality, taste, or characteristics of food, this phrase is used.
-    *Correct Answer*: **C**
+24. The party was fun and everyone danced a lot.
+    A) How was the party?
+    B) **What was the party like?**
+    C) What happened at the party?
+    D) Did you enjoy the party?
+    **Hint:** Use "What... like?" to ask for a description or overall impression of an event [10B].
+    **Answer:** B) **What was the party like?**
 
-22. You want to know about the apartments available in a new building.
-    "What _____ the apartments like in that building?"
-    A. is
-B. are
-C. was
-D. were
-    *Hint*: This question asks for a description of multiple items in the present tense.
-    *Correct Answer*: **B**
+25. The book I'm reading is very informative and engaging.
+    A) How is the book you're reading?
+    B) **What's the book you're reading like?**
+    C) What kind of book is it?
+    D) Is the book good?
+    **Hint:** Use "What... like?" to ask for an opinion or description of a book [10B].
+    **Answer:** B) **What's the book you're reading like?**
 
-23. Your friend just watched a new play. You want to hear their general impression.
-    "What was the play _____?"
-    A. for
-    B. like
-    C. about
-    D. to
-    *Hint*: To ask for an overall description or opinion of a past event, use this structure.
-    *Correct Answer*: **C**
+26. Their new apartment is spacious and has a great view.
+    A) How is their new apartment?
+    B) **What's their new apartment like?**
+    C) What is their new apartment?
+    D) Do they like their new apartment?
+    **Hint:** Use "What... like?" to ask about the characteristics or features of a place [10B].
+    **Answer:** B) **What's their new apartment like?**
 
-24. You are curious about the general atmosphere of a particular city.
-    "What is the atmosphere _____ in that city?"
-    A. to
-    B. from
-    C. like
-    D. with
-    *Hint*: To ask for a description of the general feeling or character of a place, use "what...like."
-    *Correct Answer*: **C**
+27. The exam was difficult, but I think I passed.
+    A) How was the exam?
+    B) **What was the exam like?**
+    C) Was the exam easy?
+    D) What did you do on the exam?
+    **Hint:** Use "What... like?" to ask for a description or assessment of an experience or task [10B].
+    **Answer:** B) **What was the exam like?**
 
-25. You're considering taking a new language course. You ask someone who has taken it.
-    "What _____ the language course like?"
-    A. is
-    B. are
-    C. was
-    D. were
-    *Hint*: The subject "language course" is singular. Choose the correct present tense auxiliary verb.
-    *Correct Answer*: **A**
+28. The people in the new office are all very young and enthusiastic.
+    A) How are the people in the new office?
+    B) Who are the people in the new office?
+    C) **What are the people in the new office like?**
+    D) Are the people friendly?
+    **Hint:** Use "What... like?" to ask for a description of people's characteristics or group traits [10B].
+    **Answer:** C) **What are the people in the new office like?**
 
-26. You want to ask for a description of a specific type of art.
-    "What is abstract art _____?"
-    A. at
-    B. on
-    C. like
-    D. from
-    *Hint*: Use "like" to ask for a description or characteristics of a style or category.
-    *Correct Answer*: **C**
+29. The public transport system here is very efficient and reliable.
+    A) How is the public transport system?
+    B) **What's the public transport system like?**
+    C) Is the public transport system good?
+    D) What public transport is there?
+    **Hint:** Use "What... like?" to ask for a description of a system or service [10B].
+    **Answer:** B) **What's the public transport system like?**
 
-27. You want to know about the local traditions in a foreign village.
-    "What _____ their traditions like?"
-    A. is
-B. are
-C. was
-D. were
-    *Hint*: "Traditions" is a plural noun, requiring the appropriate auxiliary verb in the present tense.
-    *Correct Answer*: **B**
-
-28. Your friend just visited a new museum. You want to know if they enjoyed it.
-    "What was the museum _____?"
-    A. for
-    B. about
-    C. like
-    D. to
-    *Hint*: To inquire about the quality or nature of a past experience, use this construction.
-    *Correct Answer*: **C**
-
-29. You want to ask about the taste of a new type of fruit.
-    "What is this fruit _____?"
-    A. at
-    B. on
-    C. like
-    D. from
-    *Hint*: Use "like" to ask for a description of the taste or quality of an item.
-    *Correct Answer*: **C**
-
-30. You are curious about the living conditions of students at a university.
-    "What _____ student life like at the university?"
-    A. is
-B. are
-C. was
-D. were
-    *Hint*: "Student life" is treated as a singular concept. Choose the correct present tense auxiliary verb.
-    *Correct Answer*: **A**
+30. The soup you made was a bit too salty.
+    A) How was the soup?
+    B) **What was the soup like?**
+    C) Did you enjoy the soup?
+    D) What kind of soup was it?
+    **Hint:** Use "What... like?" to ask for a description or opinion about food [10B].
+    **Answer:** B) **What was the soup like?**

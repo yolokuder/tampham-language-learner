@@ -1,224 +1,153 @@
-You're focusing on Unit 61 of "Essential Grammar in Use," which delves into the usage of **"I/me/my/mine" and similar pronoun groups**, helping you distinguish between subject pronouns, object pronouns, possessive adjectives, and possessive pronouns.
+Here are 30 multiple-choice questions to help you practice the grammar points from Unit 61 of "Essential Grammar in Use," focusing on the distinction between **subject pronouns (I, we, you, he, she, they), object pronouns (me, us, you, him, her, them), possessive determiners (my, our, your, his, her, their), and possessive pronouns (mine, ours, yours, his, hers, theirs)**.
 
-Here's a summary of the key distinctions covered in Unit 61:
-*   **Subject Pronouns (I, we, you, he, she, they)**: These pronouns act as the **subject of a verb**. They typically come *before* the verb. For example, "**I** know Tom" or "**He** knows Tom".
-*   **Object Pronouns (me, us, you, him, her, them)**: These pronouns act as the **object of a verb** or come **after a preposition**. For example, "Tom knows **me**" (after a verb) or "We invited her to stay with **us**" (after a preposition).
-*   **Possessive Adjectives (my, our, your, his, her, their)**: These are used **before a noun** to show possession. For example, "It's **my** car" or "It's **her** car".
-*   **Possessive Pronouns (mine, ours, yours, his, hers, theirs)**: These stand **alone** and are used **without a noun** to show possession. For example, "It's **mine**" or "It's **hers**".
-*   **Special case of "his"**: The word "his" is unique because it functions as **both a possessive adjective and a possessive pronoun**. For instance, "It's **his** car" (adjective) and "It's **his**" (pronoun).
+***
 
-Here are 30 multiple-choice questions to help you practice Unit 61, along with hints and correct answers:
+1.  I know Tom. Tom knows ____.
+    A. I B. my C. me D. mine
+    Hint: The word needed is the object pronoun for 'I'. [5A]
+    Correct Answer: C. me
 
----
+2.  We invited ____ to our house.
+    A. they B. their C. them D. theirs
+    Hint: The word needed is the object pronoun for 'they'. [5A, 6.2]
+    Correct Answer: C. them
 
-**Unit 61 Grammar Quiz: I/me/my/mine etc.**
+3.  This is ____ car. It's brand new.
+    A. I B. me C. my D. mine
+    Hint: The word needed is a possessive determiner before the noun 'car'. [5A]
+    Correct Answer: C. my
 
-**1.** Sarah and ____ went to the cinema last night.
-    A) me
-    B) my
-    C) **I**
-    D) mine
-    *Hint:* You need a subject pronoun because it's part of the subject of the verb "went".
+4.  That car is ____. I bought it yesterday.
+    A. I B. me C. my D. mine
+    Hint: The word needed is a possessive pronoun, replacing 'my car'. [5A]
+    Correct Answer: D. mine
 
-**2.** This is my book. That one is ____.
-    A) your
-    B) you
-    C) **yours**
-    D) yourself
-    *Hint:* You need a possessive pronoun that stands alone, indicating who the other book belongs to.
+5.  She knows ____. We work together.
+    A. us B. we C. our D. ours
+    Hint: The word needed is the object pronoun for 'we'. [5A]
+    Correct Answer: A. us
 
-**3.** My brother called ____ yesterday to ask for help.
-    A) I
-    B) mine
-    C) **me**
-    D) my
-    *Hint:* You need an object pronoun after the verb "called".
+6.  Is this book ____? I think I left it here.
+    A. you B. your C. yours D. you're
+    Hint: The word needed is a possessive pronoun, replacing 'your book'. [5A]
+    Correct Answer: C. yours
 
-**4.** We live in a big house. It's ____ house.
-    A) ours
-    B) us
-    C) we
-    D) **our**
-    *Hint:* You need a possessive adjective before the noun "house".
+7.  He gave the present to ____.
+    A. she B. her C. hers D. they
+    Hint: The word needed is the object pronoun for 'she'. [5A]
+    Correct Answer: B. her
 
-**5.** They don't know the answer. Can you tell ____?
-    A) them
-    B) their
-    C) theirs
-    D) **them**
-    *Hint:* You need an object pronoun after the verb "tell".
+8.  That coat belongs to Mark. It's ____.
+    A. he B. him C. his D. his coat
+    Hint: The word needed is the possessive pronoun for 'he'. Both the possessive determiner and pronoun forms for 'he' are 'his'. [5A]
+    Correct Answer: C. his
 
-**6.** That's not my car. ____ is parked over there.
-    A) My
-    B) Me
-    C) **Mine**
-    D) I
-    *Hint:* You need a possessive pronoun that stands alone, referring to "my car".
+9.  Do you know ____? He's a new student.
+    A. he B. him C. his D. him's
+    Hint: The word needed is the object pronoun for 'he'. [5A]
+    Correct Answer: B. him
 
-**7.** Is this your camera or is it ____?
-    A) hers
-    B) her
-    C) she
-    D) **hers**
-    *Hint:* You need a possessive pronoun that stands alone, referring to "her camera".
+10. We saw ____ parents at the concert.
+    A. they B. them C. their D. theirs
+    Hint: The word needed is a possessive determiner before the noun 'parents'. [5A]
+    Correct Answer: C. their
 
-**8.** He gave ____ a present for my birthday.
-    A) I
-    B) my
-    C) mine
-    D) **me**
-    *Hint:* You need an object pronoun after the verb "gave".
+11. She didn't have an umbrella, so he gave her ____.
+    A. his B. him C. her D. hers
+    Hint: The word needed is the possessive pronoun, replacing 'his umbrella'. [5, footnote]
+    Correct Answer: A. his
 
-**9.** This is ____ new phone. I bought it yesterday.
-    A) I
-    B) me
-    C) mine
-    D) **my**
-    *Hint:* You need a possessive adjective before the noun "phone".
+12. They invited ____ to stay with ____ at ____ house.
+    A. her / we / our B. her / us / our C. she / us / ours D. her / us / ours
+    Hint: The first blank needs an object pronoun, the second an object pronoun, and the third a possessive determiner before 'house'. [5A, 6.2]
+    Correct Answer: B. her / us / our
 
-**10.** She shared ____ lunch with her friend.
-    A) hers
-    B) she
-    C) **her**
-    D) her's
-    *Hint:* You need a possessive adjective before the noun "lunch".
+13. This is ____ problem, not ____.
+    A. my / your B. mine / your C. my / yours D. mine / yours
+    Hint: The first blank needs a possessive determiner before a noun; the second needs a possessive pronoun. [5A]
+    Correct Answer: C. my / yours
 
-**11.** We invited ____ to join us for dinner.
-    A) they
-    B) their
-    C) theirs
-    D) **them**
-    *Hint:* You need an object pronoun after the verb "invited".
+14. ____ are going to the party later.
+    A. We B. Us C. Our D. Ours
+    Hint: The word needed is the subject pronoun for the sentence. [5A]
+    Correct Answer: A. We
 
-**12.** This problem is not ____. It's yours.
-    A) your
-    B) you
-    C) **mine**
-    D) my
-    *Hint:* You need a possessive pronoun that stands alone, contrasting with "yours".
+15. Can ____ help ____ with this?
+    A. I / you B. me / you C. my / your D. mine / yours
+    Hint: The first blank needs a subject pronoun; the second needs an object pronoun (for 'you', both subject and object forms are 'you'). [5A]
+    Correct Answer: A. I / you
 
-**13.** The children are playing with ____ toys.
-    A) theirs
-    B) them
-    C) they
-    D) **their**
-    *Hint:* You need a possessive adjective before the noun "toys".
+16. She gave ____ address and ____ gave ____.
+    A. me / I / her B. my / I / hers C. me / my / her D. I / me / hers
+    Hint: The first blank needs an object pronoun, the second a subject pronoun, and the third an object pronoun. [6.3]
+    Correct Answer: A. me / I / her
 
-**14.** Could you please give ____ the keys?
-    A) I
-    B) my
-    C) mine
-    D) **me**
-    *Hint:* You need an object pronoun after the verb "give".
+17. Is this ____ umbrella? No, it's ____.
+    A. your / your B. yours / your C. your / yours D. yours / yours
+    Hint: The first blank needs a possessive determiner before the noun; the second needs a possessive pronoun. [5, footnote]
+    Correct Answer: C. your / yours
 
-**15.** That's a lovely picture. Did ____ paint it?
-    A) her
-    B) hers
-    C) **she**
-    D) them
-    *Hint:* You need a subject pronoun for the painter of the picture.
+18. They told ____ to wait here.
+    A. we B. us C. our D. ours
+    Hint: The word needed is the object pronoun for 'we'. [5A]
+    Correct Answer: B. us
 
-**16.** This coat is ____. I bought it last week.
-    A) me
-    B) my
-    C) **mine**
-    D) I
-    *Hint:* You need a possessive pronoun to state ownership without a noun.
+19. That's not ____. It's ____. (Referring to something belonging to her, then to him)
+    A. her / his B. hers / him C. hers / his D. her / him
+    Hint: Both blanks need possessive pronouns. [5A]
+    Correct Answer: C. hers / his
 
-**17.** He likes to spend time with ____.
-    A) we
-    B) our
-    C) ours
-    D) **us**
-    *Hint:* You need an object pronoun after the preposition "with".
+20. ____ invited ____ to dinner.
+    A. He / us B. Him / we C. His / our D. He / our
+    Hint: The first blank needs a subject pronoun; the second needs an object pronoun. [5A]
+    Correct Answer: A. He / us
 
-**18.** The dog wagged ____ tail.
-    A) it's
-    B) **its** [123, referencing Unit 59's 'its']
-    C) it
-    D) them
-    *Hint:* You need the possessive form of "it" (possessive adjective) before the noun "tail" [123, 119C].
+21. I bought ____ new shoes.
+    A. I B. me C. my D. mine
+    Hint: The word needed is a possessive determiner before the noun 'shoes'. [5A]
+    Correct Answer: C. my
 
-**19.** She often calls ____ on the phone.
-    A) I
-    B) my
-    C) mine
-    D) **me**
-    *Hint:* You need an object pronoun after the verb "calls".
+22. We went to ____ house for dinner.
+    A. they B. them C. their D. theirs
+    Hint: The word needed is a possessive determiner before the noun 'house'. [5A]
+    Correct Answer: C. their
 
-**20.** Are these shoes ____ or yours?
-    A) your
-    B) you
-    C) **hers**
-    D) her
-    *Hint:* You need a possessive pronoun that stands alone, contrasting with "yours".
+23. This isn't ____ camera. It's ____. (Referring to a camera belonging to 'you', then to 'me')
+    A. your / my B. yours / mine C. your / mine D. yours / my
+    Hint: The first blank needs a possessive determiner, the second needs a possessive pronoun. [5A]
+    Correct Answer: C. your / mine
 
-**21.** We saw ____ at the party.
-    A) they
-    B) their
-    C) theirs
-    D) **them**
-    *Hint:* You need an object pronoun after the verb "saw".
+24. ____ are moving to a new apartment next month.
+    A. We B. Us C. Our D. Ours
+    Hint: The word needed is the subject pronoun. [5A]
+    Correct Answer: A. We
 
-**22.** This is ____ new car. We bought it last week.
-    A) ours
-    B) us
-    C) we
-    D) **our**
-    *Hint:* You need a possessive adjective before the noun "car".
+25. She sent ____ a postcard from her vacation.
+    A. I B. me C. my D. mine
+    Hint: The word needed is the object pronoun. [5A]
+    Correct Answer: B. me
 
-**23.** I live with a friend of ____.
-    A) I
-    B) my
-    C) me
-    D) **mine**
-    *Hint:* This specific phrase uses a possessive pronoun after "a friend of".
+26. Is this ____ pen, or is it Ann's?
+    A. you B. your C. yours D. you're
+    Hint: The word needed is a possessive determiner before the noun 'pen'. [5, footnote]
+    Correct Answer: B. your
 
-**24.** He wants to know ____ address.
-    A) my
-    B) mine
-    C) I
-    D) **my**
-    *Hint:* You need a possessive adjective before the noun "address".
+27. He gave ____ his address.
+    A. I B. me C. my D. mine
+    Hint: The word needed is the object pronoun. [6.3]
+    Correct Answer: B. me
 
-**25.** This isn't ____ camera. I think it's his.
-    A) her
-    B) hers
-    C) she
-    D) **her**
-    *Hint:* You need a possessive adjective before the noun "camera".
+28. They visited ____ in the hospital.
+    A. she B. her C. hers D. they
+    Hint: The word needed is the object pronoun for 'she'. [5A]
+    Correct Answer: B. her
 
-**26.** Please send the letter to ____.
-    A) she
-    B) hers
-    C) her's
-    D) **her**
-    *Hint:* You need an object pronoun after the preposition "to".
+29. ____ know Tom.
+    A. Me B. My C. I D. Mine
+    Hint: The word needed is the subject pronoun. [5A]
+    Correct Answer: C. I
 
-**27.** We stayed at ____ house last night.
-    A) they
-    B) them
-    C) theirs
-    D) **their**
-    *Hint:* You need a possessive adjective before the noun "house".
-
-**28.** The blue book is ____. The red one is mine.
-    A) her
-    B) she
-    C) **hers**
-    D) her's
-    *Hint:* You need a possessive pronoun that stands alone, indicating possession.
-
-**29.** ____ gave the presentation very well.
-    A) Them
-    B) Their
-    C) Theirs
-    D) **They**
-    *Hint:* You need a subject pronoun because it's the subject of the verb "gave".
-
-**30.** That cat is always playing with ____ tail.
-    A) it's
-    B) **its** [123, referencing Unit 59's 'its']
-    C) it
-    D) them
-    *Hint:* You need the possessive adjective for a thing ("the cat") before the noun "tail" [123, 119C].
+30. We can't remember ____ name.
+    A. he B. him C. his D. he's
+    Hint: The word needed is a possessive determiner before the noun 'name'. [6.1]
+    Correct Answer: C. his

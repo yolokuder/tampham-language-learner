@@ -1,293 +1,243 @@
-Certainly! I can help you practice the grammar points from Unit 44 of "Essential Grammar in Use". Unit 44 focuses on forming questions using **'who'** and **'what'**, specifically distinguishing whether 'who' or 'what' is the **subject** or the **object** of the verb in the question.
+Here are 30 quiz questions designed to help you practice the grammar points of Unit 44, which focuses on forming questions where "who" or "what" is either the subject or the object of the verb.
 
-Here are 30 multiple-choice questions to help you practice, along with a hint for each and the correct answers.
+***
 
----
+1.  Somebody saw Paul.
+    A) Who did somebody see?
+    B) Who did Paul see?
+    C) **Who saw Paul?**
+    D) Who does Paul see?
+    **Hint:** When "who" is the **subject** of the verb, you do not use "do," "does," or "did" in the question [8A]. The structure is "Who + verb."
+    **Answer:** C) **Who saw Paul?**
 
-### Unit 44: Practice Questions
+2.  Paul saw somebody.
+    A) Who saw Paul?
+    B) **Who did Paul see?**
+    C) Who does Paul see?
+    D) Who is Paul seeing?
+    **Hint:** When "who" is the **object** of the verb, you use "do," "does," or "did" before the subject and the base form of the main verb [8A]. The structure is "Who + did + subject + verb."
+    **Answer:** B) **Who did Paul see?**
 
-**Instructions:** Choose the best option (A, B, C, or D) to complete each question.
+3.  Something happened.
+    A) What did happen?
+    B) **What happened?**
+    C) What does happen?
+    D) What is happening?
+    **Hint:** When "what" is the **subject** of the verb, you do not use "do," "does," or "did" [8B]. The structure is "What + verb."
+    **Answer:** B) **What happened?**
 
-1.  Somebody called you.
-    A) Who did call you?
-    B) Who called you?
-    C) What called you?
-    D) Who does call you?
+4.  You said something.
+    A) What said you?
+    B) What you said?
+    C) **What did you say?**
+    D) What do you say?
+    **Hint:** When "what" is the **object** of the verb, you use "do," "does," or "did" before the subject and the base form of the main verb [8B].
+    **Answer:** C) **What did you say?**
 
-2.  She saw somebody.
-    A) Who did she see?
-    B) Who saw she?
-    C) What did she see?
-    D) Whom did she see?
+5.  Somebody lives in this house.
+    A) Who does live in this house?
+    B) Who is living in this house?
+    C) **Who lives in this house?**
+    D) Who did live in this house?
+    **Hint:** When "who" is the **subject** of the verb in the present simple, you use "Who + verb (s/es)" without "do/does" [8B].
+    **Answer:** C) **Who lives in this house?**
 
-3.  Something broke the window.
-    A) What did break the window?
-    B) What broke the window?
-    C) Who broke the window?
-    D) What does break the window?
+6.  You met somebody yesterday.
+    A) Who met you yesterday?
+    B) Who do you meet yesterday?
+    C) **Who did you meet yesterday?**
+    D) Who were you meeting yesterday?
+    **Hint:** When "who" is the **object** of the verb in the past simple, you use "Who + did + subject + base verb" [8B].
+    **Answer:** C) **Who did you meet yesterday?**
 
-4.  He ate something.
-    A) What did he eat?
-    B) What ate he?
-    C) Who did he eat?
-    D) What does he eat?
+7.  Sylvia was wearing something.
+    A) What Sylvia was wearing?
+    B) What did Sylvia wear?
+    C) **What was Sylvia wearing?**
+    D) What is Sylvia wearing?
+    **Hint:** When "what" is the **object** in a continuous tense, the auxiliary "be" verb (was/were) comes before the subject, similar to other question forms [8B].
+    **Answer:** C) **What was Sylvia wearing?**
 
-5.  Someone lives in that house.
-    A) Who lives in that house?
-    B) Who does live in that house?
-    C) Who did live in that house?
-    D) What lives in that house?
+8.  George likes oranges.
+    A) What likes George?
+    B) What do George like?
+    C) **What does George like?**
+    D) What is George liking?
+    **Hint:** When "what" is the **object** in the present simple, you use "What + does + subject + base verb" [8C].
+    **Answer:** C) **What does George like?**
 
-6.  They played something.
-    A) What played they?
-    B) What did they play?
-    C) Who did they play?
-    D) What do they play?
+9.  Jill won some money.
+    A) What did Jill win?
+    B) What won Jill?
+    C) **Who won some money?**
+    D) Who did win some money?
+    **Hint:** When "who" is the **subject** of the verb in the past simple, you do not use "did" [8C].
+    **Answer:** C) **Who won some money?**
 
-7.  A noise woke him up.
-    A) What did wake him up?
-    B) What woke him up?
-    C) Who woke him up?
-    D) What does wake him up?
+10. Somebody wrote this book.
+    A) What wrote this book?
+    B) **Who wrote this book?**
+    C) Who did write this book?
+    D) Who was writing this book?
+    **Hint:** If "somebody" is the subject, "who" replaces it directly without "do/does/did" [8A].
+    **Answer:** B) **Who wrote this book?**
 
-8.  She helped somebody.
-    A) Who helped she?
-    B) Who did she help?
-    C) What did she help?
-    D) Who does she help?
-
-9.  Something arrived in the mail.
-    A) What did arrive in the mail?
-    B) What arrived in the mail?
-    C) Who arrived in the mail?
-    D) What does arrive in the mail?
-
-10. You bought something.
+11. You bought something.
     A) What bought you?
-    B) What did you buy?
-    C) Who did you buy?
-    D) What do you buy?
+    B) **What did you buy?**
+    C) What do you buy?
+    D) What were you buying?
+    **Hint:** To ask about the object in the past simple, use "What + did + subject + base verb" [9.2.1].
+    **Answer:** B) **What did you buy?**
 
-11. Somebody wants to talk to you.
-    A) Who wants to talk to you?
-    B) Who do want to talk to you?
-    C) What wants to talk to you?
-    D) Who did want to talk to you?
+12. The dog broke the vase.
+    A) What did the dog break?
+    B) **Who broke the vase?**
+    C) What broke the vase?
+    D) Who did break the vase?
+    **Hint:** To ask about the subject, "who" replaces it directly. If the subject is an animal, "who" is usually used if the animal is personified or known, otherwise "what" [8A, 8C]. Given the options, "Who" is implied.
+    **Answer:** B) **Who broke the vase?**
 
-12. He found something interesting.
-    A) What found he interesting?
-    B) What did he find interesting?
-    C) Who did he find interesting?
-    D) What does he find interesting?
+13. The noise woke me up.
+    A) Who woke you up?
+    B) **What woke you up?**
+    C) What did wake you up?
+    D) What was waking you up?
+    **Hint:** When "what" is the **subject** of the action (the noise), you don't use "do/does/did" [8B].
+    **Answer:** B) **What woke you up?**
 
-13. The storm caused damage.
-    A) What caused the storm?
-    B) What did the storm cause?
-    C) Who caused the storm?
-    D) What does the storm cause?
+14. Somebody has my key.
+    A) Who does have your key?
+    B) Who has your key?
+    C) **Who's got my key?**
+    D) Who did get your key?
+    **Hint:** When "who" is the **subject** with "have got," the structure is "Who's got..." [8B].
+    **Answer:** C) **Who's got my key?**
 
-14. Somebody cleaned the room.
-    A) Who cleaned the room?
-    B) Who did clean the room?
-    C) What cleaned the room?
-    D) Who does clean the room?
+15. You saw a film.
+    A) Who did you see a film?
+    B) What saw you?
+    C) **What did you see?**
+    D) What do you see?
+    **Hint:** To ask about the object of "see" in the past, use "What + did + subject + base verb" [8A].
+    **Answer:** C) **What did you see?**
 
-15. She prefers something.
-    A) What prefers she?
-    B) What does she prefer?
-    C) Who does she prefer?
-    D) What do she prefer?
+16. My friend helped me.
+    A) Who did help you?
+    B) **Who helped you?**
+    C) Who does help you?
+    D) What helped you?
+    **Hint:** "Who" is the **subject** here, so no "did" is needed [8A].
+    **Answer:** B) **Who helped you?**
 
-16. Somebody gave you this book.
-    A) Who gave you this book?
-    B) Who did give you this book?
-    C) What gave you this book?
-    D) Who does give you this book?
+17. I met John at the party.
+    A) What did you meet?
+    B) **Who did you meet at the party?**
+    C) Who met you at the party?
+    D) Who do you meet at the party?
+    **Hint:** "Who" is the **object** of the verb, requiring "did" [8B].
+    **Answer:** B) **Who did you meet at the party?**
 
-17. You are looking for somebody.
-    A) Who are you looking for?
-    B) Who do you look for?
-    C) What are you looking for?
-    D) Who is looking for you?
+18. Ann called somebody.
+    A) Who called Ann?
+    B) Who does Ann call?
+    C) **Who did Ann call?**
+    D) Who was Ann calling?
+    **Hint:** "Who" is the **object** of the verb "call," so "did" is needed for the past simple [8A].
+    **Answer:** C) **Who did Ann call?**
 
-18. The dog bit somebody.
-    A) Who bit the dog?
-    B) Who did the dog bite?
-    C) What did the dog bite?
-    D) Who does the dog bite?
+19. A car hit the tree.
+    A) What did hit the tree?
+    B) Who hit the tree?
+    C) **What hit the tree?**
+    D) What was hitting the tree?
+    **Hint:** "What" is the **subject** of the verb "hit," so no auxiliary verb "did" is used [8A].
+    **Answer:** C) **What hit the tree?**
 
-19. Something is missing from the table.
-    A) What is missing from the table?
-    B) What does miss from the table?
-    C) Who is missing from the table?
-    D) What did miss from the table?
+20. Someone called me last night.
+    A) Who did call you last night?
+    B) **Who called you last night?**
+    C) Who does call you last night?
+    D) What called you last night?
+    **Hint:** When "who" is the **subject** of the action, the question structure is "Who + verb" [9.2.2].
+    **Answer:** B) **Who called you last night?**
 
-20. She knows somebody.
-    A) Who knows she?
-    B) Who does she know?
-    C) What does she know?
-    D) Who is she knowing?
+21. I bought something for my birthday.
+    A) What bought you for your birthday?
+    B) Who did you buy for your birthday?
+    C) **What did you buy for your birthday?**
+    D) What do you buy for your birthday?
+    **Hint:** "What" is the **object** of "buy," so "did" is required for the past simple [9.2.1].
+    **Answer:** C) **What did you buy for your birthday?**
 
-21. This package contains something.
-    A) What contains this package?
-    B) What does this package contain?
-    C) Who does this package contain?
-    D) What do this package contain?
+22. A funny story made me laugh.
+    A) Who made you laugh?
+    B) **What made you laugh?**
+    C) What did make you laugh?
+    D) Why did make you laugh?
+    **Hint:** "What" (the story) is the **subject** that caused the action, so no "did" is used [9.1.4, implied].
+    **Answer:** B) **What made you laugh?**
 
-22. Somebody found my keys.
-    A) Who found my keys?
-    B) Who did find my keys?
-    C) What found my keys?
-    D) Who does find my keys?
+23. People are waiting.
+    A) What are waiting?
+    B) **Who is waiting?**
+    C) Who are waiting?
+    D) Who do wait?
+    **Hint:** "Who" replaces the subject "people." Even though "people" is plural, the question "Who is..." is common when asking about an unknown single person or a group acting as a single entity (implied subject reference). "Who are waiting?" is also grammatically correct for plural subjects, but "Who is waiting?" is often used when the exact number isn't known or implied. The example for unit 44 is "Who lives in this house?". Let's look at 43.1. "Are you eating?" [6A] indicates that "Are" would be used for plural subject. However, for "who" as subject, the unit emphasizes simple verb form (no auxiliary) or 'is' for continuous. The question "Who is coming?" [9.1.5] implies "who" takes singular verb when it's the subject.
+    **Answer:** B) **Who is waiting?**
 
-23. You prefer something.
-    A) What prefer you?
-    B) What do you prefer?
-    C) Who do you prefer?
-    D) What does you prefer?
+24. You saw a lot of friends.
+    A) What did you see?
+    B) What do you see?
+    C) **Who did you see?**
+    D) Who saw you?
+    **Hint:** "Who" is the **object** of the verb "see," requiring "did" [8A].
+    **Answer:** C) **Who did you see?**
 
-24. Something made her cry.
-    A) What did make her cry?
-    B) What made her cry?
-    C) Who made her cry?
-    D) What does make her cry?
+25. The alarm woke me up.
+    A) Who woke you up?
+    B) Who did wake you up?
+    C) **What woke you up?**
+    D) What did wake you up?
+    **Hint:** "What" (the alarm) is the **subject** of the verb, so "did" is not used [8B, implied].
+    **Answer:** C) **What woke you up?**
 
-25. He telephoned somebody.
-    A) Who telephoned he?
-    B) Who did he telephone?
-    C) What did he telephone?
-    D) Who does he telephone?
+26. She knows somebody.
+    A) Who knows her?
+    B) **Who does she know?**
+    C) Who is knowing her?
+    D) Who know she?
+    **Hint:** "Who" is the **object** of the verb "know," requiring "does" for present simple [8A, 8B].
+    **Answer:** B) **Who does she know?**
 
-26. Somebody lives next door.
-    A) Who lives next door?
-    B) Who does live next door?
-    C) What lives next door?
-    D) Who did live next door?
+27. Your car needs something.
+    A) What does your car need?
+    B) What needs your car?
+    C) **What does your car need?**
+    D) Who needs your car?
+    **Hint:** "What" is the **object** of "needs," so "does" is used for the present simple question [8C].
+    **Answer:** C) **What does your car need?**
 
-27. The news upset somebody.
-    A) Who upset the news?
-    B) Who did the news upset?
-    C) What did the news upset?
-    D) Who does the news upset?
+28. Somebody closed the door.
+    A) What closed the door?
+    B) **Who closed the door?**
+    C) Who did close the door?
+    D) Who was closing the door?
+    **Hint:** When "who" is the **subject** of the verb, you don't use "did" [8A].
+    **Answer:** B) **Who closed the door?**
 
-28. You read something interesting.
-    A) What read you interesting?
-    B) What did you read interesting?
-    C) Who did you read interesting?
-    D) What do you read interesting?
+29. You heard something on the radio.
+    A) What heard you on the radio?
+    B) **What did you hear on the radio?**
+    C) What do you hear on the radio?
+    D) Who did you hear on the radio?
+    **Hint:** "What" is the **object** of the verb "hear," so "did" is necessary for the past simple question [8B, implied].
+    **Answer:** B) **What did you hear on the radio?**
 
-29. Somebody paid for the meal.
-    A) Who paid for the meal?
-    B) Who did pay for the meal?
-    C) What paid for the meal?
-    D) Who does pay for the meal?
-
-30. She saw something unusual.
-    A) What saw she unusual?
-    B) What did she see unusual?
-    C) Who did she see unusual?
-    D) What does she see unusual?
-
----
-
-### Hints and Answers
-
-Unit 44 distinguishes between questions where 'who' or 'what' is the **subject** of the verb and questions where 'who' or 'what' is the **object** of the verb [90, Section A, B].
-
-*   **Rule 1: When 'who' or 'what' is the subject** of the sentence, we do not use auxiliary verbs like 'do', 'does', or 'did'. The word order is usually **'Who/What + verb...'** (e.g., "Who saw Paul?", "What happened?") [90, Section A, B].
-*   **Rule 2: When 'who' or 'what' is the object** of the verb, we use auxiliary verbs 'do', 'does', or 'did' (for simple present/past) before the subject, and the main verb is in its base (infinitive) form (e.g., "Who did Sylvia see?", "What did Paul say?") [90, Section A, B].
-*   Remember that **'who'** is used for **people** and **'what'** is used for **things or ideas** [90, Section B, C].
-
----
-
-**Answers:**
-
-1.  **B) Who called you?**
-    *   Hint: 'Somebody' is the **subject** of 'called'. When 'Who' is the subject, you do not use 'did' [90, Section A].
-
-2.  **A) Who did she see?**
-    *   Hint: 'Somebody' is the **object** of 'saw'. Use 'did' + base form of the verb 'see' for a past simple object question [90, Section A, B].
-
-3.  **B) What broke the window?**
-    *   Hint: 'Something' is the **subject** of 'broke'. When 'What' is the subject, you do not use 'did' [90, Section B, "What happened?"].
-
-4.  **A) What did he eat?**
-    *   Hint: 'Something' is the **object** of 'ate'. Use 'did' + base form of the verb 'eat' [90, Section B].
-
-5.  **A) Who lives in that house?**
-    *   Hint: 'Someone' is the **subject** of 'lives'. When 'Who' is the subject, you do not use 'does' [90, Section A].
-
-6.  **B) What did they play?**
-    *   Hint: 'Something' is the **object** of 'played'. Use 'did' + base form of the verb 'play' [90, Section B].
-
-7.  **B) What woke him up?**
-    *   Hint: 'A noise' is the **subject** of 'woke'. When 'What' is the subject, you do not use 'did' [90, Section B, "What happened?"].
-
-8.  **B) Who did she help?**
-    *   Hint: 'Somebody' is the **object** of 'helped'. Use 'did' + base form of the verb 'help' [90, Section A, B].
-
-9.  **B) What arrived in the mail?**
-    *   Hint: 'Something' is the **subject** of 'arrived'. When 'What' is the subject, you do not use 'did' [90, Section B, "What happened?"].
-
-10. **B) What did you buy?**
-    *   Hint: 'Something' is the **object** of 'bought'. Use 'did' + base form of the verb 'buy' [90, Section B].
-
-11. **A) Who wants to talk to you?**
-    *   Hint: 'Somebody' is the **subject** of 'wants'. When 'Who' is the subject, you do not use 'does' [90, Section A].
-
-12. **B) What did he find interesting?**
-    *   Hint: 'Something' is the **object** of 'found'. Use 'did' + base form of the verb 'find' [90, Section B].
-
-13. **B) What did the storm cause?**
-    *   Hint: 'Damage' (represented by 'What') is the **object** of 'caused'. Use 'did' + base form of the verb 'cause' [90, Section B].
-
-14. **A) Who cleaned the room?**
-    *   Hint: 'Somebody' is the **subject** of 'cleaned'. When 'Who' is the subject, you do not use 'did' [90, Section A].
-
-15. **B) What does she prefer?**
-    *   Hint: 'Something' is the **object** of 'prefers'. Use 'does' + base form of the verb 'prefer' for a present simple object question [90, Section B].
-
-16. **A) Who gave you this book?**
-    *   Hint: 'Somebody' is the **subject** of 'gave'. When 'Who' is the subject, you do not use 'did' [90, Section A].
-
-17. **A) Who are you looking for?**
-    *   Hint: 'Somebody' is the **object** of 'looking for'. For questions in the continuous tense, the auxiliary verb 'are' comes before the subject [88, Section A], and 'do/does/did' are not needed because 'are' is already the auxiliary.
-
-18. **B) Who did the dog bite?**
-    *   Hint: 'Somebody' is the **object** of 'bit'. Use 'did' + base form of the verb 'bite' [90, Section A, B].
-
-19. **A) What is missing from the table?**
-    *   Hint: 'Something' is the **subject** of 'is missing'. Use 'is' directly as the verb for a subject question (similar to 'Who's got my key?') [90, Section B].
-
-20. **B) Who does she know?**
-    *   Hint: 'Somebody' is the **object** of 'knows'. Use 'does' + base form of the verb 'know' for a present simple object question [90, Section B].
-
-21. **B) What does this package contain?**
-    *   Hint: 'Something' is the **object** of 'contains'. Use 'does' + base form of the verb 'contain' for a present simple object question [90, Section B].
-
-22. **A) Who found my keys?**
-    *   Hint: 'Somebody' is the **subject** of 'found'. When 'Who' is the subject, you do not use 'did' [90, Section A].
-
-23. **B) What do you prefer?**
-    *   Hint: 'Something' is the **object** of 'prefer'. Use 'do' + base form of the verb 'prefer' for a present simple object question [90, Section B].
-
-24. **B) What made her cry?**
-    *   Hint: 'Something' is the **subject** of 'made'. When 'What' is the subject, you do not use 'did' [90, Section B, "What happened?"].
-
-25. **B) Who did he telephone?**
-    *   Hint: 'Somebody' is the **object** of 'telephoned'. Use 'did' + base form of the verb 'telephone' [90, Section A, B].
-
-26. **A) Who lives next door?**
-    *   Hint: 'Somebody' is the **subject** of 'lives'. When 'Who' is the subject, you do not use 'does' [90, Section A].
-
-27. **B) Who did the news upset?**
-    *   Hint: 'Somebody' is the **object** of 'upset'. Use 'did' + base form of the verb 'upset' [90, Section A, B].
-
-28. **B) What did you read interesting?**
-    *   Hint: 'Something' is the **object** of 'read'. Use 'did' + base form of the verb 'read' [90, Section B].
-
-29. **A) Who paid for the meal?**
-    *   Hint: 'Somebody' is the **subject** of 'paid'. When 'Who' is the subject, you do not use 'did' [90, Section A].
-
-30. **B) What did she see unusual?**
-    *   Hint: 'Something' is the **object** of 'saw'. Use 'did' + base form of the verb 'see' [90, Section A, B].
+30. My phone rang.
+    A) Who rang your phone?
+    B) Who did ring your phone?
+    C) **What rang?**
+    D) What did ring?
+    **Hint:** "What" (the phone) is the **subject** that performed the action, so no auxiliary verb "did" is used [8B].
+    **Answer:** C) **What rang?**

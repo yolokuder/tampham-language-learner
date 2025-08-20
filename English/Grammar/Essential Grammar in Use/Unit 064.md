@@ -1,262 +1,153 @@
-You're looking to practice Unit 64 of "Essential Grammar in Use," which focuses on the use of **"a" and "an" with singular countable nouns** [129A]. This unit also explains when to use **"a" versus "an" based on sound**, and how **"a/an" is used to classify things or people**, including professions [129B, 129C].
+Here are 30 multiple-choice questions to help you practice the grammar points from **Unit 64 of "Essential Grammar in Use,"** which focuses on the use of **'a' and 'an'**.
 
-Here's a summary of the key grammar points from Unit 64:
+***
 
-*   **"A" for Singular Countable Nouns with Consonant Sounds:** You use **"a"** before a singular countable noun that begins with a consonant sound. This indicates one thing or person [129A].
-    *   Examples include "a camera," "a taxi," and "a beautiful day" [129A].
-    *   It's important to remember that it's about the **sound**, not just the letter. For instance, "a university" and "a European country" use "a" because "uni-" and "Euro-" start with a "y" sound, which is a consonant sound [129B].
-*   **"An" for Singular Countable Nouns with Vowel Sounds:** You use **"an"** before a word that starts with a vowel sound (a, e, i, o, u) [129B].
-    *   Examples include "an apple," "an umbrella," and "an interesting programme" [129B].
-*   **Using "A/An" for Classification and Professions:** You use **"a" or "an"** when you are stating what something is or what a person's job is [129C].
-    *   Examples: "The sun is **a star**," "Football is **a game**," "Dallas is **a city**," "I'm **a dentist**," "He's **an engineer**" [129C].
-*   **"Another":** The word "another" is formed from "an + other" and functions similarly [129B]. For example, "Can I have another cup of tea?" [129B].
+1.  He's got ____ camera.
+    A. a B. an C. the D. some
+    Hint: We use 'a' before words that start with a consonant sound. 'Camera' starts with a 'c' sound [11A].
+    Correct Answer: A. a
 
-Here are 30 multiple-choice questions to help you practice Unit 64, complete with hints and answers:
+2.  She's waiting for ____ taxi.
+    A. a B. an C. the D. one
+    Hint: We use 'a' before words that start with a consonant sound. 'Taxi' starts with a 't' sound [11A].
+    Correct Answer: A. a
 
----
+3.  It's ____ beautiful day.
+    A. a B. an C. the D. much
+    Hint: We use 'a' before words that start with a consonant sound. 'Beautiful' starts with a 'b' sound [11A].
+    Correct Answer: A. a
 
-**Unit 64 Grammar Quiz: a/an ...**
+4.  Do you want ____ apple?
+    A. a B. an C. the D. one
+    Hint: We use 'an' before words that start with a vowel sound (a, e, i, o, u). 'Apple' starts with an 'a' sound [11B].
+    Correct Answer: B. an
 
-**1.** I need to buy ____ new shirt.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "New" starts with a consonant sound. Use "a" before a singular countable noun that begins with a consonant sound [129A].
+5.  I'm going to buy ____ hat and ____ umbrella.
+    A. a / a B. an / an C. a / an D. an / a
+    Hint: 'Hat' starts with a consonant sound, so use 'a'. 'Umbrella' starts with a vowel sound, so use 'an' [11B].
+    Correct Answer: C. a / an
 
-**2.** She works as ____ engineer.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Engineer" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B]. It's also classifying her profession [129C].
+6.  There was ____ interesting programme on TV last night.
+    A. a B. an C. the D. some
+    Hint: 'Interesting' starts with a vowel sound [11B].
+    Correct Answer: B. an
 
-**3.** This is ____ interesting book.
-    A) a
-    B) **an**
-    C) the
-    D) many
-    *Hint:* "Interesting" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+7.  He is ____ university student.
+    A. a B. an C. the D. one
+    Hint: Even though 'university' starts with the letter 'u', it begins with a 'y' consonant sound, so we use 'a' [11B].
+    Correct Answer: A. a
 
-**4.** He wants to be ____ pilot.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Pilot" starts with a consonant sound. Use "a" before a singular countable noun that begins with a consonant sound when classifying a person's job [129C].
+8.  My office is on the first floor. It is ____ office.
+    A. a B. an C. the D. some
+    Hint: 'Office' starts with a vowel sound [11B].
+    Correct Answer: B. an
 
-**5.** My brother is ____ student at university.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* Even though "university" starts with 'u', it has a consonant 'y' sound. Remember to use "a" before words that *sound* like they start with a consonant [129B].
+9.  My flight leaves in ____ hour.
+    A. a B. an C. the D. one
+    Hint: The 'h' in 'hour' is silent, so the word begins with a vowel sound. Therefore, we use 'an' [11B].
+    Correct Answer: B. an
 
-**6.** I saw ____ old car on the street.
-    A) a
-    B) **an**
-    C) the
-    D) one
-    *Hint:* "Old" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+10. This is ____ European country.
+    A. a B. an C. the D. one
+    Hint: Even though 'European' starts with the letter 'e', it begins with a 'y' consonant sound, so we use 'a' [11B].
+    Correct Answer: A. a
 
-**7.** Is there ____ bank near here?
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Bank" starts with a consonant sound. Use "a" before a singular countable noun [129A].
+11. Can I ask you ____ question?
+    A. a B. an C. the D. one
+    Hint: 'Question' starts with a consonant sound [11A].
+    Correct Answer: A. a
 
-**8.** My dream is to travel to ____ European country next year.
-    A) an
-    B) **a**
-    C) the
-    D) one
-    *Hint:* "European" starts with a consonant 'y' sound. Use "a" before words that *sound* like they start with a consonant [129B].
+12. I haven't got ____ car.
+    A. a B. an C. the D. any
+    Hint: 'Car' starts with a consonant sound [11A].
+    Correct Answer: A. a
 
-**9.** She needs ____ umbrella because it's raining.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Umbrella" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+13. She's ____ woman at the bus stop.
+    A. a B. an C. the D. one
+    Hint: 'Woman' starts with a consonant sound [11A].
+    Correct Answer: A. a
 
-**10.** Joe is ____ very nice person.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Very" starts with a consonant sound. Use "a" before a singular countable noun when classifying a person [129C].
+14. The sun is ____ star.
+    A. a B. an C. the D. one
+    Hint: When we say what a thing or a person is, we use 'a' or 'an'. 'Star' starts with a consonant sound [11C].
+    Correct Answer: A. a
 
-**11.** Can I have ____ glass of water, please?
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Glass" starts with a consonant sound. Use "a" before a singular countable noun [129A].
+15. Football is ____ game.
+    A. a B. an C. the D. one
+    Hint: When we say what a thing is, we use 'a' or 'an'. 'Game' starts with a consonant sound [11C].
+    Correct Answer: A. a
 
-**12.** He ate ____ apple for breakfast.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Apple" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+16. Delhi is ____ city in India.
+    A. a B. an C. the D. one
+    Hint: When we say what a place is, we use 'a' or 'an'. 'City' starts with a consonant sound [11C].
+    Correct Answer: A. a
 
-**13.** Dallas is ____ big city in Texas.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Big" starts with a consonant sound. Use "a" before a singular countable noun when classifying a place [129C].
+17. A mouse is ____ animal. It's ____ small animal.
+    A. a / an B. an / an C. a / a D. an / a
+    Hint: 'Animal' starts with a vowel sound, so use 'an'. 'Small' starts with a consonant sound, so use 'a' [11C].
+    Correct Answer: D. an / a
 
-**14.** I have ____ idea for a new project.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Idea" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+18. Joe is ____ very nice person.
+    A. a B. an C. the D. one
+    Hint: When we say what a person is, we use 'a' or 'an'. 'Very' starts with a consonant sound [11C].
+    Correct Answer: A. a
 
-**15.** He is ____ honest man.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Honest" starts with 'h' but the 'h' is silent, so it has a vowel sound. Therefore, "an" is used. (This rule is consistent with the "sound" focus in [129B]).
+19. What's your job? I'm ____ dentist.
+    A. a B. an C. the D. one
+    Hint: When stating someone's job, we use 'a' or 'an'. 'Dentist' starts with a consonant sound [11C].
+    Correct Answer: A. a
 
-**16.** This is ____ useful tool.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Useful" starts with a 'y' consonant sound, similar to "university" in the source [129B].
+20. What does Mark do? He's ____ engineer.
+    A. a B. an C. the D. one
+    Hint: When stating someone's job, we use 'a' or 'an'. 'Engineer' starts with a vowel sound [11C].
+    Correct Answer: B. an
 
-**17.** She needs ____ new job.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "New" starts with a consonant sound. Use "a" before a singular countable noun [129A].
+21. Beethoven was ____ composer.
+    A. a B. an C. the D. one
+    Hint: When stating what a person was, we use 'a' or 'an'. 'Composer' starts with a consonant sound [11C].
+    Correct Answer: A. a
 
-**18.** I'd like ____ orange, please.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Orange" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+22. Picasso was ____ famous painter.
+    A. a B. an C. the D. one
+    Hint: 'Famous' starts with a consonant sound. Used for professions/roles [11C].
+    Correct Answer: A. a
 
-**19.** The sun is ____ star.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Star" starts with a consonant sound. Use "a" before a singular countable noun when classifying it [129C].
+23. Are you ____ student?
+    A. a B. an C. the D. one
+    Hint: 'Student' starts with a consonant sound. Used for roles [11C].
+    Correct Answer: A. a
 
-**20.** My father is ____ doctor.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Doctor" starts with a consonant sound. Use "a" before a singular countable noun when classifying a person's job [129C].
+24. Would you like ____ cup of coffee?
+    A. a B. an C. the D. another
+    Hint: 'Cup' starts with a consonant sound [11A].
+    Correct Answer: A. a
 
-**21.** We had ____ excellent meal last night.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Excellent" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+25. I need ____ new car.
+    A. a B. an C. the D. some
+    Hint: 'New' starts with a consonant sound [11A].
+    Correct Answer: A. a
 
-**22.** Can you give me ____ example?
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Example" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
+26. Do you need ____ umbrella?
+    A. a B. an C. the D. one
+    Hint: 'Umbrella' starts with a vowel sound [11B].
+    Correct Answer: B. an
 
-**23.** She bought ____ beautiful dress.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Beautiful" starts with a consonant sound. Use "a" before a singular countable noun [129A].
+27. Can you give me ____ example?
+    A. a B. an C. the D. one
+    Hint: 'Example' starts with a vowel sound [11B].
+    Correct Answer: B. an
 
-**24.** He is ____ actor.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Actor" starts with a vowel sound. Use "an" before a word starting with a vowel sound when classifying a person's job [129C].
+28. My sister wants ____ job in the city.
+    A. a B. an C. the D. some
+    Hint: 'Job' starts with a consonant sound [11A].
+    Correct Answer: A. a
 
-**25.** I saw ____ UFO last night.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "UFO" (pronounced "yoo-eff-oh") starts with a consonant 'y' sound. Use "a" before words that *sound* like they start with a consonant [129B, similar to "university"].
+29. She gave me ____ address.
+    A. a B. an C. the D. one
+    Hint: 'Address' starts with a vowel sound [11B].
+    Correct Answer: B. an
 
-**26.** My mother needs ____ hour to get ready.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Hour" starts with 'h' but the 'h' is silent, so it has a vowel sound. Therefore, "an" is used. (This rule is consistent with the "sound" focus in [129B]).
-
-**27.** Do you have ____ pen I can borrow?
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Pen" starts with a consonant sound. Use "a" before a singular countable noun [129A].
-
-**28.** She is ____ dentist.
-    A) an
-    B) **a**
-    C) the
-    D) some
-    *Hint:* "Dentist" starts with a consonant sound. Use "a" before a singular countable noun when classifying a person's job [129C].
-
-**29.** We live in ____ old house.
-    A) a
-    B) **an**
-    C) the
-    D) some
-    *Hint:* "Old" starts with a vowel sound. Use "an" before a word starting with a vowel sound [129B].
-
-**30.** Can I have ____ another slice of cake?
-    A) a
-    B) an
-    C) the
-    D) **another**
-    *Hint:* The word "another" itself already combines "an" and "other," meaning "one more" [129B].
-
----
-**Correct Answers:**
-
-1.  **B) a**
-2.  **B) an**
-3.  **B) an**
-4.  **B) a**
-5.  **B) a**
-6.  **B) an**
-7.  **B) a**
-8.  **B) a**
-9.  **B) an**
-10. **B) a**
-11. **B) a**
-12. **B) an**
-13. **B) a**
-14. **B) an**
-15. **B) an**
-16. **B) a**
-17. **B) a**
-18. **B) an**
-19. **B) a**
-20. **B) a**
-21. **B) an**
-22. **B) an**
-23. **B) a**
-24. **B) an**
-25. **B) a**
-26. **B) an**
-27. **B) a**
-28. **B) a**
-29. **B) an**
-30. **D) another**
+30. We live in ____ old house.
+    A. a B. an C. the D. one
+    Hint: 'Old' starts with a vowel sound [11B].
+    Correct Answer: B. an

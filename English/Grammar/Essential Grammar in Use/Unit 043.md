@@ -1,299 +1,243 @@
-Certainly! I can help you practice the grammar points from Unit 43 of "Essential Grammar in Use". Unit 43 focuses on forming **questions** using various auxiliary verbs, including 'am', 'is', 'are', 'was', 'were', 'have', 'has', 'will', 'can', 'could', 'must', 'should', and 'do', 'does', 'did' [88, Section A, B]. It also covers negative questions with 'Why' [88, Section C].
-
-Here are 30 multiple-choice questions to help you practice, along with a hint for each and the correct answers.
-
----
-
-### Unit 43: Practice Questions
-
-**Instructions:** Choose the best option (A, B, C, or D) to complete each question.
-
-1.  You are tired. ____ you tired?
-    A) Do
-    B) Are
-    C) Is
-    D) Have
-
-2.  She is working now. ____ she working?
-    A) Do
-    B) Does
-    C) Is
-    D) Has
-
-3.  They are happy. ____ they happy?
-    A) Do
-    B) Are
-    C) Have
-    D) Will
-
-4.  It is raining. ____ it raining?
-    A) Do
-    B) Does
-    C) Is
-    D) Was
-
-5.  You were sleeping. ____ you sleeping when I called?
-    A) Did
-    B) Are
-    C) Were
-    D) Was
-
-6.  He was late for the meeting. ____ he late?
-    A) Did
-    B) Was
-    C) Is
-    D) Were
-
-7.  They have arrived. ____ they arrived yet?
-    A) Do
-    B) Are
-    C) Have
-    D) Did
-
-8.  She has finished her homework. ____ she finished?
-    A) Do
-    B) Does
-    C) Has
-    D) Is
-
-9.  You have a car. ____ you got a car?
-    A) Do
-    B) Are
-    C) Have
-    D) Did
-
-10. He has a brother. ____ he got a brother?
-    A) Do
-    B) Has
-    C) Is
-    D) Does
-
-11. I can swim. ____ I swim well?
-    A) Do
-    B) Am
-    C) Can
-    D) Should
-
-12. They will come to the party. ____ they come tomorrow?
-    A) Do
-    B) Are
-    C) Have
-    D) Will
-
-13. You should go. ____ you go to the doctor?
-    A) Do
-    B) Are
-    C) Should
-    D) Will
-
-14. He must leave. ____ he leave now?
-    A) Does
-    B) Is
-    C) Must
-    D) Will
-
-15. She could hear me. ____ she hear me from the other room?
-    A) Did
-    B) Was
-    C) Could
-    D) Has
-
-16. You like chocolate. ____ you like chocolate?
-    A) Are
-    B) Do
-    C) Have
-    D) Will
-
-17. He works hard. ____ he work hard every day?
-    A) Is
-    B) Does
-    C) Has
-    D) Will
-
-18. They live in London. ____ they live in London?
-    A) Are
-    B) Do
-    C) Have
-    D) Will
-
-19. She plays the guitar. ____ she play the guitar often?
-    A) Is
-    B) Does
-    C) Has
-    D) Will
-
-20. It often rains here. ____ it often rain in this city?
-    A) Is
-    B) Does
-    C) Has
-    D) Will
-
-21. They watched TV. ____ they watch TV yesterday?
-    A) Do
-    B) Did
-    C) Were
-    D) Had
-
-22. She went home. ____ she go home early?
-    A) Did
-    B) Does
-    C) Was
-    D) Has
-
-23. You had dinner. ____ you have dinner last night?
-    A) Did
-    B) Do
-    C) Were
-    D) Had
-
-24. He played tennis yesterday. ____ he play tennis yesterday afternoon?
-    A) Does
-    B) Was
-    C) Did
-    D) Had
-
-25. He isn't here. Why ____ he here?
-    A) isn't
-    B) doesn't
-    C) didn't
-    D) hasn't
-
-26. You don't like coffee. Why ____ you like coffee?
-    A) aren't
-    B) don't
-    C) haven't
-    D) didn't
-
-27. She didn't call me. Why ____ she call me last night?
-    A) isn't
-    B) doesn't
-    C) didn't
-    D) hasn't
-
-28. They aren't going. Why ____ they going to the concert?
-    A) don't
-    B) aren't
-    C) didn't
-    D) haven't
-
-29. He hasn't eaten. Why ____ he eaten anything yet?
-    A) isn't
-    B) doesn't
-    C) didn't
-    D) hasn't
-
-30. You couldn't come. Why ____ you come to the party?
-    A) didn't
-    B) couldn't
-    C) weren't
-    D) haven't
-
----
-
-### Hints and Answers
-
-Here are the hints and correct answers for the practice questions, drawing directly from Unit 43 of "Essential Grammar in Use":
-
-*   **Rule 1: Questions with 'am/is/are', 'was/were', 'have/has', or modal verbs (like 'can', 'will', 'could', 'must', 'should')**
-    *   To form these questions, place the **first verb** (the auxiliary or modal) **before the subject** [88, Section A].
-
-*   **Rule 2: Questions with 'do/does' (present simple) or 'did' (past simple)**
-    *   When the main verb is not 'be' or an auxiliary 'have' (as in 'have got' or present perfect), use **'do' or 'does'** for present simple questions, and **'did'** for past simple questions [88, Section B].
-    *   The **main verb** that follows 'do/does/did' must be in its **infinitive (base) form** [88, Section B].
-
-*   **Rule 3: 'Why' + negative questions**
-    *   To form these, use 'Why' followed by the **negative form of the auxiliary or modal verb** (e.g., isn't, don't, didn't, hasn't, couldn't) before the subject [88, Section C].
-
----
-
-**Answers:**
-
-1.  **B) Are**
-    *   Hint: For questions with 'are', place 'are' before the subject 'you' [88, Section A].
-
-2.  **C) Is**
-    *   Hint: For questions in the present continuous, place 'is' before the subject 'she' [88, Section A].
-
-3.  **B) Are**
-    *   Hint: For questions with 'are', place 'are' before the subject 'they' [88, Section A].
-
-4.  **C) Is**
-    *   Hint: For questions in the present continuous, place 'is' before the subject 'it' [88, Section A].
-
-5.  **C) Were**
-    *   Hint: For questions in the past continuous, place 'were' before the subject 'you' [88, Section A].
-
-6.  **B) Was**
-    *   Hint: For questions with 'was', place 'was' before the subject 'he' [88, Section A].
-
-7.  **C) Have**
-    *   Hint: For questions in the present perfect, place 'have' before the subject 'they' [88, Section A].
-
-8.  **C) Has**
-    *   Hint: For questions in the present perfect, place 'has' before the subject 'she' [88, Section A].
-
-9.  **C) Have**
-    *   Hint: For questions with 'have got' (to show possession), place 'have' before the subject 'you' [88, Section A].
-
-10. **B) Has**
-    *   Hint: For questions with 'has got' (to show possession), place 'has' before the subject 'he' [88, Section A].
-
-11. **C) Can**
-    *   Hint: For questions with the modal verb 'can', place 'can' before the subject 'I' [88, Section A].
-
-12. **D) Will**
-    *   Hint: For questions with the modal verb 'will', place 'will' before the subject 'they' [88, Section A].
-
-13. **C) Should**
-    *   Hint: For questions with the modal verb 'should', place 'should' before the subject 'you' [88, Section A, general rule for first verb before subject applies].
-
-14. **C) Must**
-    *   Hint: For questions with the modal verb 'must', place 'must' before the subject 'he' [88, Section A, general rule for first verb before subject applies].
-
-15. **C) Could**
-    *   Hint: For questions with the modal verb 'could', place 'could' before the subject 'she' [88, Section A, general rule for first verb before subject applies].
-
-16. **B) Do**
-    *   Hint: For present simple questions with 'you', use **'Do'** followed by the base form of the main verb 'like' [88, Section B].
-
-17. **B) Does**
-    *   Hint: For present simple questions with 'he', use **'Does'** followed by the base form of the main verb 'work' [88, Section B].
-
-18. **B) Do**
-    *   Hint: For present simple questions with 'they', use **'Do'** followed by the base form of the main verb 'live' [88, Section B].
-
-19. **B) Does**
-    *   Hint: For present simple questions with 'she', use **'Does'** followed by the base form of the main verb 'play' [88, Section B].
-
-20. **B) Does**
-    *   Hint: For present simple questions with 'it', use **'Does'** followed by the base form of the main verb 'rain' [88, Section B].
-
-21. **B) Did**
-    *   Hint: For past simple questions, use **'Did'** followed by the base form of the main verb 'watch' [88, Section B].
-
-22. **A) Did**
-    *   Hint: For past simple questions, use **'Did'** followed by the base form of the main verb 'go' [88, Section B].
-
-23. **A) Did**
-    *   Hint: For past simple questions using 'have' as a main verb, use **'Did'** followed by the base form 'have' [88, Section B].
-
-24. **C) Did**
-    *   Hint: For past simple questions, use **'Did'** followed by the base form of the main verb 'play' [88, Section B].
-
-25. **A) isn't**
-    *   Hint: For 'Why' + negative questions with 'be' in the present tense, use **'Why isn't'** [88, Section C].
-
-26. **B) don't**
-    *   Hint: For 'Why' + negative questions in the present simple with 'you', use **'Why don't'** [88, Section C].
-
-27. **C) didn't**
-    *   Hint: For 'Why' + negative questions in the past simple, use **'Why didn't'** [88, Section C].
-
-28. **B) aren't**
-    *   Hint: For 'Why' + negative questions in the present continuous, use **'Why aren't'** [88, Section C, applies the general rule for 'Why' + negative auxiliary].
-
-29. **D) hasn't**
-    *   Hint: For 'Why' + negative questions in the present perfect, use **'Why hasn't'** [88, Section C, applies the general rule for 'Why' + negative auxiliary].
-
-30. **B) couldn't**
-    *   Hint: For 'Why' + negative questions with the modal 'could', use **'Why couldn't'** [88, Section C, applies the general rule for 'Why' + negative auxiliary].
+Here are 30 quiz questions related to the grammar points of Unit 43, which focuses on forming various types of questions, including those with "is/are," "have/has," "do/does/did," and "Why + negative."
+
+***
+
+1.  Your friend is happy.
+    A) Happy your friend is?
+    B) **Is your friend happy?**
+    C) Does your friend happy?
+    D) Are your friend happy?
+    **Hint:** To form a question with the verb "to be" in the present, place "is" or "are" before the subject [6A].
+    **Answer:** B) **Is your friend happy?**
+
+2.  They are at work.
+    A) At work are they?
+    B) Do they at work?
+    C) Is they at work?
+    D) **Are they at work?**
+    **Hint:** When forming questions with "be" verbs, the verb comes before the subject [6A].
+    **Answer:** D) **Are they at work?**
+
+3.  She was angry.
+    A) Angry was she?
+    B) **Was she angry?**
+    C) Did she angry?
+    D) She was angry?
+    **Hint:** For questions with "be" verbs in the past tense, place "was" or "were" before the subject [6A].
+    **Answer:** B) **Was she angry?**
+
+4.  You were tired yesterday.
+    A) Tired were you yesterday?
+    B) Did you tired yesterday?
+    C) Are you tired yesterday?
+    D) **Were you tired yesterday?**
+    **Hint:** To ask about a past state with "be," use "were" before the subject [6A].
+    **Answer:** D) **Were you tired yesterday?**
+
+5.  It is working yesterday.
+    A) **Was it working yesterday?**
+    B) Is it working yesterday?
+    C) Did it working yesterday?
+    D) It was working yesterday?
+    **Hint:** For a past continuous action, the correct form of "be" (was/were) should come before the subject [6A].
+    **Answer:** A) **Was it working yesterday?**
+
+6.  He has finished his homework.
+    A) He has finished his homework?
+    B) Finished has he his homework?
+    C) Did he finished his homework?
+    D) **Has he finished his homework?**
+    **Hint:** To form a present perfect question, place "have" or "has" before the subject [6A].
+    **Answer:** D) **Has he finished his homework?**
+
+7.  You have seen that film.
+    A) Seen you have that film?
+    B) **Have you seen that film?**
+    C) Did you seen that film?
+    D) Has you seen that film?
+    **Hint:** For present perfect questions, "have" comes before the subject [6A].
+    **Answer:** B) **Have you seen that film?**
+
+8.  They will be here tomorrow.
+    A) They will be here tomorrow?
+    B) Be they will here tomorrow?
+    C) Do they will be here tomorrow?
+    D) **Will they be here tomorrow?**
+    **Hint:** To ask about a future event with "will," place "will" before the subject [6A].
+    **Answer:** D) **Will they be here tomorrow?**
+
+9.  She can swim.
+    A) Can swim she?
+    B) **Can she swim?**
+    C) Does she can swim?
+    D) Is she can swim?
+    **Hint:** For modal verbs like "can," the modal verb comes before the subject in a question [6A].
+    **Answer:** B) **Can she swim?**
+
+10. You could help me.
+    A) Help you could me?
+    B) **Could you help me?**
+    C) Did you could help me?
+    D) Are you could help me?
+    **Hint:** To ask with a modal verb like "could," place it before the subject [6A].
+    **Answer:** B) **Could you help me?**
+
+11. I must leave now.
+    A) Leave I must now?
+    B) Do I must leave now?
+    C) I must leave now?
+    D) **Must I leave now?**
+    **Hint:** For modal verbs like "must," the modal verb comes before the subject [6A].
+    **Answer:** D) **Must I leave now?**
+
+12. We should call them.
+    A) Call we should them?
+    B) Do we should call them?
+    C) We should call them?
+    D) **Should we call them?**
+    **Hint:** To give advice or ask about obligation with "should," place "should" before the subject [6A].
+    **Answer:** D) **Should we call them?**
+
+13. You would like some tea.
+    A) Like you would some tea?
+    B) Do you would like some tea?
+    C) **Would you like some tea?**
+    D) Are you would like some tea?
+    **Hint:** For "would like," the verb "would" comes before the subject in a question [6A].
+    **Answer:** C) **Would you like some tea?**
+
+14. I work in a bank.
+    A) Work I in a bank?
+    B) Am I work in a bank?
+    C) **Do I work in a bank?**
+    D) Does I work in a bank?
+    **Hint:** For questions in the present simple tense with a main verb (not "be" or "have"), use "do" or "does" [6B].
+    **Answer:** C) **Do I work in a bank?**
+
+15. Chris works hard.
+    A) Works Chris hard?
+    B) Do Chris work hard?
+    C) **Does Chris work hard?**
+    D) Is Chris work hard?
+    **Hint:** For a singular subject in the present simple, use "does" followed by the base form of the verb [6B].
+    **Answer:** C) **Does Chris work hard?**
+
+16. They live in London.
+    A) Live they in London?
+    B) **Do they live in London?**
+    C) Are they live in London?
+    D) Does they live in London?
+    **Hint:** For plural subjects in the present simple, use "do" followed by the base form of the verb [6B].
+    **Answer:** B) **Do they live in London?**
+
+17. Liz plays the guitar.
+    A) Plays Liz the guitar?
+    B) Do Liz play the guitar?
+    C) **Does Liz play the guitar?**
+    D) Is Liz play the guitar?
+    **Hint:** For a singular subject in the present simple, use "does" with the base form of the verb [6B].
+    **Answer:** C) **Does Liz play the guitar?**
+
+18. You watched television last night.
+    A) Watched you television last night?
+    B) Did you watched television last night?
+    C) Do you watch television last night?
+    D) **Did you watch television last night?**
+    **Hint:** For questions in the past simple tense with a main verb, use "did" followed by the base form of the verb [6B].
+    **Answer:** D) **Did you watch television last night?**
+
+19. She got up early this morning.
+    A) Got up she early this morning?
+    B) Did she got up early this morning?
+    C) Does she get up early this morning?
+    D) **Did she get up early this morning?**
+    **Hint:** In the past simple question form, "did" is used with the base verb [6B].
+    **Answer:** D) **Did she get up early this morning?**
+
+20. They had a good time yesterday.
+    A) Had they a good time yesterday?
+    B) Did they had a good time yesterday?
+    C) Do they have a good time yesterday?
+    D) **Did they have a good time yesterday?**
+    **Hint:** When "have" is a main verb in the past simple, the question uses "did have" [6B].
+    **Answer:** D) **Did they have a good time yesterday?**
+
+21. Why John isn't here?
+    A) Why John isn't here?
+    B) Why doesn't John here?
+    C) Why John not here?
+    D) **Why isn't John here?**
+    **Hint:** For "Why" questions with negative "be" forms, the structure is "Why" + "isn't/aren't" + subject [6C].
+    **Answer:** D) **Why isn't John here?**
+
+22. Why you don't like to work hard?
+    A) Why you don't like to work hard?
+    B) Why not you like to work hard?
+    C) Why you no like to work hard?
+    D) **Why don't you like to work hard?**
+    **Hint:** For "Why" questions with negative "do" forms, the structure is "Why" + "don't/doesn't" + subject + base verb [6C].
+    **Answer:** D) **Why don't you like to work hard?**
+
+23. Why Paula didn't come to the meeting?
+    A) Why Paula didn't come to the meeting?
+    B) Why not Paula come to the meeting?
+    C) Why Paula no come to the meeting?
+    D) **Why didn't Paula come to the meeting?**
+    **Hint:** For "Why" questions with negative "did" forms, the structure is "Why" + "didn't" + subject + base verb [6C].
+    **Answer:** D) **Why didn't Paula come to the meeting?**
+
+24. She is happy with the results.
+    A) Is happy she with the results?
+    B) She is happy with the results?
+    C) Does she happy with the results?
+    D) **Is she happy with the results?**
+    **Hint:** In questions with "is," the word order is "Is" + subject [6A].
+    **Answer:** D) **Is she happy with the results?**
+
+25. The train has left.
+    A) The train has left?
+    B) Left has the train?
+    C) Did the train leave?
+    D) **Has the train left?**
+    **Hint:** To form a present perfect question, the auxiliary verb "has" comes before the subject [6A].
+    **Answer:** D) **Has the train left?**
+
+26. I have a car.
+    A) Have I a car?
+    B) **Do I have a car?**
+    C) Am I have a car?
+    D) Has I a car?
+    **Hint:** When "have" is used as a main verb meaning "possess" in the present simple, use "do/does have" to form a question [6B].
+    **Answer:** B) **Do I have a car?**
+
+27. You like swimming.
+    A) Like you swimming?
+    B) Are you like swimming?
+    C) Does you like swimming?
+    D) **Do you like swimming?**
+    **Hint:** For present simple questions with main verbs, use "do" or "does" before the subject [6B].
+    **Answer:** D) **Do you like swimming?**
+
+28. Ann lives near you.
+    A) Lives Ann near you?
+    B) Do Ann live near you?
+    C) **Does Ann live near you?**
+    D) Is Ann live near you?
+    **Hint:** For singular subjects in the present simple, use "does" with the base form of the verb [6B].
+    **Answer:** C) **Does Ann live near you?**
+
+29. You told anybody what I said.
+    A) Told you anybody what I said?
+    B) **Did you tell anybody what I said?**
+    C) Do you tell anybody what I said?
+    D) Did you told anybody what I said?
+    **Hint:** For past simple questions, use "did" followed by the base form of the verb [6B].
+    **Answer:** B) **Did you tell anybody what I said?**
+
+30. Why you weren't at home?
+    A) Why you weren't at home?
+    B) **Why weren't you at home?**
+    C) Why not you at home?
+    D) Why you no at home?
+    **Hint:** For "Why" questions with negative "be" forms, the structure is "Why" + "wasn't/weren't" + subject [6C].
+    **Answer:** B) **Why weren't you at home?**

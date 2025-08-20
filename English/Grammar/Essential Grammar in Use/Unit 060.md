@@ -1,226 +1,153 @@
-You're ready to tackle Unit 60 of "Essential Grammar in Use," which focuses on **possessive pronouns** such as **"mine, yours, his, hers, ours, theirs,"** and contrasts them with the **possessive adjectives** ("my, your, his, her, its, our, their") [121A, 121B].
+Here are 30 multiple-choice questions to help you practice the grammar points from Unit 60 of "Essential Grammar in Use," focusing on **possessive pronouns** (mine, yours, his, hers, ours, theirs) and related structures like "a friend of mine" and "Whose...?".
 
-Here's a breakdown of the key grammar points from Unit 60:
-*   **Possessive Adjectives vs. Possessive Pronouns**:
-    *   **Possessive adjectives** (my, your, his, her, its, our, their) are used **before a noun** to show possession (e.g., "This is **my** book") [121B].
-    *   **Possessive pronouns** (mine, yours, his, hers, ours, theirs) are used **without a noun** and stand alone, indicating who something belongs to (e.g., "This book is **mine**") [121A, 121B].
-    *   **"His"** is unique because it is the **same form** for both the possessive adjective and the possessive pronoun (e.g., "This is **his** car" and "This car is **his**") [121A].
-    *   The possessive form for "it" is **"its"** (an adjective), but there is **no possessive pronoun form for "it"** (i.e., no "its") [119C, 121A]. Remember the distinction from Unit 59: "its" (possessive) vs. "it's" (it is/it has) [119C].
-*   **Asking about Possession**: We use **"Whose?"** to ask who something belongs to (e.g., "**Whose** book is this?") [121C, 121D].
-*   **"A friend of mine/yours etc."**: This is a specific structure used to mean "one of my friends" (e.g., "I went out with **a friend of mine** yesterday") [121C].
+***
 
-Here are 30 multiple-choice questions to help you practice Unit 60, along with hints and correct answers:
+1.  This isn't my car. It's ____.
+    A. yours B. mine C. hers D. theirs
+    Hint: The possessive pronoun refers to 'I'. [3A]
+    Correct Answer: B. mine
 
----
+2.  We found a dog. I think it's ____.
+    A. her B. our C. ours D. them
+    Hint: The possessive pronoun refers to 'we'. [3A]
+    Correct Answer: C. ours
 
-**Unit 60 Grammar Quiz: Whose is this? It's mine/yours/hers etc.**
+3.  That's not your umbrella. ____ is blue.
+    A. My B. Mine C. Me D. I
+    Hint: The word replaces 'my umbrella'. [3B]
+    Correct Answer: B. Mine
 
-**1.** That's not my coat. ____ is grey.
-    A) Me
-    B) My
-    C) **Mine** [121A]
-    D) I
-    *Hint:* You need a possessive pronoun that stands alone, referring to "my coat" [121A, 121B].
+4.  Is this book ____? No, it's not.
+    A. your B. yours C. you D. your book
+    Hint: The question is addressed to 'you' and needs a possessive pronoun. [3B]
+    Correct Answer: B. yours
 
-**2.** We bought a new car. It's ____.
-    A) Us
-    B) We
-    C) Our
-    D) **Ours** [121A]
-    *Hint:* You need a possessive pronoun to indicate the car belongs to "we" and is used without a noun [121A].
+5.  She has a nice camera. It's ____.
+    A. her B. hers C. she D. her camera
+    Hint: The possessive pronoun refers to 'she'. [3A]
+    Correct Answer: B. hers
 
-**3.** Is this ____ umbrella? No, it's not ____.
-    A) your / mine
-    B) yours / my
-    C) your / my
-    D) **your / mine** [121A, 121B]
-    *Hint:* The first blank needs a possessive adjective before "umbrella," and the second needs a possessive pronoun standing alone [121B].
+6.  They went in our car because ____ was broken.
+    A. their B. theirs C. them D. they
+    Hint: The possessive pronoun replaces 'their car'. [3B]
+    Correct Answer: B. theirs
 
-**4.** He said this book is ____.
-    A) him
-    B) he's
-    C) **his** [121A]
-    D) he
-    *Hint:* "His" is the same form for both possessive adjective and possessive pronoun [121A].
+7.  He didn't have an umbrella, so she gave him ____.
+    A. his B. him C. hers D. her
+    Hint: The object given was 'her umbrella', replaced by a possessive pronoun. [3B]
+    Correct Answer: C. hers
 
-**5.** They are staying at ____ house, not ____.
-    A) their / ours
-    B) theirs / our
-    C) **their / ours** [121A, 121B]
-    D) theirs / ours
-    *Hint:* The first blank needs a possessive adjective before "house," the second needs a possessive pronoun for "we" used without a noun [121B].
+8.  This money is not ____; it's the company's.
+    A. my B. mine C. I D. me
+    Hint: The word replaces 'my money'. [3B]
+    Correct Answer: B. mine
 
-**6.** This is not ____ pen. ____ pen is blue.
-    A) my / Mine
-    B) mine / My
-    C) mine / Mine
-    D) **my / My** [121B]
-    *Hint:* Both blanks require a possessive adjective before the noun "pen" [121B].
+9.  We didn't take their car. We took ____.
+    A. our B. ours C. us D. we
+    Hint: The possessive pronoun refers to 'we'. [3B]
+    Correct Answer: B. ours
 
-**7.** We found a cat, but we don't know ____ owner.
-    A) It's
-    B) **Its** [119C, 121A]
-    C) It
-    D) Them
-    *Hint:* You need the possessive adjective for a thing ("the cat") before "owner" [119C].
+10. Is this ____ pen? No, it's not.
+    A. my B. mine C. I D. me
+    Hint: This is asking about 'my pen'. [3B]
+    Correct Answer: A. my
 
-**8.** ____ car is this parked outside?
-    A) Who
-    B) Whose's
-    C) Who's
-    D) **Whose** [121C, 121D]
-    *Hint:* This word is used to ask about possession [121C, 121D].
+11. Whose bag is this? It's ____.
+    A. Mary B. Mary's C. her D. she
+    Hint: The question asks about possession, and Mary is a person. [3D]
+    Correct Answer: B. Mary's
 
-**9.** She never lends ____ things to anyone.
-    A) she
-    B) hers
-    C) **her** [121B]
-    D) she's
-    *Hint:* You need a possessive adjective that comes before the noun "things" [121B].
+12. I'm meeting a ____ this evening.
+    A. friend of me B. friend of mine C. my friend D. a friend of I
+    Hint: Use the special structure "a friend of mine". [3C]
+    Correct Answer: B. friend of mine
 
-**10.** I met an old friend of ____ at the concert.
-    A) I
-    B) me
-    C) **mine** [121C]
-    D) my
-    *Hint:* This specific phrase uses a possessive pronoun [121C].
+13. Are these books ____ or Sue's?
+    A. your B. yours C. you D. your books
+    Hint: The possessive pronoun refers to 'you' and is used without a noun. [3B]
+    Correct Answer: B. yours
 
-**11.** Are these your keys or are they ____?
-    A) their
-    B) them
-    C) **theirs** [121A]
-    D) they
-    *Hint:* You need a possessive pronoun to stand alone for "they" [121A].
+14. They're John's shoes. They're ____.
+    A. his B. theirs C. him D. he
+    Hint: The possessive pronoun refers to John (male). [3A]
+    Correct Answer: A. his
 
-**12.** That bicycle belongs to him. It's ____.
-    A) he's
-    B) him
-    C) **his** [121A]
-    D) he
-    *Hint:* "His" is the possessive pronoun form for "he" [121A].
+15. Whose is this? It's ____. (Referring to a car belonging to a group of people)
+    A. their B. theirs C. them D. they
+    Hint: The possessive pronoun refers to 'they'. [3D, 3A]
+    Correct Answer: B. theirs
 
-**13.** The children took ____ coats off.
-    A) theirs
-    B) them
-    C) they
-    D) **their** [121B]
-    *Hint:* You need a possessive adjective before the noun "coats" [121B].
+16. Is this camera ____ or hers?
+    A. his B. him C. he D. his camera
+    Hint: The possessive pronoun refers to 'he' and is used without a noun. [3B]
+    Correct Answer: A. his
 
-**14.** ____ a pity that you can't come.
-    A) Its
-    B) **It's** [119C]
-    C) It
-    D) Them
-    *Hint:* This is a contraction of "it is" [119C].
+17. I went out to meet ____.
+    A. a friend of me B. a friend of mine C. my friend D. a friend of I
+    Hint: Use the structure "a friend of mine". [3C]
+    Correct Answer: B. a friend of mine
 
-**15.** We spent the evening with some friends of ____.
-    A) we
-    B) our
-    C) us
-    D) **ours** [121C]
-    *Hint:* This specific phrase uses a possessive pronoun [121C].
+18. He said the problem wasn't ____, but ours.
+    A. his B. him C. he D. her
+    Hint: The possessive pronoun refers to 'he'. [3B]
+    Correct Answer: A. his
 
-**16.** This is not ____ problem, it's ____.
-    A) my / your
-    B) mine / yours
-    C) **my / yours** [121A, 121B]
-    D) mine / your
-    *Hint:* The first blank needs a possessive adjective before "problem," the second needs a possessive pronoun for "you" used without a noun [121B, 121A].
+19. That's Ann's bag. It's ____.
+    A. her B. hers C. she D. Ann's bag
+    Hint: The possessive pronoun refers to 'Ann' (female). [3A]
+    Correct Answer: B. hers
 
-**17.** The dog wagged ____ tail excitedly.
-    A) It's
-    B) **Its** [119C]
-    C) It
-    D) Them
-    *Hint:* You need the possessive adjective for a thing ("the dog") before "tail" [119C].
+20. We don't have ____ problem.
+    A. our B. ours C. us D. we
+    Hint: This requires a possessive determiner before the noun 'problem'. [3B]
+    Correct Answer: A. our
 
-**18.** Is that camera ____? Yes, it's ____.
-    A) her / hers
-    B) hers / her
-    C) her / her
-    D) **hers / hers** [121A, 121B]
-    *Hint:* Both blanks require a possessive pronoun as they are used without a noun [121B, 121A].
+21. I bought this car. It's ____.
+    A. my B. mine C. me D. I
+    Hint: The possessive pronoun refers to 'I'. [3A]
+    Correct Answer: B. mine
 
-**19.** ____ jacket is this? Is it yours?
-    A) Who
-    B) Who's
-    C) **Whose** [121C, 121D]
-    D) Whose's
-    *Hint:* This word is used to ask about possession [121C, 121D].
+22. We often spend time with ____.
+    A. some friends of us B. some friends of ours C. our friends D. some friends of we
+    Hint: Use the structure "some friends of ours". [3C]
+    Correct Answer: B. some friends of ours
 
-**20.** They took a taxi because ____ car wouldn't start.
-    A) theirs
-    B) them
-    C) they
-    D) **their** [121B]
-    *Hint:* You need a possessive adjective before the noun "car" [121B].
+23. This is not ____ house. ____ is much smaller.
+    A. their / Theirs B. theirs / Theirs C. their / Their D. theirs / Their
+    Hint: The first blank needs a possessive determiner with a noun, the second needs a possessive pronoun without one. [3B]
+    Correct Answer: A. their / Theirs
 
-**21.** That's a beautiful house. Is it ____?
-    A) their
-    B) them
-    C) they
-    D) **theirs** [121A]
-    *Hint:* You need a possessive pronoun for "they" used without a noun [121A].
+24. Is that ____ jacket?
+    A. your B. yours C. you D. your jacket
+    Hint: This requires a possessive determiner before the noun 'jacket'. [3B]
+    Correct Answer: A. your
 
-**22.** We left ____ bags at the station.
-    A) ours
-    B) us
-    C) we
-    D) **our** [121B]
-    *Hint:* You need a possessive adjective before the noun "bags" [121B].
+25. The children are playing in ____ garden.
+    A. their B. theirs C. them D. they
+    Hint: This requires a possessive determiner before the noun 'garden'. [3B]
+    Correct Answer: A. their
 
-**23.** That's not ____ phone. ____ is charging.
-    A) her / Her
-    B) hers / Her
-    C) hers / Hers
-    D) **her / Hers** [121A, 121B]
-    *Hint:* The first blank needs a possessive adjective, the second needs a possessive pronoun [121B, 121A].
+26. Whose camera is this? ____ is on the table.
+    A. Mine B. My C. Me D. I
+    Hint: The question asks about possession, and the answer uses a possessive pronoun. [3D, 3A]
+    Correct Answer: A. Mine
 
-**24.** My car is old, but ____ runs perfectly.
-    A) it's
-    B) **its** [119C]
-    C) it
-    D) them
-    *Hint:* You need the possessive adjective for a thing ("my car") before "runs" (implied "engine" or "performance") [119C].
+27. This isn't ____ pen. It's hers.
+    A. my B. mine C. me D. I
+    Hint: This requires a possessive determiner before the noun 'pen'. [3B]
+    Correct Answer: A. my
 
-**25.** This money is ____. You can't take it.
-    A) I
-    B) my
-    C) me
-    D) **mine** [121A]
-    *Hint:* You need a possessive pronoun for "I" used without a noun [121A].
+28. The money on the table is ____.
+    A. my B. mine C. me D. I
+    Hint: The possessive pronoun refers to 'I'. [3A]
+    Correct Answer: B. mine
 
-**26.** They gave me ____ book, but I can't find ____ now.
-    A) their / mine
-    B) theirs / my
-    C) **their / mine** [121A, 121B]
-    D) theirs / mine
-    *Hint:* The first blank needs a possessive adjective, and the second needs a possessive pronoun [121B, 121A].
+29. We usually meet ____.
+    A. a friend of ours B. our friend C. a friend of us D. some friends of ours
+    Hint: This question implies a single friend, use the structure "a friend of ours". [3C]
+    Correct Answer: A. a friend of ours
 
-**27.** I don't know ____ name. Can you tell me?
-    A) his'
-    B) **his** [121A, 121B]
-    C) he
-    D) him
-    *Hint:* "His" is the possessive adjective used before "name" [121B].
-
-**28.** Don't worry about my dog. ____ very friendly.
-    A) Its
-    B) **It's** [119C]
-    C) It
-    D) Them
-    *Hint:* This is a contraction of "it is" [119C].
-
-**29.** The red car is ____. The blue one is ____.
-    A) her / my
-    B) hers / mine
-    C) **hers / mine** [121A]
-    D) her / mine
-    *Hint:* Both blanks require possessive pronouns [121A].
-
-**30.** The company is expanding ____ operations globally.
-    A) It's
-    B) **Its** [119C]
-    C) It
-    D) Them
-    *Hint:* You need the possessive adjective for "the company" (a thing) before "operations" [119C].
+30. Whose car is this? It's ____.
+    A. Ann B. Ann's C. her D. she
+    Hint: The question asks about possession, and Ann is a person. [3D]
+    Correct Answer: B. Ann's
